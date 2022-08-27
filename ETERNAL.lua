@@ -27,6 +27,12 @@ else
 gg.alert('NO DATA')
 MM() end
 end
+function BSDUNLOCKFAST()
+if io.open(UNLOCKSTATUS) ~= nil then BSDFAST()
+else
+gg.alert('NO DATA')
+MM() end
+end
 --######################################################
 --main menu 
 gg.toast('CONNECTION SUCCESS')
@@ -40,7 +46,7 @@ local menu = gg.choice({
 'SCAN DATA = MENU',
 '🔯FLY MOD🔯',
 '🔯MANUAL MOVE',
-'🔯',
+'SCAN DATA FAST (DUNGEON MAP LV12)',
 '🔯',
 '🔯',
 '🔯',
@@ -55,7 +61,7 @@ elseif menu == 1 then NODATA()
 elseif menu == 2 then BSDUNLOCK()
 elseif menu == 3 then FLYDMOD()
 elseif menu == 4 then MANUALMOVE()
-elseif menu == 5 then NODATA()
+elseif menu == 5 then BSDUNLOCKFAST()
 elseif menu == 6 then NODATA()
 elseif menu == 7 then NODATA()
 elseif menu == 8 then NODATA()
@@ -245,7 +251,6 @@ t[7].name = 'FLY'
 REMOVE1()
 REMOVE2()
 REMOVE3()
-MAPWD()
 end
 
 function VGSCANWD()
@@ -294,7 +299,6 @@ t[7].name = 'FLY'
 REMOVE1()
 REMOVE2()
 REMOVE3()
-MAPWH()
 end
 
 function VGSCANWH()
@@ -344,7 +348,6 @@ t[7].name = 'FLY'
 REMOVE1()
 REMOVE2()
 REMOVE3()
-MAPPN()
 end
 
 function VGSCANPN()
@@ -394,7 +397,6 @@ t[7].name = 'FLY'
 REMOVE1()
 REMOVE2()
 REMOVE3()
-MAPDL()
 end
 
 function VGSCANDL()
@@ -419,6 +421,69 @@ end
 --******************************************************************************************************************
 
 
+function BSDFAST() --				START BASIC SCAN
+menu = gg.multiChoice({
+'GROUND SCAN',
+'VISUAL GROUND SCAN (OPTIONAL)',
+'README - HOW TO USE',
+},info,'SCAN ON DUNGEON NORMAL LV12') or nil
+if menu == nil then gg.setVisible(false) return nil end
+if menu[1] then GSCANDG1() end
+if menu[2] then VGSCANDG1() end
+if menu[3] then READMEBSD() end
+end
+
+function GSCANDG1()
+	gg.clearResults()
+gg.alert('DO NOT MOVE DURING SCANNING, AND DO NOT RIDE MOUNT !!')
+REMOVEGR()
+REMOVELR()
+REMOVEUD()
+REMOVEFLY()
+local gg = gg
+	gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("0.0F;0.01F~0.03F;0.5F;0.01999999955F::101", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+local t = gg.getResults(10, nil, nil, nil, nil, nil, nil, nil, nil)
+t[1].name = 'LR'
+t[2].name = 'GR'
+t[3].name = 'UD'
+t[4].name = 'REMOVE1'
+t[5].name = 'REMOVE2'
+t[6].name = 'REMOVE3'
+t[7].name = 'REMOVE1'
+t[8].name = 'REMOVE2'
+t[9].name = 'REMOVE3'
+t[10].name = 'FLY'
+			gg.addListItems(t)
+			t = nil
+	gg.clearResults()
+REMOVE1()
+REMOVE2()
+REMOVE3()
+end
+
+
+
+function VGSCANDG1()
+REMOVEVGR()
+REMOVEVLR()
+REMOVEVUD()
+local gg = gg
+	gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("0.0F;0.01F~0.03F;0.5F;0D;0D;0D;1F~1.06F;1F~1.06F;1F~1.06F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;1.0F;1.0F;1.0F;1.0F::89", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("0.0F;0.01F~0.03F;0.5F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+local t = gg.getResults(3, nil, nil, nil, nil, nil, nil, nil, nil)
+t[1].name = 'VLR'
+t[2].name = 'VGR'
+t[3].name = 'VUD'
+			gg.addListItems(t)
+			t = nil
+	gg.clearResults()
+
+end
+--******************************************************************************************************************
+--******************************************************************************************************************
+--******************************************************************************************************************
 
 
 
