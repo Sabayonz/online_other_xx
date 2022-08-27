@@ -143,6 +143,11 @@ if menu[4] then GSCANDL() end
 if menu[8] then VGSCANWH() end
 if menu[9] then VGSCANPN() end
 if menu[10] then VGSCANDL() end
+if menu[13] then READMEBSD() end
+end
+
+function READMEBSD()
+gg.toast('MANUAL MOVE OR DIRECTLY TELEPORT TO THE SPECIFIC TELEPORT SPOT ON EACH REGION MAP, THEN DO THE SCAN, DO NOT MOVE DURING SCANNING, VISUAL DATA ARE ONLY VISUAL, ITS OPTIONAL BUT RECOMENDED')
 end
 
 --******************************************************************************************************************
