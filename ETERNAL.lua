@@ -114,17 +114,43 @@ gg.alert('NO DATA')
 MM() end
 end
 
-function BSD() --				START BASIC SCAN
-menu = gg.multiChoice({
-'1. GROUND SCAN',
-'2. VISUAL GROUND SCAN (optional)',
-},info,'BASIC SCAN DATA') or nil
-if menu == nil then gg.setVisible(false) return nil end
-if menu[1] then GSCAN() end
-if menu[2] then VGSCAN() end
+function NILNIL()
+gg.toast('  ')
 end
 
-function GSCAN()
+
+function BSD() --				START BASIC SCAN
+menu = gg.multiChoice({
+'GROUND SCAN ,PICK ONE ONLY::',
+'1.WINDY HILL - 1ST TRAINING CENTER',
+'2.PARNUS - HENDRIK GARDEN',
+'3.DEELAND - DEELAND REGION BASE',
+' ',
+' ',
+' ',
+'VISUAL GROUND SCAN ,PICK ONE ONLY::',
+'1.WINDY HILL - 1ST TRAINING CENTER',
+'2.PARNUS - HENDRIK GARDEN',
+'3.DEELAND - DEELAND REGION BASE',
+' ',
+' ',
+'README - HOW TO USE',
+},info,'BASIC SCAN DATA') or nil
+if menu == nil then gg.setVisible(false) return nil end
+if menu[2] then GSCANWH() end
+if menu[3] then GSCANPN() end
+if menu[4] then GSCANDL() end
+if menu[8] then VGSCANWH() end
+if menu[9] then VGSCANPN() end
+if menu[10] then VGSCANDL() end
+end
+
+--******************************************************************************************************************
+--******************************************************************************************************************
+--******************************************************************************************************************
+-- WINDY HILL - 1ST TRAINING CENTER
+function GSCANWH()
+	gg.clearResults()
 gg.alert('DO NOT MOVE DURING SCANNING !!')
 REMOVEGR()
 REMOVELR()
@@ -132,29 +158,31 @@ REMOVEUD()
 REMOVEFLY()
 local gg = gg
 	gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("-9999F~9999F;0D;0D;1065353216D;0D;0D;1114636288D;1084227584D;1116471296D;0D;0D;0D;1D;1065353216D;0.01999999955F;0D;1048576000D::109", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.searchNumber("-186F~-180F;85F~95F;16F~23F;0D;0D;1114636288D;1084227584D;1116471296D;0D;0D;0D;1065353216D;0.01999999955F;0D;1040000000D~1060000000D:109", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
 gg.refineNumber("-9999F~9999F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
-local t = gg.getResults(6, nil, nil, nil, nil, nil, nil, nil, nil)
+local t = gg.getResults(7, nil, nil, nil, nil, nil, nil, nil, nil)
 t[1].name = 'LR'
 t[2].name = 'GR'
 t[3].name = 'UD'
 t[4].name = 'REMOVE1'
 t[5].name = 'REMOVE2'
-t[6].name = 'FLY'
+t[6].name = 'REMOVE3'
+t[7].name = 'FLY'
 			gg.addListItems(t)
 			t = nil
 	gg.clearResults()
 REMOVE1()
 REMOVE2()
+REMOVE3()
 end
 
-function VGSCAN()
+function VGSCANWH()
 REMOVEVGR()
 REMOVEVLR()
 REMOVEVUD()
 local gg = gg
 	gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("-9999F~9999F;0D;0D;0D;1065772646D;1065772646D;1065772646D;0D;0D;0D;0D;0D;0D;0D;0D;1065353216D;1065353216D;1065353216D;1065353216D::89", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.searchNumber("-186F~-180F;85F~95F;16F~23F;0D;0D;0D;1065772646D;1065772646D;1065772646D;0D;0D;0D;0D;0D;0D;0D;0D;1065353216D;1065353216D;1065353216D;1065353216D::89", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
 gg.refineNumber("-9999F~9999F;0D;0D::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
 local t = gg.getResults(3, nil, nil, nil, nil, nil, nil, nil, nil)
 t[1].name = 'VLR'
@@ -165,6 +193,145 @@ t[3].name = 'VUD'
 	gg.clearResults()
 
 end
+--******************************************************************************************************************
+--******************************************************************************************************************
+--******************************************************************************************************************
+
+-- PARNUS - HENDRIK GARDEN
+function GSCANPN()
+	gg.clearResults()
+gg.alert('DO NOT MOVE DURING SCANNING !!')
+REMOVEGR()
+REMOVELR()
+REMOVEUD()
+REMOVEFLY()
+local gg = gg
+	gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("-428F~-420F;58F~63F;-381F~-378F;0D;0D;1114636288D;1084227584D;1116471296D;0D;0D;0D;1065353216D;0.01999999955F;0D;1040000000D~1060000000D:109", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("-9999F~9999F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+local t = gg.getResults(8, nil, nil, nil, nil, nil, nil, nil, nil)
+t[1].name = 'LR'
+t[2].name = 'GR'
+t[3].name = 'UD'
+t[4].name = 'REMOVE1'
+t[5].name = 'REMOVE2'
+t[6].name = 'REMOVE3'
+t[7].name = 'REMOVE3'
+t[8].name = 'FLY'
+			gg.addListItems(t)
+			t = nil
+	gg.clearResults()
+REMOVE1()
+REMOVE2()
+REMOVE3()
+end
+
+function VGSCANPN()
+REMOVEVGR()
+REMOVEVLR()
+REMOVEVUD()
+local gg = gg
+	gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("-428F~-420F;58F~63F;-381F~-378F;0D;0D;0D;1065772646D;1065772646D;1065772646D;0D;0D;0D;0D;0D;0D;0D;0D;1065353216D;1065353216D;1065353216D;1065353216D::89", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("-9999F~9999F;0D;0D::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+local t = gg.getResults(3, nil, nil, nil, nil, nil, nil, nil, nil)
+t[1].name = 'VLR'
+t[2].name = 'VGR'
+t[3].name = 'VUD'
+			gg.addListItems(t)
+			t = nil
+	gg.clearResults()
+
+end
+--******************************************************************************************************************
+--******************************************************************************************************************
+--******************************************************************************************************************
+
+-- DEELAND - DEELAND REGION BASE
+function GSCANDL()
+	gg.clearResults()
+gg.alert('DO NOT MOVE DURING SCANNING !!')
+REMOVEGR()
+REMOVELR()
+REMOVEUD()
+REMOVEFLY()
+local gg = gg
+	gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("620F~625F;205F~215F;-650F~-635F;0D;0D;1114636288D;1084227584D;1116471296D;0D;0D;0D;1065353216D;0.01999999955F;0D;1040000000D~1060000000D:109", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("-9999F~9999F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+local t = gg.getResults(7, nil, nil, nil, nil, nil, nil, nil, nil)
+t[1].name = 'LR'
+t[2].name = 'GR'
+t[3].name = 'UD'
+t[4].name = 'REMOVE1'
+t[5].name = 'REMOVE2'
+t[6].name = 'REMOVE3'
+t[7].name = 'FLY'
+			gg.addListItems(t)
+			t = nil
+	gg.clearResults()
+REMOVE1()
+REMOVE2()
+REMOVE3()
+end
+
+function VGSCANDL()
+REMOVEVGR()
+REMOVEVLR()
+REMOVEVUD()
+local gg = gg
+	gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("620F~625F;205F~215F;-650F~-645F;0D;0D;0D;1065772646D;1065772646D;1065772646D;0D;0D;0D;0D;0D;0D;0D;0D;1065353216D;1065353216D;1065353216D;1065353216D::89", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("-9999F~9999F;0D;0D::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+local t = gg.getResults(3, nil, nil, nil, nil, nil, nil, nil, nil)
+t[1].name = 'VLR'
+t[2].name = 'VGR'
+t[3].name = 'VUD'
+			gg.addListItems(t)
+			t = nil
+	gg.clearResults()
+
+end
+--******************************************************************************************************************
+--******************************************************************************************************************
+--******************************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 --########################################################--########################################################
