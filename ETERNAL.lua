@@ -205,7 +205,7 @@ end
 -- PARNUS - HENDRIK GARDEN
 function GSCANPN()
 	gg.clearResults()
-gg.alert('DO NOT MOVE DURING SCANNING, AND DO NOT RIDE MOUNT !!')
+gg.alert('DO NOT MOVE DURING SCANNING, AND DO NOT RIDE MOUNT !!!')
 REMOVEGR()
 REMOVELR()
 REMOVEUD()
@@ -348,14 +348,16 @@ menu = gg.choice({
 '1. FLY LV1',
 '2. FLY LV2',
 '3. FLY LV3',
-'4. BACK NORMAL',
+'4. FLY LV4',
+'5. BACK NORMAL',
 'MAIN MENU'},Last,' FLYMOD ') or nil
 if menu == nil then gg.setVisible(false) return nil
 elseif menu == 1 then FLYA()
 elseif menu == 2 then FLYB()
 elseif menu == 3 then FLYC()
 elseif menu == 4 then FLYD()
-elseif menu == 5 then MM()
+elseif menu == 5 then FLYE()
+elseif menu == 6 then MM()
 end
 end
 	
@@ -385,9 +387,17 @@ end
 end
 gg.setValues(t)
 end
-	
-	
+
 function FLYD()
+t = gg.getListItems()
+for i, v in ipairs(t) do
+	if v.name == 'FLY'	then v.value = 8
+end
+end
+gg.setValues(t)
+end	
+	
+function FLYE()
 t = gg.getListItems()
 for i, v in ipairs(t) do
 	if v.name == 'FLY'	then v.value = 0.01999999955
