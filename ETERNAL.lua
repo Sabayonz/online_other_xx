@@ -254,7 +254,7 @@ REMOVEVLR()
 REMOVEVUD()
 local gg = gg
 	gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("0D;-480F~-477F;50F~51F;-520F~-516F;0D;0D;0D;1F~1.06F;1F~1.06F;1F~1.06F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;1.0F;1.0F;1.0F;1.0F::93", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.searchNumber("-480F~-477F;50F~51F;-520F~-516F;0D;0D;0D;1F~1.06F;1F~1.06F;1F~1.06F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;1.0F;1.0F;1.0F;1.0F::89", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
 gg.refineNumber("-480F~-477F;50F~51F;-520F~-516F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
 local t = gg.getResults(3, nil, nil, nil, nil, nil, nil, nil, nil)
 t[1].name = 'VLR'
@@ -303,7 +303,7 @@ REMOVEVLR()
 REMOVEVUD()
 local gg = gg
 	gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("0D;-186F~-182F;89F~90F;18F~19F;0D;0D;0D;1F~1.06F;1F~1.06F;1F~1.06F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;1.0F;1.0F;1.0F;1.0F::93", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.searchNumber("-186F~-182F;89F~90F;18F~19F;0D;0D;0D;1F~1.06F;1F~1.06F;1F~1.06F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;1.0F;1.0F;1.0F;1.0F::89", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
 gg.refineNumber("-186F~-182F;89F~90F;18F~19F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
 local t = gg.getResults(3, nil, nil, nil, nil, nil, nil, nil, nil)
 t[1].name = 'VLR'
@@ -353,7 +353,7 @@ REMOVEVLR()
 REMOVEVUD()
 local gg = gg
 	gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("0D;-425F~-420F;60F~61F;-380F~-378F;0D;0D;0D;1F~1.06F;1F~1.06F;1F~1.06F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;1.0F;1.0F;1.0F;1.0F::93", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.searchNumber("-425F~-420F;60F~61F;-380F~-378F;0D;0D;0D;1F~1.06F;1F~1.06F;1F~1.06F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;1.0F;1.0F;1.0F;1.0F::89", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
 gg.refineNumber("-425F~-420F;60F~61F;-380F~-378F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
 local t = gg.getResults(3, nil, nil, nil, nil, nil, nil, nil, nil)
 t[1].name = 'VLR'
@@ -403,7 +403,7 @@ REMOVEVLR()
 REMOVEVUD()
 local gg = gg
 	gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("0D;621F~623F;209F~211F;-645F~-640F;0D;0D;0D;1F~1.06F;1F~1.06F;1F~1.06F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;1.0F;1.0F;1.0F;1.0F::93", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.searchNumber("621F~623F;209F~211F;-645F~-640F;0D;0D;0D;1F~1.06F;1F~1.06F;1F~1.06F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;1.0F;1.0F;1.0F;1.0F::89", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
 gg.refineNumber("621F~623F;209F~211F;-645F~-640F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
 local t = gg.getResults(3, nil, nil, nil, nil, nil, nil, nil, nil)
 t[1].name = 'VLR'
