@@ -443,7 +443,7 @@ REMOVEUD()
 REMOVEFLY()
 local gg = gg
 	gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("0,0F;0,02000001818F;0,5F;0,01999999955F::101", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.searchNumber("0.0F;0.02000001818F;0.5F;0.01999999955F::101", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
 local t = gg.getResults(10, nil, nil, nil, nil, nil, nil, nil, nil)
 t[1].name = 'LR'
 t[2].name = 'GR'
