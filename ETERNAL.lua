@@ -156,6 +156,66 @@ end
 
 
 
+
+
+function MAPWD()
+	gg.clearResults()
+REMOVEMAP()
+local gg = gg
+	gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("76D;1008D~2032D;73D~74D;76D;0D;0D;0D;0D;76D::49", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("73D~74D", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+local t = gg.getResults(1, nil, nil, nil, nil, nil, nil, nil, nil)
+t[1].name = 'MAP'
+			gg.addListItems(t)
+			t = nil
+	gg.clearResults()
+end
+
+
+function MAPPN()
+	gg.clearResults()
+REMOVEMAP()
+local gg = gg
+	gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("76D;1008D~2032D;38D~39D;76D;0D;0D;0D;0D;76D::49", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("38D~39D", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+local t = gg.getResults(1, nil, nil, nil, nil, nil, nil, nil, nil)
+t[1].name = 'MAP'
+			gg.addListItems(t)
+			t = nil
+	gg.clearResults()
+end
+
+function MAPWH()
+	gg.clearResults()
+REMOVEMAP()
+local gg = gg
+	gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("76D;1008D~2032D;36D~37D;76D;0D;0D;0D;0D;76D::49", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("36D~37D", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+local t = gg.getResults(1, nil, nil, nil, nil, nil, nil, nil, nil)
+t[1].name = 'MAP'
+			gg.addListItems(t)
+			t = nil
+	gg.clearResults()
+end
+
+function MAPDL()
+	gg.clearResults()
+REMOVEMAP()
+local gg = gg
+	gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("76D;2032D;21D~22D;76D;0D;0D;0D;0D;76D::49", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("21D~22D", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+local t = gg.getResults(1, nil, nil, nil, nil, nil, nil, nil, nil)
+t[1].name = 'MAP'
+			gg.addListItems(t)
+			t = nil
+	gg.clearResults()
+end
+
+
 --******************************************************************************************************************
 --******************************************************************************************************************
 --******************************************************************************************************************
@@ -169,8 +229,8 @@ REMOVEUD()
 REMOVEFLY()
 local gg = gg
 	gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("-480F~-470F;47F~55F;-520F~-515F;0D;0D;1114636288D;1084227584D;1116471296D;0D;0D;0D;1065353216D;0.01999999955F;0D;1040000000D~1060000000D:109", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("-9999F~9999F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.searchNumber("-480F~-477F;50F~51F;-520F~-516F;0.0F;60.0F;5.0F;0.0F;0.0F;0.0F;1.0F;0.01999999955F;0.0F;0.25F~0.26F;0.0F;0.0F;1.5F~1.7F;0.0F;1.7F~1.9F;0.25F~0.26F::133", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("-480F~-477F;50F~51F;-520F~-516F;0.01999999955F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
 local t = gg.getResults(7, nil, nil, nil, nil, nil, nil, nil, nil)
 t[1].name = 'LR'
 t[2].name = 'GR'
@@ -185,6 +245,7 @@ t[7].name = 'FLY'
 REMOVE1()
 REMOVE2()
 REMOVE3()
+MAPWD()
 end
 
 function VGSCANWD()
@@ -217,15 +278,15 @@ REMOVEUD()
 REMOVEFLY()
 local gg = gg
 	gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("-186F~-180F;85F~95F;16F~23F;0D;0D;1114636288D;1084227584D;1116471296D;0D;0D;0D;1065353216D;0.01999999955F;0D;1040000000D~1060000000D:109", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("-9999F~9999F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.searchNumber("-186F~-182F;89F~90F;18F~19F;0.0F;60.0F;5.0F;0.0F;0.0F;0.0F;1.0F;0.01999999955F;0.0F;0.25F~0.26F;0.0F;0.0F;1.5F~1.7F;0.0F;1.7F~1.9F;0.25F~0.26F::133", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("-186F~-182F;89F~90F;18F~19F;0.01999999955F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
 local t = gg.getResults(7, nil, nil, nil, nil, nil, nil, nil, nil)
 t[1].name = 'LR'
 t[2].name = 'GR'
 t[3].name = 'UD'
 t[4].name = 'REMOVE1'
-t[5].name = 'REMOVE2'
-t[6].name = 'REMOVE3'
+t[5].name = 'REMOVE1'
+t[6].name = 'REMOVE1'
 t[7].name = 'FLY'
 			gg.addListItems(t)
 			t = nil
@@ -233,6 +294,7 @@ t[7].name = 'FLY'
 REMOVE1()
 REMOVE2()
 REMOVE3()
+MAPWH()
 end
 
 function VGSCANWH()
@@ -266,23 +328,23 @@ REMOVEUD()
 REMOVEFLY()
 local gg = gg
 	gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("-428F~-420F;58F~63F;-381F~-378F;0D;0D;1114636288D;1084227584D;1116471296D;0D;0D;0D;1065353216D;0.01999999955F;0D;1040000000D~1060000000D:109", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("-9999F~9999F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
-local t = gg.getResults(8, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.searchNumber("-425F~-420F;60F~61F;-380F~-378F;0.0F;60.0F;5.0F;0.0F;0.0F;0.0F;1.0F;0.01999999955F;0.0F;0.25F~0.26F;0.0F;0.0F;1.5F~1.7F;0.0F;1.7F~1.9F;0.25F~0.26F::133", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("-425F~-420F;60F~61F;-380F~-378F;0.01999999955F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+local t = gg.getResults(7, nil, nil, nil, nil, nil, nil, nil, nil)
 t[1].name = 'LR'
 t[2].name = 'GR'
 t[3].name = 'UD'
 t[4].name = 'REMOVE1'
-t[5].name = 'REMOVE2'
-t[6].name = 'REMOVE3'
-t[7].name = 'REMOVE3'
-t[8].name = 'FLY'
+t[5].name = 'REMOVE1'
+t[6].name = 'REMOVE1'
+t[7].name = 'FLY'
 			gg.addListItems(t)
 			t = nil
 	gg.clearResults()
 REMOVE1()
 REMOVE2()
 REMOVE3()
+MAPPN()
 end
 
 function VGSCANPN()
@@ -316,8 +378,8 @@ REMOVEUD()
 REMOVEFLY()
 local gg = gg
 	gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("620F~625F;205F~215F;-650F~-635F;0D;0D;1114636288D;1084227584D;1116471296D;0D;0D;0D;1065353216D;0.01999999955F;0D;1040000000D~1060000000D:109", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("-9999F~9999F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.searchNumber("621F~623F;209F~211F;-645F~-640F;0.0F;60.0F;5.0F;0.0F;0.0F;0.0F;1.0F;0.01999999955F;0.0F;0.25F~0.26F;0.0F;0.0F;1.5F~1.7F;0.0F;1.7F~1.9F;0.25F~0.26F::133", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("621F~623F;209F~211F;-645F~-640F;0.01999999955F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
 local t = gg.getResults(7, nil, nil, nil, nil, nil, nil, nil, nil)
 t[1].name = 'LR'
 t[2].name = 'GR'
@@ -332,6 +394,7 @@ t[7].name = 'FLY'
 REMOVE1()
 REMOVE2()
 REMOVE3()
+MAPDL()
 end
 
 function VGSCANDL()
@@ -554,7 +617,15 @@ end
 
 
 
-
+function REMOVEMAP()
+local t = gg.getListItems()
+for i, v in ipairs(t) do
+	if v.name ~= 'MAP' then
+	t[i] = nil
+end
+end
+gg.removeListItems(t)
+end
 
 
 function REMOVEVUD()
