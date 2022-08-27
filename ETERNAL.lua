@@ -46,7 +46,7 @@ local menu = gg.choice({
 'SCAN DATA = MENU',
 '🔯FLY MOD🔯',
 '🔯MANUAL MOVE',
-'SCAN DATA FAST (DUNGEON MAP LV12)',
+'🔯',
 '🔯',
 '🔯',
 '🔯',
@@ -61,7 +61,7 @@ elseif menu == 1 then NODATA()
 elseif menu == 2 then BSDUNLOCK()
 elseif menu == 3 then FLYDMOD()
 elseif menu == 4 then MANUALMOVE()
-elseif menu == 5 then BSDUNLOCKFAST()
+elseif menu == 5 then NODATA()
 elseif menu == 6 then NODATA()
 elseif menu == 7 then NODATA()
 elseif menu == 8 then NODATA()
@@ -132,7 +132,7 @@ menu = gg.multiChoice({
 '2.PARNUS - HENDRIK GARDEN',
 '3.DEELAND - DEELAND REGION BASE',
 '4.WARDRA - LAKESIDE TOWN MIZAR OUTSKIRTS',
-' ',
+'5. DUNGEON NORMAL LV12 ENTRANCE',
 ' ',
 ' ',
 'VISUAL GROUND SCAN ,PICK ONE ONLY::',
@@ -149,6 +149,7 @@ if menu[2] then GSCANWH() end
 if menu[3] then GSCANPN() end
 if menu[4] then GSCANDL() end
 if menu[5] then GSCANWD() end
+if menu[6] then GSCANDG1() end
 if menu[10] then VGSCANWH() end
 if menu[11] then VGSCANPN() end
 if menu[12] then VGSCANDL() end
@@ -235,8 +236,8 @@ REMOVEUD()
 REMOVEFLY()
 local gg = gg
 	gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("-480F~-477F;50F~51F;-520F~-516F;0.0F;60.0F;5.0F;0.0F;0.0F;0.0F;1.0F;0.01999999955F;0.0F;0.25F~0.26F;0.0F;0.0F;1.5F~1.7F;0.0F;1.7F~1.9F;0.25F~0.26F::133", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("-480F~-477F;50F~51F;-520F~-516F;0.01999999955F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.searchNumber("-482F~-475F;49F~53F;-522F~-515F;0.0F;60.0F;5.0F;0.0F;0.0F;0.0F;1.0F;0.01999999955F;0.0F;0.25F~0.26F;0.0F;0.0F;1.5F~1.7F;0.0F;1.7F~1.9F;0.25F~0.26F::133", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("-482F~-475F;49F~53F;-522F~-515F;0.01999999955F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
 local t = gg.getResults(7, nil, nil, nil, nil, nil, nil, nil, nil)
 t[1].name = 'LR'
 t[2].name = 'GR'
@@ -259,8 +260,8 @@ REMOVEVLR()
 REMOVEVUD()
 local gg = gg
 	gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("-480F~-477F;50F~51F;-520F~-516F;0D;0D;0D;1F~1.06F;1F~1.06F;1F~1.06F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;1.0F;1.0F;1.0F;1.0F::89", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("-480F~-477F;50F~51F;-520F~-516F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.searchNumber("-482F~-475F;49F~53F;-522F~-515F;0D;0D;0D;1F~1.06F;1F~1.06F;1F~1.06F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;1.0F;1.0F;1.0F;1.0F::89", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("-482F~-475F;49F~53F;-522F~-515F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
 local t = gg.getResults(3, nil, nil, nil, nil, nil, nil, nil, nil)
 t[1].name = 'VLR'
 t[2].name = 'VGR'
@@ -283,8 +284,8 @@ REMOVEUD()
 REMOVEFLY()
 local gg = gg
 	gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("-186F~-182F;89F~90F;18F~19F;0.0F;60.0F;5.0F;0.0F;0.0F;0.0F;1.0F;0.01999999955F;0.0F;0.25F~0.26F;0.0F;0.0F;1.5F~1.7F;0.0F;1.7F~1.9F;0.25F~0.26F::133", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("-186F~-182F;89F~90F;18F~19F;0.01999999955F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.searchNumber("-186F~-182F;89F~90F;18F~21F;0.0F;60.0F;5.0F;0.0F;0.0F;0.0F;1.0F;0.01999999955F;0.0F;0.25F~0.26F;0.0F;0.0F;1.5F~1.7F;0.0F;1.7F~1.9F;0.25F~0.26F::133", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("-186F~-182F;89F~90F;18F~21F;0.01999999955F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
 local t = gg.getResults(7, nil, nil, nil, nil, nil, nil, nil, nil)
 t[1].name = 'LR'
 t[2].name = 'GR'
@@ -307,8 +308,8 @@ REMOVEVLR()
 REMOVEVUD()
 local gg = gg
 	gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("-186F~-182F;89F~90F;18F~19F;0D;0D;0D;1F~1.06F;1F~1.06F;1F~1.06F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;1.0F;1.0F;1.0F;1.0F::89", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("-186F~-182F;89F~90F;18F~19F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.searchNumber("-186F~-182F;89F~90F;18F~21F;0D;0D;0D;1F~1.06F;1F~1.06F;1F~1.06F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;0.0F;1.0F;1.0F;1.0F;1.0F::89", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("-186F~-182F;89F~90F;18F~21F::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
 local t = gg.getResults(3, nil, nil, nil, nil, nil, nil, nil, nil)
 t[1].name = 'VLR'
 t[2].name = 'VGR'
@@ -442,7 +443,7 @@ REMOVEUD()
 REMOVEFLY()
 local gg = gg
 	gg.setRanges(gg.REGION_ANONYMOUS)
-gg.searchNumber("0.0F;0.01F~0.03F;0.5F;0.01999999955F::101", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.searchNumber("0,0F;0,02000001818F;0,5F;0,01999999955F::101", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
 local t = gg.getResults(10, nil, nil, nil, nil, nil, nil, nil, nil)
 t[1].name = 'LR'
 t[2].name = 'GR'
