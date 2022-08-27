@@ -125,6 +125,7 @@ menu = gg.multiChoice({
 '1.WINDY HILL - 1ST TRAINING CENTER',
 '2.PARNUS - HENDRIK GARDEN',
 '3.DEELAND - DEELAND REGION BASE',
+'4.WARDRA - LAKESIDE TOWN MIZAR OUTSKIRTS',
 ' ',
 ' ',
 ' ',
@@ -132,6 +133,7 @@ menu = gg.multiChoice({
 '1.WINDY HILL - 1ST TRAINING CENTER',
 '2.PARNUS - HENDRIK GARDEN',
 '3.DEELAND - DEELAND REGION BASE',
+'4.WARDRA - LAKESIDE TOWN MIZAR OUTSKIRTS',
 ' ',
 ' ',
 'README - HOW TO USE',
@@ -140,16 +142,68 @@ if menu == nil then gg.setVisible(false) return nil end
 if menu[2] then GSCANWH() end
 if menu[3] then GSCANPN() end
 if menu[4] then GSCANDL() end
-if menu[9] then VGSCANWH() end
-if menu[10] then VGSCANPN() end
-if menu[11] then VGSCANDL() end
-if menu[14] then READMEBSD() end
+if menu[5] then GSCANWD() end
+if menu[10] then VGSCANWH() end
+if menu[11] then VGSCANPN() end
+if menu[12] then VGSCANDL() end
+if menu[13] then VGSCANWD() end
+if menu[16] then READMEBSD() end
 end
 
 function READMEBSD()
 gg.alert('MANUAL MOVE OR DIRECTLY TELEPORT TO THE SPECIFIC TELEPORT SPOT ON EACH REGION MAP, THEN DO THE SCAN, DO NOT MOVE DURING SCANNING, VISUAL DATA ARE ONLY VISUAL, ITS OPTIONAL BUT RECOMENDED')
 end
 
+
+
+--******************************************************************************************************************
+--******************************************************************************************************************
+--******************************************************************************************************************
+-- WARDRA
+function GSCANWD()
+	gg.clearResults()
+gg.alert('DO NOT MOVE DURING SCANNING, AND DO NOT RIDE MOUNT !!')
+REMOVEGR()
+REMOVELR()
+REMOVEUD()
+REMOVEFLY()
+local gg = gg
+	gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("-480F~-470F;47F~55F;-520F~-515F;0D;0D;1114636288D;1084227584D;1116471296D;0D;0D;0D;1065353216D;0.01999999955F;0D;1040000000D~1060000000D:109", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("-9999F~9999F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+local t = gg.getResults(7, nil, nil, nil, nil, nil, nil, nil, nil)
+t[1].name = 'LR'
+t[2].name = 'GR'
+t[3].name = 'UD'
+t[4].name = 'REMOVE1'
+t[5].name = 'REMOVE2'
+t[6].name = 'REMOVE3'
+t[7].name = 'FLY'
+			gg.addListItems(t)
+			t = nil
+	gg.clearResults()
+REMOVE1()
+REMOVE2()
+REMOVE3()
+end
+
+function VGSCANWD()
+REMOVEVGR()
+REMOVEVLR()
+REMOVEVUD()
+local gg = gg
+	gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("-480F~-470F;47F~55F;-520F~-515F;0D;0D;0D;1065772646D;1065772646D;1065772646D;0D;0D;0D;0D;0D;0D;0D;0D;1065353216D;1065353216D;1065353216D;1065353216D::89", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
+gg.refineNumber("-9999F~9999F;0D;0D::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1, 0)
+local t = gg.getResults(3, nil, nil, nil, nil, nil, nil, nil, nil)
+t[1].name = 'VLR'
+t[2].name = 'VGR'
+t[3].name = 'VUD'
+			gg.addListItems(t)
+			t = nil
+	gg.clearResults()
+
+end
 --******************************************************************************************************************
 --******************************************************************************************************************
 --******************************************************************************************************************
