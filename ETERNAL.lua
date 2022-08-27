@@ -140,9 +140,9 @@ if menu == nil then gg.setVisible(false) return nil end
 if menu[2] then GSCANWH() end
 if menu[3] then GSCANPN() end
 if menu[4] then GSCANDL() end
-if menu[8] then VGSCANWH() end
-if menu[9] then VGSCANPN() end
-if menu[10] then VGSCANDL() end
+if menu[9] then VGSCANWH() end
+if menu[10] then VGSCANPN() end
+if menu[11] then VGSCANDL() end
 if menu[14] then READMEBSD() end
 end
 
