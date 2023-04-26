@@ -8,3 +8,5 @@ mounttype_offset_mem = [0x38, 0x2D0, 0x18, 0x0, 0x60, 0x14]
 skyscalegreenbaraddress = 0x1089CCE
 
 griffoninstaboostaddress = 0x11CF41B
+
+versionnow = "1.0.0.1"
