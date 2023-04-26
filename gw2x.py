@@ -9,4 +9,4 @@ skyscalegreenbaraddress = 0x1089CCE
 
 griffoninstaboostaddress = 0x11CF41B
 
-versionnow = "1.0.0.1"
+versionnow = "1.0.0.12"
