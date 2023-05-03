@@ -10,3 +10,5 @@ skyscalegreenbaraddress = 0x108C47E
 griffoninstaboostaddress = 0x11D2F0B
 
 versionnow = "1.0.0.1"
+
+mountmasterupdate = "Updated : May 3, 2023"
