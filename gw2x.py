@@ -13,3 +13,8 @@ versionnow = "1.0.0.1"
 
 mountmasterupdate = "Last Update : May 24, 2023"
 
+#write player position
+def writeposition(x, y, z):
+    xpos_data(x * 1.2303)
+    ypos_data(y * 1.2303)
+    zpos_data(z * 1.2303)
