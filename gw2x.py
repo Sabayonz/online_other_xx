@@ -9,9 +9,24 @@ skyscalegreenbaraddress = 0x108DFFE
 
 griffoninstaboostaddress = 0x11D5D2B
 
+#==============
+xpos_base_mem = 0x02737C88
+xpos_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x120]
+
+zpos_base_mem = 0x02737C88
+zpos_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x124]
+
+ypos_base_mem = 0x02737C88
+ypos_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x128]
+#=============
+
+map_addr = 0x279451C
+
+
+
+
 versionnow = "1.0.0.1"
 
 mountmasterupdate = "Last Update : May 24, 2023"
 
-
-
+messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nwell,for now, please enjoy the game in normal mode"
