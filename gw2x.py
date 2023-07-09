@@ -11,6 +11,9 @@ griffoninstaboostaddress = 0x1234E4B
 
 
 #==============
+ground_base_mem = 0x02818650
+ground_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x118]
+
 xpos_base_mem = 0x02818650
 xpos_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x120]
 
@@ -26,6 +29,6 @@ map_addr = 0x2876E2C
 
 versionnow = "1.0.0.1"
 
-mountmasterupdate = "Last Update : June 28, 2023"
+mountmasterupdate = "Last Update : July 9, 2023"
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nwell,for now, please enjoy the game in normal mode"
