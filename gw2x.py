@@ -29,6 +29,6 @@ map_addr = 0x2876E2C
 
 versionnow = "1.0.0.1"
 
-mountmasterupdate = "Last Update : July 9, 2023"
+mountmasterupdate = "Last Update : July 5, 2023 \n JOIN THE DISCORD"
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nwell,for now, please enjoy the game in normal mode"
