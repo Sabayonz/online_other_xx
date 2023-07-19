@@ -1,34 +1,34 @@
-mountstamina_base_mem = 0x02818650
+mountstamina_base_mem = 0x026CC0E0
 mountstamina_offset_mem = [0x38, 0x2D0, 0x18, 0x0, 0x60, 0xC]
 
-mounttype_base_mem = 0x02818650
+mounttype_base_mem = 0x026CC0E0
 mounttype_offset_mem = [0x38, 0x2D0, 0x18, 0x0, 0x60, 0x14]
 
 
-skyscalegreenbaraddress = 0x10EAADE
+skyscalegreenbaraddress = 0x109FA4E
 
-griffoninstaboostaddress = 0x1234E4B
+griffoninstaboostaddress = 0x11EB58B
 
 
 #==============
-ground_base_mem = 0x02818650
+ground_base_mem = 0x026CC0E0
 ground_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x118]
 
-xpos_base_mem = 0x02818650
+xpos_base_mem = 0x026CC0E0
 xpos_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x120]
 
-zpos_base_mem = 0x02818650
+zpos_base_mem = 0x026CC0E0
 zpos_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x124]
 
-ypos_base_mem = 0x02818650
+ypos_base_mem = 0x026CC0E0
 ypos_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x128]
 #=============
 
-map_addr = 0x2876E2C
+map_addr = 0x272AD0C
 
 
 versionnow = "1.0.0.1"
 
-mountmasterupdate = "Last Update : July 9, 2023 \n JOIN THE DISCORD"
+mountmasterupdate = "Last Update : July 19, 2023 \n JOIN THE DISCORD"
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nwell,for now, please enjoy the game in normal mode"
