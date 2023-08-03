@@ -8,6 +8,7 @@ map_addr = 0x272AD0C
 
 
 
+
 mountstamina_base_mem = base_core_address
 mountstamina_offset_mem = [0x38, 0x2D0, 0x18, 0x0, 0x60, 0xC]
 
