@@ -40,7 +40,7 @@ messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task fa
 donator = """
 ==||== \n 
 LEGENDARY COMMANDER : \n
-- \n
+-K W \n
 \n\n
 ASCENDED COMMANDER : \n
 - \n
