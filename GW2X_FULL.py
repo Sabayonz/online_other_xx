@@ -33,7 +33,7 @@ ypos_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x128]
 
 versionnow = "1.0.0.1"
 
-mountmasterupdate = "Last Update : August 2, 2023 \n CLICK HERE FOR LEGEND LIST!"
+mountmasterupdate = "Last Update : August 7, 2023"
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nplease update the trainer"
 
