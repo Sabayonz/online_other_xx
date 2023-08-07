@@ -31,11 +31,11 @@ ypos_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x128]
 #=============
 
 
-versionnow = "1.0.0.1"
+versionnow = "1.0.0.0"
 
 mountmasterupdate = "THIS VERSION IS OBSOLETE \n NEW VERSION AVAILABE !!"
 
-messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nplease update the trainer"
+messagex = "Err:THIS VERSION IS OBSOLETE\nErr:NEW VERSION AVAILABLE\nErr:DOWNLOAD ON DISCORD.\nplease update the trainer"
 
 donator = """
 ==||== \n 
