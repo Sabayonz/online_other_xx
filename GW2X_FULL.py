@@ -4,6 +4,8 @@ skyscalegreenbaraddress = 0x109FA4E
 
 griffoninstaboostaddress = 0x11EB58B
 
+fishingmasteraddress = 0x10A5771
+
 map_addr = 0x272AD0C
 
 
