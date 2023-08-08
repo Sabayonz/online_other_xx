@@ -56,11 +56,11 @@ thanks for your support !
 #=============
 #=============
 
-uuid_saved = ["178BFBFF00800F82","4681-9537-8497-0","BFEBFBFF000A0653","6006-0978-504"]
+uuid_saved = ["178BFBFF00800F82","4681-9537-8497-0","BFEBFBFF000906EA","BFEBFBFF000A0653","6006-0978-504"]
 
 '''
 178BFBFF00800F82 = "sabay"
-6006-0978-504 = kowa
+BFEBFBFF000906EA = kowa
 BFEBFBFF000A0653 = rietzee
 '''
 #=============
