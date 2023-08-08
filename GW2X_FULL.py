@@ -35,7 +35,7 @@ ypos_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x128]
 
 versionnow = "1.0.0.1"
 
-mountmasterupdate = "Last Update : August 7, 2023"
+mountmasterupdate = "Last Update : August 8, 2023"
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nplease update the trainer"
 
@@ -56,7 +56,7 @@ thanks for your support !
 #=============
 #=============
 
-uuid_saved = ["178BFBFF00800F82","1237-1980-3544-930","6006-0978-504"]
+uuid_saved = ["178BFBFF00800F82x","1237-1980-3544-930","6006-0978-504"]
 
 '''
 178BFBFF00800F82 = "sabay"
