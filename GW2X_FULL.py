@@ -45,7 +45,7 @@ LEGENDARY COMMANDER : \n
 -K W \n
 \n\n
 ASCENDED COMMANDER : \n
-- \n
+- R Z \n
 \n\n\n\n
 ============================\n
 name displayed is nickname choosen by the donator\n 
@@ -56,12 +56,12 @@ thanks for your support !
 #=============
 #=============
 
-uuid_saved = ["178BFBFF00800F82","4681-9537-8497-0","1237-1980-3544-930","6006-0978-504"]
+uuid_saved = ["178BFBFF00800F82","4681-9537-8497-0","BFEBFBFF000A0653","6006-0978-504"]
 
 '''
 178BFBFF00800F82 = "sabay"
 6006-0978-504 = kowa
-
+BFEBFBFF000A0653 = rietzee
 '''
 #=============
 #==============
