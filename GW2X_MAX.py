@@ -71,7 +71,7 @@ thanks for your support !
 #=============
 #=============
 
-uuid_saved = ["3678bde5e3","bc9c7d9eb2","178BFBFF00800F82","4681-9537-8497-0","BFEBFBFF000906EA","d72f0e4f08","6006-0978-504"]
+uuid_saved = ["3678bde5e3","bc9c7d9eb2","BFEBFBFF000906EA","d72f0e4f08"]
 
 '''
 3678bde5e3 = intel_power
