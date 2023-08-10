@@ -71,12 +71,12 @@ thanks for your support !
 #=============
 #=============
 
-uuid_saved = ["3678bde5e3","bc9c7d9eb2","BFEBFBFF000906EA","d72f0e4f08"]
+uuid_saved = ["3678bde5e3","bc9c7d9eb2","2fda4ec1b0","d72f0e4f08"]
 
 '''
 3678bde5e3 = intel_power
 bc9c7d9eb2 = sabay
-BFEBFBFF000906EA = kowa
+2fda4ec1b0 = kowa
 d72f0e4f08 = rietzee
 '''
 #=============
