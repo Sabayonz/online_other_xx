@@ -71,9 +71,10 @@ thanks for your support !
 #=============
 #=============
 
-uuid_saved = ["3678bde5e3","bc9c7d9eb2","2fda4ec1b0","d72f0e4f08"]
+uuid_saved = ["f4437fc8fe","3678bde5e3","bc9c7d9eb2","2fda4ec1b0","d72f0e4f08"]
 
 '''
+f4437fc8fe = nemesis
 3678bde5e3 = intel_power
 bc9c7d9eb2 = sabay
 2fda4ec1b0 = kowa
