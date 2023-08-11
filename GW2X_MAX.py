@@ -60,7 +60,7 @@ LEGENDARY COMMANDER : \n
 -K W, -I P \n
 \n\n
 ASCENDED COMMANDER : \n
-- R Z \n
+- R Z , - N M S\n
 \n\n\n\n
 ============================\n
 name displayed is nickname choosen by the donator\n 
