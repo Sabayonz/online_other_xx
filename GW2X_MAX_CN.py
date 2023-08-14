@@ -67,7 +67,7 @@ versionnow = "1.0.0.1"
 
 
 
-mountmasterupdatex = "Last Update : August 12, 2023"
+mountmasterupdatex = "Last Update : August 14, 2023"
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nplease update the trainer"
 
