@@ -73,9 +73,11 @@ thanks for your support !
 #=============
 #=============
 
-uuid_saved = ["d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","bc9c7d9eb2","2fda4ec1b0","d72f0e4f08"]
+uuid_saved = ["b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","bc9c7d9eb2","2fda4ec1b0","d72f0e4f08"]
 
 '''
+
+b275bc6551 = don't mind me
 d05112dc9e = morbiddarkblood
 cf80d1275b = NtajHmoob
 f4437fc8fe = nemesis
