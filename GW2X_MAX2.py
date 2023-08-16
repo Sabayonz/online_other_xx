@@ -63,7 +63,7 @@ LEGENDARY COMMANDER : \n
 -K W, -I P \n
 \n\n
 ASCENDED COMMANDER : \n
-- R Z , - N M S, - N H, -M D B, -J S\n
+- R Z , - N M S, - N H, -M D B, -J S, -J A\n
 \n\n\n\n
 ============================\n
 name displayed is nickname choosen by the donator\n 
@@ -74,10 +74,10 @@ thanks for your support !
 #=============
 #=============
 
-uuid_saved = ["bc9c7d9eb2","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","2fda4ec1b0","d72f0e4f08"]
+uuid_saved = ["6fe74d85f3","bc9c7d9eb2","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","2fda4ec1b0","d72f0e4f08"]
 
 '''
-
+6fe74d85f3 = Jaxx Armstrong
 b275bc6551 = don't mind me
 d05112dc9e = morbiddarkblood
 cf80d1275b = NtajHmoob
