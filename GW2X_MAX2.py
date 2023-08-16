@@ -47,6 +47,7 @@ ypos_base_mem = base_core_address
 ypos_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x128]
 #=============
 
+pvp_pve_map = [549, 1305, 1171, 554, 795, 1163, 900, 894, 875, 95, 96, 1099, 38, 899]
 
 versionnow = "1.0.0.1"
 
