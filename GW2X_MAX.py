@@ -6,7 +6,7 @@ griffoninstaboostaddress = 0x0000000
 
 fishingmasteraddress = 0x0000000
 
-instafishingaddress = 0x022AE2A0
+instafishingaddress = 0x00000000
 
 map_addr = 0x0000000
 
