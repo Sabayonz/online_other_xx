@@ -1,14 +1,14 @@
-base_core_address = 0x026CC0E0
+base_core_address = 0x00000000
 
-skyscalegreenbaraddress = 0x109FA4E
+skyscalegreenbaraddress = 0x0000000
 
-griffoninstaboostaddress = 0x11EB58B
+griffoninstaboostaddress = 0x0000000
 
-fishingmasteraddress = 0x10A5771
+fishingmasteraddress = 0x0000000
 
 instafishingaddress = 0x022AE2A0
 
-map_addr = 0x272AD0C
+map_addr = 0x0000000
 
 
 
