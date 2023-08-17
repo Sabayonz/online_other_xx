@@ -68,7 +68,7 @@ ASCENDED COMMANDER : \n
 ============================\n
 name displayed is nickname choosen by the donator\n 
 consider donating to keep this project alive\n
-thanks for your support !
+thanks for your support !!
 """
 #=============
 #=============
