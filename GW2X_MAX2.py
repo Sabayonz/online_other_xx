@@ -49,7 +49,7 @@ zpos_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x124]
 ypos_base_mem = base_core_address
 ypos_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x128]
 #=============
-
+LWS4_EOD_AND_SOTO_MAP_LIST = [1371, 1015, 1317, 1428, 1422, 1490, 1438, 1442, 1452]
 pvp_pve_map = [350, 549, 1305, 1171, 554, 795, 1163, 900, 894, 875, 95, 96, 1099, 38, 899]
 
 versionnow = "1.0.0.1"
@@ -77,7 +77,7 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["da2569d097","30fac06e50","6fe74d85f3","bc9c7d9eb2","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","2fda4ec1b0","d72f0e4f08"]
+uuid_saved = ["bc9c7d9eb2","da2569d097","30fac06e50","6fe74d85f3","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","2fda4ec1b0","d72f0e4f08"]
 
 '''
 da2569d097 = Varek
