@@ -66,7 +66,8 @@ LEGENDARY COMMANDER : \n
 -K W, -I P, -H W \n
 \n\n
 ASCENDED COMMANDER : \n
-- R Z , - N M S, - N H, -M D B, -J S, -J A, - F C\n -V R
+- R Z , - N M S, - N H, -M D B, -J S, -J A, - F C
+\n -V R
 \n\n\n\n
 ============================\n
 that name displayed is the donator\n
