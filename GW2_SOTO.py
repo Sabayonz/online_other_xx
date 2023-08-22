@@ -69,7 +69,7 @@ ASCENDED COMMANDER : \n
 - R Z , - N M S, - N H, -M D B, -J S, -J A, - F C\n -V R
 \n\n\n\n
 ============================\n
-name displayed is nickname of the donator\n
+that name displayed is the donator\n
 if you donator and want specific nickname, just let me know\n
 consider donating to keep this project alive\n
 thanks for your support !!!
