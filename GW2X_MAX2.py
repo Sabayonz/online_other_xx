@@ -1,14 +1,14 @@
-base_core_address = 0x026CC0E0
+base_core_address = 0x00000000
 
-skyscalegreenbaraddress = 0x109FA4E
+skyscalegreenbaraddress = 0x0000000
 
-griffoninstaboostaddress = 0x11EB58B
+griffoninstaboostaddress = 0x0000000
 
-fishingmasteraddress = 0x10A5818
+fishingmasteraddress = 0x0000000
 
-instafishingaddress = 0x022AE2A0
+instafishingaddress = 0x0000000
 
-map_addr = 0x272AD0C
+map_addr = 0x0000000
 
 
 
@@ -56,7 +56,7 @@ versionnow = "1.0.0.1"
 
 
 
-mountmasterupdatex = "Last Update : August 16, 2023"
+mountmasterupdatex = "NEW GAME PATCH DETECTED\n PLEASE UPDATE THE TRAINER"
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nplease update the trainer"
 
