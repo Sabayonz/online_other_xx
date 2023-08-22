@@ -1,5 +1,21 @@
 #THIS IS CN VERSION
 
+base_core_address = 0x0000000
+
+skyscalegreenbaraddress = 0x0000000
+
+griffoninstaboostaddress = 0x0000000
+
+fishingmasteraddress = 0x0000000
+
+instafishingaddress = 0x0000000
+
+map_addr = 0x0000000
+'''
+boat_accel_address = 0x0223B688
+
+
+
 base_core_address = 0x029D00A0
 
 skyscalegreenbaraddress = 0x10A0E0E
@@ -11,12 +27,6 @@ fishingmasteraddress = 0x10A6C61
 instafishingaddress = 0x022AE2A0
 
 map_addr = 0x2A2ECBC
-'''
-boat_accel_address = 0x0223B688
-
-
-
-
 
 
 boat_speed_offset = [0x28, 0x08, 0x00, 0x1A0, 0x00, 0x2504 ]
@@ -67,7 +77,7 @@ versionnow = "1.0.0.1"
 
 
 
-mountmasterupdatex = "Last Update : August 14, 2023"
+mountmasterupdatex = ""NEW GAME PATCH DETECTED\n PLEASE UPDATE THE TRAINER""
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nplease update the trainer"
 
