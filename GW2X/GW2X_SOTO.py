@@ -1,14 +1,14 @@
-base_core_address = 0x026CC0E0
+base_core_address = 0x026DD4B0
 
-skyscalegreenbaraddress = 0x109FA4E
+skyscalegreenbaraddress = 0x10A5C8E
 
-griffoninstaboostaddress = 0x11EB58B
+griffoninstaboostaddress = 0x11F391B
 
-fishingmasteraddress = 0x10A5818
+fishingmasteraddress = 0x10ABA58
 
-instafishingaddress = 0x022AE2A0
+instafishingaddress = 0x022BF2E0
 
-map_addr = 0x272AD0C
+map_addr = 0x273C1EC
 
 
 
@@ -52,14 +52,14 @@ zpos_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x124]
 ypos_base_mem = base_core_address
 ypos_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x88, 0x78, 0x128]
 #=============
-LWS4_EOD_AND_SOTO_MAP_LIST = [1371, 1015, 1317, 1428, 1422, 1490, 1438, 1442, 1452]
+LWS4_EOD_AND_SOTO_MAP_LIST = [1510, 1371, 1015, 1317, 1428, 1422, 1490, 1438, 1442, 1452]
 pvp_pve_map = [350, 549, 1305, 1171, 554, 795, 1163, 900, 894, 875, 95, 96, 1099, 38, 899]
 
 versionnow = "1.0.0.1"
 
 
 
-mountmasterupdatex = "Last Update : August 16, 2023"
+mountmasterupdatex = "Secrets of the Obscure Update\nLast Update : August 22, 2023"
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nplease update the trainer"
 
