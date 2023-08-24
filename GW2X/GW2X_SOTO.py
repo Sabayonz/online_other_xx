@@ -1,14 +1,14 @@
-base_core_address = 0x026DD4C0
+base_core_address = 0x026E04C0
 
-skyscalegreenbaraddress = 0x10A5C8E
+skyscalegreenbaraddress = 0x10A76EE
 
-griffoninstaboostaddress = 0x11F391B
+griffoninstaboostaddress = 0x11F591B
 
-fishingmasteraddress = 0x10ABA58
+fishingmasteraddress = 0x10AD848
 
-instafishingaddress = 0x022BF2E0
+instafishingaddress = 0x022C22E0
 
-map_addr = 0x273C1FC
+map_addr = 0x273F1FC
 
 
 
@@ -59,7 +59,7 @@ versionnow = "1.0.0.1"
 
 
 
-mountmasterupdatex = "Secrets of the Obscure Update\nLast Update : August 23, 2023"
+mountmasterupdatex = "Last Update : August 24, 2023"
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nplease update the trainer"
 
