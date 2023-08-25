@@ -23,6 +23,9 @@ mountstamina_offset_mem = [0x38, 0x2D0, 0x18, 0x0, 0x60, 0xC]
 mounttype_base_mem = base_core_address
 mounttype_offset_mem = [0x38, 0x2D0, 0x18, 0x0, 0x60, 0x14]
 
+fishing_insta_hook_base_mem = instafishingaddress
+fishing_insta_hook_offset_mem = [0x0, 0x0, 0x60, 0x98, 0x0, 0x20, 0x68]
+
 
 fishing_base_mem = instafishingaddress
 fishing_offset_mem = [0x0, 0x0, 0x60, 0x98, 0x0, 0x20, 0x80]
@@ -59,7 +62,7 @@ versionnow = "1.0.0.1"
 
 
 
-mountmasterupdatex = "Last Update : August 24, 2023"
+mountmasterupdatex = "Last Update : August 25, 2023"
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nplease update the trainer"
 
