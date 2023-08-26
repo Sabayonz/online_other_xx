@@ -73,7 +73,7 @@ LEGENDARY COMMANDER : \n
 \n\n
 ASCENDED COMMANDER : \n
 - R Z , - N M S, - N H, -M D B, -J S, -J A, - F C
-\n -V R, -M D G
+\n -V R, -M D G, R H
 \n\n\n\n
 ============================\n
 that name displayed is the donator\n
@@ -85,10 +85,12 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["0f407ed34e","5debc04d27","bc9c7d9eb2","da2569d097","30fac06e50","6fe74d85f3","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","2fda4ec1b0","d72f0e4f08"]
+uuid_saved = ["d6fbdc1520","0f407ed34e","5debc04d27","bc9c7d9eb2","da2569d097","30fac06e50","6fe74d85f3","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","2fda4ec1b0","d72f0e4f08"]
 
 '''
 
+
+d6fbdc1520 = Reeeehaww
 0f407ed34e = Mindaugas
 5debc04d27 = Hawaiian
 da2569d097 = Varek
