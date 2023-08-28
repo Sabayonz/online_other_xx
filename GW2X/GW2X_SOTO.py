@@ -85,7 +85,7 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["df33e92ff7","x5eb7799781","090afbe976","7e10425e1b","2ffeb1091c","d6fbdc1520","0f407ed34e","5debc04d27","bc9c7d9eb2","da2569d097","30fac06e50","6fe74d85f3","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","2fda4ec1b0","d72f0e4f08"]
+uuid_saved = ["53b625f3d9","df33e92ff7","x5eb7799781","090afbe976","7e10425e1b","2ffeb1091c","d6fbdc1520","0f407ed34e","5debc04d27","bc9c7d9eb2","da2569d097","30fac06e50","6fe74d85f3","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","2fda4ec1b0","d72f0e4f08"]
 
 '''
 df33e92ff7 =  OD YR INK
@@ -99,7 +99,7 @@ d6fbdc1520 = Reeeehaww
 da2569d097 = Varek
 30fac06e50 = falco
 6fe74d85f3 = Jaxx Armstrong
-b275bc6551 = don't mind me
+b275bc6551 53b625f3d9 = don't mind me
 d05112dc9e = morbiddarkblood
 cf80d1275b = NtajHmoob
 f4437fc8fe = nemesis
