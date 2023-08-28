@@ -85,9 +85,10 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["53b625f3d9","df33e92ff7","x5eb7799781","090afbe976","7e10425e1b","2ffeb1091c","d6fbdc1520","0f407ed34e","5debc04d27","bc9c7d9eb2","da2569d097","30fac06e50","6fe74d85f3","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","2fda4ec1b0","d72f0e4f08"]
+uuid_saved = ["2bd4280a7d","53b625f3d9","df33e92ff7","x5eb7799781","090afbe976","7e10425e1b","2ffeb1091c","d6fbdc1520","0f407ed34e","5debc04d27","bc9c7d9eb2","da2569d097","30fac06e50","6fe74d85f3","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","2fda4ec1b0","d72f0e4f08"]
 
 '''
+2bd4280a7d = Truckingsteve#007
 df33e92ff7 =  OD YR INK
 5eb7799781 = Syrix == not confirmed, i add x on the id
 090afbe976 = Sinic
