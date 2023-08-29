@@ -36,6 +36,12 @@ grafity_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x294]
 speed_base_mem = base_core_address
 speed_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x2B8]
 
+speed_base_mem1 = base_core_address
+speed_offset_mem1 = [0x38, 0x28, 0x80, 0x38, 0x2B4]
+
+speed_base_mem2 = base_core_address
+speed_offset_mem2 = [0x38, 0x28, 0x80, 0x38, 0x2B0]
+
 downrate_glider_base_mem = base_core_address
 downrate_glider_offset_mem = [0x38, 0x28, 0x80, 0x38, 0x2DC]
 
@@ -62,7 +68,7 @@ versionnow = "1.0.0.1"
 
 
 
-mountmasterupdatex = "Last Update : August 28, 2023"
+mountmasterupdatex = "Last Update : August 29, 2023"
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nplease update the trainer"
 
