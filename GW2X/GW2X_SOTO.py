@@ -8,6 +8,10 @@ fishingmasteraddress = 0x10AD848
 
 instafishingaddress = 0x022C22E0
 
+clippingaddress = 0x130D2F9
+
+fullclippingaddress = 0x130D2FD
+
 map_addr = 0x273F1FC
 
 
