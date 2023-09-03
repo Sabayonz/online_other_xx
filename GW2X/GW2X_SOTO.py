@@ -82,12 +82,12 @@ messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task fa
 donator = """
 ==||== \n 
 LEGENDARY COMMANDER : \n
--K W, -I P, -H W, -I V \n
+-K W, -I P, -H W, \n
 \n\n
 ASCENDED COMMANDER : \n
 - R Z , - N M S, - N H, -M D B, -J S, -J A, - F C
 \n -V R, -M D G, -R H, -P L C, -F O X, -S N, -O Y I, -W G, - E S
-\n -M Q, -R D, -B K, N K, -T T, -A C, - R P \n\n\n
+\n -M Q, -R D, -B K, N K, -T T, -A C, - R P,  -I V \n\n\n
 ============================\n
 that name displayed is the donator\n
 if you donator and want specific nickname, just let me know\n
