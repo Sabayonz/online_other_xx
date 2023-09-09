@@ -76,7 +76,7 @@ versionnow = "1.0.0.1"
 
 
 
-mountmasterupdatex = "Last Update : September 08, 2023"
+mountmasterupdatex = "UPDATE AVAILABLE \n FIX AUTO LOOT/INTERACT/VISTA VIEW\n DOWNLOAD ON ELITEPVP OR DISCORD"
 
 mountmasterupdate = "Last Update : September 10, 2023"
 
