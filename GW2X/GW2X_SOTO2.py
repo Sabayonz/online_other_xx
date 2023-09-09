@@ -15,7 +15,7 @@ fullclippingaddress = 0x130D2FD
 map_addr = 0x273F1FC
 
 interacting = 0x278BE5C
-interacting_value = 32758
+interacting_value = 32000
 
 
 
@@ -77,6 +77,8 @@ versionnow = "1.0.0.1"
 
 
 mountmasterupdatex = "Last Update : September 08, 2023"
+
+mountmasterupdate = "Last Update : September 10, 2023"
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nplease update the trainer"
 
