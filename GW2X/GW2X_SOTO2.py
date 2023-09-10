@@ -101,7 +101,7 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["8a3ebb6c8b","f106ab283d","f89f95cbcc","da698b0e4c","d7e53d75f2","3496ec8c63","e2823149be","01035bf5b7","e84e400c61","9e87fbea81","33bfcbbadc","d35d2ec041","2bd4280a7d","53b625f3d9","df33e92ff7","x5eb7799781","090afbe976","7e10425e1b","2ffeb1091c","d6fbdc1520","0f407ed34e","5debc04d27","bc9c7d9eb2","da2569d097","30fac06e50","6fe74d85f3","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","2fda4ec1b0","d72f0e4f08"]
+uuid_saved = ["68085ef0f0","8a3ebb6c8b","f106ab283d","f89f95cbcc","da698b0e4c","d7e53d75f2","3496ec8c63","e2823149be","01035bf5b7","e84e400c61","9e87fbea81","33bfcbbadc","d35d2ec041","2bd4280a7d","53b625f3d9","df33e92ff7","x5eb7799781","090afbe976","7e10425e1b","2ffeb1091c","d6fbdc1520","0f407ed34e","5debc04d27","bc9c7d9eb2","da2569d097","30fac06e50","6fe74d85f3","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","2fda4ec1b0","d72f0e4f08"]
 
 '''
 
@@ -114,7 +114,7 @@ d7e53d75f2 = Aiden Cross
 e2823149be = Naksu
 01035bf5b7 = Beutelkramer
 e84e400c61 = ridicul0us
-68085ef0f0 = Morqitta old
+68085ef0f0 = Morqitta 2
 9e87fbea81 = Morqitta new
 33bfcbbadc = EddieSmurphy
 d35d2ec041 = wongo
