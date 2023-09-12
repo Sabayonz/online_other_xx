@@ -1,20 +1,20 @@
-base_core_address = 0x026E04C0
+base_core_address = 0x026DA5B0
 
-skyscalegreenbaraddress = 0x10A76EE
+skyscalegreenbaraddress = 0x10C01FE
 
-griffoninstaboostaddress = 0x11F591B
+griffoninstaboostaddress = 0x120E01B
 
-fishingmasteraddress = 0x10AD848
+fishingmasteraddress = 0x10C5FC8
 
-instafishingaddress = 0x022C22E0
+instafishingaddress = 0x022BBF50
 
-clippingaddress = 0x130D2F9
+clippingaddress = 0x1325969
 
-fullclippingaddress = 0x130D2FD
+fullclippingaddress = 0x132596D
 
-map_addr = 0x273F1FC
+map_addr = 0x27392EC
 
-interacting = 0x278BE5C
+interacting = 0x2785F4C
 interacting_value = 32000
 
 
@@ -23,10 +23,10 @@ interacting_value = 32000
 #==============
 
 mountstamina_base_mem = base_core_address
-mountstamina_offset_mem = [0x38, 0x2D0, 0x18, 0x0, 0x60, 0xC]
+mountstamina_offset_mem = [0x38, 0x2D8, 0x18, 0x0, 0x60, 0xC]
 
 mounttype_base_mem = base_core_address
-mounttype_offset_mem = [0x38, 0x2D0, 0x18, 0x0, 0x60, 0x14]
+mounttype_offset_mem = [0x38, 0x2D8, 0x18, 0x0, 0x60, 0x14]
 
 fishing_insta_hook_base_mem = instafishingaddress
 fishing_insta_hook_offset_mem = [0x0, 0x0, 0x60, 0x98, 0x0, 0x20, 0x68]
@@ -78,7 +78,7 @@ versionnow = "1.0.0.1"
 
 mountmasterupdatex = "UPDATE AVAILABLE \n FIX AUTO LOOT/INTERACT/VISTA VIEW\n DOWNLOAD ON ELITEPVP OR DISCORD"
 
-mountmasterupdate = "Last Update : September 10, 2023"
+mountmasterupdate = "Last Update : September 10,, 2023"
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nplease update the trainer"
 
