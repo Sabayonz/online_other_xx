@@ -101,7 +101,7 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["e53d258881","75a4159f86","c155f9c7d4","01035bf5b7","68085ef0f0","8a3ebb6c8b","f106ab283d","f89f95cbcc","da698b0e4c","d7e53d75f2","3496ec8c63","e2823149be","01035bf5b7","e84e400c61","9e87fbea81","33bfcbbadc","d35d2ec041","2bd4280a7d","53b625f3d9","df33e92ff7","x5eb7799781","090afbe976","7e10425e1b","2ffeb1091c","d6fbdc1520","0f407ed34e","5debc04d27","bc9c7d9eb2","da2569d097","30fac06e50","6fe74d85f3","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","2fda4ec1b0","d72f0e4f08"]
+uuid_saved = ["adb1df7adf","e53d258881","75a4159f86","c155f9c7d4","01035bf5b7","68085ef0f0","8a3ebb6c8b","f106ab283d","f89f95cbcc","da698b0e4c","d7e53d75f2","3496ec8c63","e2823149be","01035bf5b7","e84e400c61","9e87fbea81","33bfcbbadc","d35d2ec041","2bd4280a7d","53b625f3d9","df33e92ff7","x5eb7799781","090afbe976","7e10425e1b","2ffeb1091c","d6fbdc1520","0f407ed34e","5debc04d27","bc9c7d9eb2","da2569d097","30fac06e50","6fe74d85f3","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","2fda4ec1b0","d72f0e4f08"]
 
 '''
 
@@ -142,6 +142,8 @@ f4437fc8fe = nemesis
 bc9c7d9eb2 = sabay
 2fda4ec1b0 = kowa
 d72f0e4f08 = rietzee
+
+adb1df7adf = VM 1
 '''
 #=============
 #==============
