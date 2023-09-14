@@ -144,7 +144,7 @@ cf80d1275b = NtajHmoob
 f4437fc8fe = nemesis
 3678bde5e3 = intel_power
 bc9c7d9eb2 = sabay
-2fda4ec1b0 = kowa ( CHANGE ACCOUNT TO R )
+2fda4ec1b0 = kowa ( GIVE ACCOUNT TO Robbes )
 d1ee7c0888 = Robbes
 d72f0e4f08 = rietzee
 
