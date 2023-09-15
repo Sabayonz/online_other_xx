@@ -1,20 +1,20 @@
 base_core_address = 0x026DA5B0
 
-skyscalegreenbaraddress = 0x10C01FE
+skyscalegreenbaraddress = 0x10C024E
 
-griffoninstaboostaddress = 0x120E01B
+griffoninstaboostaddress = 0x120E06B
 
-fishingmasteraddress = 0x10C5FC8
+fishingmasteraddress = 0x10C6018
 
 instafishingaddress = 0x022BBF50
 
-clippingaddress = 0x1325969
+clippingaddress = 0x13259B9
 
-fullclippingaddress = 0x132596D
+fullclippingaddress = 0x13259BD
 
 map_addr = 0x27392EC
 
-interacting = 0x2785F4C
+interacting = 0x2785F3C
 interacting_value = 32000
 
 
@@ -78,7 +78,7 @@ versionnow = "1.0.0.1"
 
 mountmasterupdatex = "UPDATE AVAILABLE \n FIX AUTO LOOT/INTERACT/VISTA VIEW\n DOWNLOAD ON ELITEPVP OR DISCORD"
 
-mountmasterupdate = "Last Update : September 13, 2023"
+mountmasterupdate = "Last Update : September 15, 2023"
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nplease update the trainer"
 
