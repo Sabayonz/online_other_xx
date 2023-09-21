@@ -110,7 +110,7 @@ uuid_saved = ["b7c0fe27f5","2bdc737541","06dc312134","93582e4eae","afee16fe47","
 '''
 b7c0fe27f5 = Mizunie
 06dc312134 = NJ
-93582e4eae = khicon (NO PAYMENT YET, LATE 23 SEP 2023)
+93582e4eae = khicon
 d461de7177 = Level 1 Crook
 96029128c9 = carrjam
 f251ad584e = Error
