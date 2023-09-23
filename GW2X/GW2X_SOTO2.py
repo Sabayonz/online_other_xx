@@ -94,7 +94,7 @@ ASCENDED COMMANDER : \n
 - R Z , - N M S, - N H, -M D B, -J S, -J A, - F C, -R B
 \n -V R, -M D G, -R H, -P L C, -F O X, -S N, -O Y I, -W G, - E S
 \n -M Q, -R D, -B K, N K, -T T, -A C, - R P,  -I V, -J X,\n -R S, - A K M, - F R T Z, -S P, -V L, -F Q, - L X, - D Z, -E R, -C J, -L C\n
--N J, - M Z, -T H, -A K\n
+-N J, - M Z, -T H, -A K, -T D\n
 ============================\n
 that name displayed is the donator\n
 if you donator and want specific nickname, just let me know\n
