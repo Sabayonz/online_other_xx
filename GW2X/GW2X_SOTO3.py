@@ -78,7 +78,7 @@ versionnow = "1.0.0.1"
 
 mountmasterupdatex = "UPDATE AVAILABLE \n FIX AUTO LOOT/INTERACT/VISTA VIEW\n DOWNLOAD ON ELITEPVP OR DISCORD"
 
-mountmasterupdate = "Last Update : September 27, 2023"
+mountmasterupdate = "Last Update : September 28, 2023"
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nplease update the trainer"
 
