@@ -92,7 +92,7 @@ ASCENDED COMMANDER : \n
  -V R, -M D G, -R H, -P L C, -F O X, -S N, -O Y I, -W G, - E S
  -M Q, -R D, -B K, N K, -T T, -A C, - R P,  -I V, -J X,
 -R S, - A K M, - F R T Z, -S P, -V L, -F Q, - L X, - D Z, -E R, -C J, -L C\n
--N J, - M Z, -T H, -A K, -T D, -L M, -N E, -R D N, -B C, - J M, - C C, -H G\n
+-N J, - M Z, -T H, -A K, -T D, -L M, -N E, -R D N, -B C, - J M, - C C, -H G, -D W\n
 ============================\n
 that name displayed is the donator\n
 if you donator and want specific nickname, just let me know\n
@@ -103,11 +103,11 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["fee0c0b244","0f807d59e8","cad32eb6ab","0f15f4702e","613007de10","c3d30ec84c","3afeaf99ff","9756b3c68e","a57c519973","199879ef8d","1ff58644c8","b7c0fe27f5","2bdc737541","06dc312134","93582e4eae","afee16fe47","ecc010a66e","d461de7177","96029128c9","f251ad584e","6b6c5a4f88","b679c63915","9ce4111361","e53d258881","75a4159f86","adb1df7adf","01035bf5b7","68085ef0f0","8251db86c5","f106ab283d","f89f95cbcc","da698b0e4c","d7e53d75f2","3496ec8c63","e2823149be","01035bf5b7","e84e400c61","9e87fbea81","33bfcbbadc","d35d2ec041","2bd4280a7d","53b625f3d9","df33e92ff7","x5eb7799781","090afbe976","7e10425e1b","2ffeb1091c","d6fbdc1520","0f407ed34e","5debc04d27","bc9c7d9eb2","da2569d097","30fac06e50","6fe74d85f3","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","d1ee7c0888","d72f0e4f08","2fda4ec1b0","51731556be"]
+uuid_saved = ["6a5db5599a","fee0c0b244","0f807d59e8","cad32eb6ab","0f15f4702e","613007de10","c3d30ec84c","3afeaf99ff","9756b3c68e","a57c519973","199879ef8d","1ff58644c8","b7c0fe27f5","2bdc737541","06dc312134","93582e4eae","afee16fe47","ecc010a66e","d461de7177","96029128c9","f251ad584e","6b6c5a4f88","b679c63915","9ce4111361","e53d258881","75a4159f86","adb1df7adf","01035bf5b7","68085ef0f0","8251db86c5","f106ab283d","f89f95cbcc","da698b0e4c","d7e53d75f2","3496ec8c63","e2823149be","01035bf5b7","e84e400c61","9e87fbea81","33bfcbbadc","d35d2ec041","2bd4280a7d","53b625f3d9","df33e92ff7","x5eb7799781","090afbe976","7e10425e1b","2ffeb1091c","d6fbdc1520","0f407ed34e","5debc04d27","bc9c7d9eb2","da2569d097","30fac06e50","6fe74d85f3","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","d1ee7c0888","d72f0e4f08","2fda4ec1b0","51731556be"]
 
 '''
 
-
+6a5db5599a = Dutchwise
 fee0c0b244 = HiGW
 0f807d59e8 = Cekcenk
 cad32eb6ab =  jiimmy
