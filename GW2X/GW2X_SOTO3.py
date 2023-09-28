@@ -88,11 +88,10 @@ LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, \n
 \n\n
 ASCENDED COMMANDER : \n
-- R Z , - N M S, - N H, -M D B, -J S, -J A, - F C, -R B
- -V R, -M D G, -R H, -P L C, -F O X, -S N, -O Y I, -W G, - E S
- -M Q, -R D, -B K, N K, -T T, -A C, - R P,  -I V, -J X,
--R S, - A K M, - F R T Z, -S P, -V L, -F Q, - L X, - D Z, -E R, -C J, -L C\n
--N J, - M Z, -T H, -A K, -T D, -L M, -N E, -R D N, -B C, - J M, - C C, -H G, -D W\n
+RZ, NMS, NH, MDB, JS, JA, FC, RB, VR, MDG, RH, PLC, FOX, SN, OYI, 
+WG, ES, MQ, RD, BK, NK, TT, AC, RP, IV, JX, RS, AKM, FRT, SP, VL, 
+FQ, LX, DZ, ER, CJ, LC, NJ, MZ, TH, AK, TD, LM, NE, RDN, BC, JM, 
+CC, HG, DW\n
 ============================\n
 that name displayed is the donator\n
 if you donator and want specific nickname, just let me know\n
