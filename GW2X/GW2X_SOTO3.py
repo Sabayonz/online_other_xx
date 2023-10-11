@@ -2,6 +2,8 @@ base_core_address = 0x026B8970
 
 skyscalegreenbaraddress = 0x10AE8BE
 
+skiffmasteraddress = 0x11F205E
+
 griffoninstaboostaddress = 0x11F1ECB
 
 fishingmasteraddress = 0x10B3FBA
