@@ -80,7 +80,7 @@ versionnow = "1.0.0.1"
 
 
 mountmasterupdate = "GW2X UPDATE AVAILABLE !"
-update_october_6 = "Last Update : October 6, 2023"
+update_october_6 = "GW2X UPDATE AVAILABLE !"
 update_october_12 = "Last Update : October 12, 2023"
 
 
