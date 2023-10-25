@@ -4,7 +4,7 @@ skyscalegreenbaraddress = 0x10B048E
 
 skiffmasteraddress = 0x11F3F5E
 
-griffoninstaboostaddress = 0x10B5B8A
+griffoninstaboostaddress = 0x11F3DCB
 
 fishingmasteraddress = 0x10B5B8A
 
