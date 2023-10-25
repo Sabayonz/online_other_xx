@@ -81,7 +81,7 @@ versionnow = "1.0.0.1"
 
 mountmasterupdate = "GW2X UPDATE AVAILABLE !"
 update_october_6 = "GW2X UPDATE AVAILABLE !"
-update_october_12 = "Last Update : October 20, 2023"
+update_october_12 = "GW2X UPDATE AVAILABLE !"
 
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nplease update the trainer"
