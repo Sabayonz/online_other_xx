@@ -23,7 +23,7 @@ interacting_value = 30000
 versionnow = "1.0.0.1"
 
 
-update_october_25 = "Last Update : October 25, 2023"
+update_october_26 = "Last Update : October 26, 2023"
 
 
 messagex = "Err:The Game Just Got Updated!\nErr:Load Module Failed!\nErr:Task failed successfully.\nplease update the trainer"
