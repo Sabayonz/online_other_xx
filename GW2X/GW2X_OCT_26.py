@@ -38,7 +38,7 @@ RZ, NMS, NH, MDB, JS, JA, FC, RB, VR, MDG, RH, PLC, FOX, SN, OYI,
 WG, ES, MQ, RD, BK, NK, TT, AC, RP, IV, JX, RS, AKM, FRT, SP, VL, 
 FQ, LX, DZ, ER, CJ, LC, NJ, MZ, TH, AK, TD, LM, NE, RDN, BC, JM, 
 CC, HG, DW , DU, SQ, TG, SS, MT, FF, RH, TT, CK, BT, XR, SR, EZP,
-AZ, CB, DY, KM, ACT, PM, AB, SX\n
+AZ, CB, DY, KM, ACT, PM, AB, SX, AB, RP\n
 ============================\n
 that name displayed is the donator\n
 if you donator and want specific nickname, just let me know\n
