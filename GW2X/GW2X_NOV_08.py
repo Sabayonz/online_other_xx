@@ -1,22 +1,20 @@
-base_core_address = 0x026BA9A0
+base_core_address = 0x0226F040
 
-skyscalegreenbaraddress = 0x10B048E
+skyscalegreenbaraddress = 0x10CF29E
 
-skiffmasteraddress = 0x11F3F5E
+griffoninstaboostaddress = 0x12179CB
 
-griffoninstaboostaddress = 0x11F3DCB
+fishingmasteraddress = 0x10D4E8F
 
-fishingmasteraddress = 0x10B5B8A
+skiffmasteraddress = 0x1217B5E
 
-instafishingaddress = 0x0229E8F0
+clippingaddress = 0x132B229
 
-clippingaddress = 0x1306A69
+fullclippingaddress = 0x132B22D
 
-fullclippingaddress = 0x1306A6D
+map_addr = 0x226E8B0
 
-map_addr = 0x224C0D0
-
-interacting = 0x276623C
+interacting = 0x2787C3C
 interacting_value = 30000
 
 
