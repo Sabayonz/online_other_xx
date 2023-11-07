@@ -20,7 +20,7 @@ interacting_value = 30000
 
 
 
-update_01 = "Last Update : October 26, 2023"
+update_01 = "Last Update : November 08, 2023"
 
 
 
