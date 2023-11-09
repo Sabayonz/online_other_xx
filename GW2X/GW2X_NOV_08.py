@@ -1,26 +1,26 @@
-base_core_address = 0x0226F040
+base_core_address = 0x02270040
 
-skyscalegreenbaraddress = 0x10CF29E
+skyscalegreenbaraddress = 0x10CF2EE
 
-griffoninstaboostaddress = 0x12179CB
+griffoninstaboostaddress = 0x1217A1B
 
-fishingmasteraddress = 0x10D4E8F
+fishingmasteraddress = 0x10D4EDF
 
-skiffmasteraddress = 0x1217B5E
+skiffmasteraddress = 0x1217BAE
 
-clippingaddress = 0x132B229
+clippingaddress = 0x132B279
 
-fullclippingaddress = 0x132B22D
+fullclippingaddress = 0x132B27D
 
-map_addr = 0x226E8B0
+map_addr = 0x226F8B0
 
-interacting = 0x2787C2C
+interacting = 0x2788C3C
 interacting_value = 30000
 
 
 
 
-update_01 = "Last Update : November 08, 2023"
+update_01 = "Last Update : November 09, 2023"
 
 
 
