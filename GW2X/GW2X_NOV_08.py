@@ -1,16 +1,16 @@
 base_core_address = 0x02270040
 
-skyscalegreenbaraddress = 0x10CF2EE
+skyscalegreenbaraddress = 0x10CF2DE
 
-griffoninstaboostaddress = 0x1217A1B
+griffoninstaboostaddress = 0x1217A0B
 
-fishingmasteraddress = 0x10D4EDF
+fishingmasteraddress = 0x10D4ECF
 
-skiffmasteraddress = 0x1217BAE
+skiffmasteraddress = 0x1217B9E
 
-clippingaddress = 0x132B279
+clippingaddress = 0x132B269
 
-fullclippingaddress = 0x132B27D
+fullclippingaddress = 0x132B26D
 
 map_addr = 0x226F8B0
 
@@ -20,7 +20,7 @@ interacting_value = 30000
 
 
 
-update_01 = "Last Update : November 09, 2023"
+update_01 = "Last Update : November 10, 2023"
 
 
 
