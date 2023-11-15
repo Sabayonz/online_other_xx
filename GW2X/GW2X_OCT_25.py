@@ -16,7 +16,7 @@ fullclippingaddress = 0x1306A6D
 
 map_addr = 0x224C0D0
 
-interacting = 0x276623C
+interacting = 0x276622C
 interacting_value = 30000
 
 #==============
