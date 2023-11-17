@@ -1,5 +1,9 @@
 base_core_address = 0x02270040
 
+fgaddr = 0xED52B
+
+fg2addr = 0xED531
+
 skyscalegreenbaraddress = 0x10CF2DE
 
 griffoninstaboostaddress = 0x1217A0B
