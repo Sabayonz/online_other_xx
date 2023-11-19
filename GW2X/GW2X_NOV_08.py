@@ -1,9 +1,5 @@
 base_core_address = 0x02270040
 
-fgaddr = 0xED52B
-
-fg2addr = 0xED531
-
 skyscalegreenbaraddress = 0x10CF2DE
 
 griffoninstaboostaddress = 0x1217A0B
@@ -21,10 +17,29 @@ map_addr = 0x226F8B0
 interacting = 0x2788C3C
 interacting_value = 30000
 
+fgaddr = 0xED52B
+
+fg2addr = 0xED531
+
+jeneng = 0x603B29
+
+padang = 0x616D31
+
+viewdist = 0x613C77
+
+darah1 = 0x615E05
+
+darah2 = 0x61709D
+
+mprdr = 0x4D2F4F
+
+objjeneng = 0x617571
+
+objdarah = 0x617764
 
 
 
-update_01 = "Last Update : November 10, 2023"
+update_01 = "Last Update : November 20, 2023"
 
 
 
