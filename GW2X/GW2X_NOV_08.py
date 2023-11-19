@@ -37,7 +37,9 @@ objjeneng = 0x617571
 
 objdarah = 0x617764
 
-zom = 0x0278AB00
+muontzom = 0x0278AB00
+
+playerzom = 0x026E7470
 
 
 
