@@ -37,6 +37,8 @@ objjeneng = 0x617571
 
 objdarah = 0x617764
 
+zom = 0x0278AB00
+
 
 
 update_01 = "Last Update : November 20, 2023"
