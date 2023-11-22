@@ -47,7 +47,7 @@ skiffx = 0x0224F858
 update_01 = "Last Update : November 20, 2023"
 
 
-
+update_02 = "Last Update : November 23, 2023"
 
 
 
