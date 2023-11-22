@@ -41,6 +41,7 @@ mountzom = 0x0278AB00
 
 playerzom = 0x026E7470
 
+skiffx = 0x0224F858
 
 
 update_01 = "Last Update : November 20, 2023"
