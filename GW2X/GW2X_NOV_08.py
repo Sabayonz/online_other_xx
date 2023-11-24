@@ -47,7 +47,7 @@ skiffx = 0x0224F858
 update_01 = "UPDATE AVAILABE !!!!"
 
 
-update_02 = "Last Update : November 24, 2023"
+update_02 = "UPDATE AVAILABE !!!!"
 
 
 
