@@ -44,7 +44,7 @@ playerzom = 0x026E7470
 skiffx = 0x0224F858
 
 
-update_01 = "Last Update : November 25, 2023"
+update_01 = "Last Update : November 26, 2023"
 
 
 
