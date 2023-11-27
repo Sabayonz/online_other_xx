@@ -1,3 +1,5 @@
+#OFF
+
 base_core_address = 0x02270040
 
 skyscalegreenbaraddress = 0x10CF2DE
