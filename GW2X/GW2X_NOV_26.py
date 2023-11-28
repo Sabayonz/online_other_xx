@@ -29,19 +29,19 @@ fg2addr = 0xED8D1
 
 jeneng = 0x6046F9
 
-padang = 0x616D31
+padang = 0x617901
 
-viewdist = 0x613C77
+viewdist = 0x614847
 
-darah1 = 0x615E05
+darah1 = 0x6169D5
 
-darah2 = 0x61709D
+darah2 = 0x617C6D
 
-mprdr = 0x4D2F4F
+mprdr = 0x4D208F
 
-objjeneng = 0x617571
+objjeneng = 0x618141
 
-objdarah = 0x617764
+objdarah = 0x618141
 
 
 
