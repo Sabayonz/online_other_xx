@@ -1,27 +1,33 @@
-base_core_address = 0x02270040
+base_core_address = 0x02277F70
+skyscalegreenbaraddress = 0x10D5AEE
 
-skyscalegreenbaraddress = 0x10CF2DE
+griffoninstaboostaddress = 0x121E7BB
 
-griffoninstaboostaddress = 0x1217A0B
+fishingmasteraddress = 0x10DB6DF
 
-fishingmasteraddress = 0x10D4ECF
+skiffmasteraddress = 0x121E94E
 
-skiffmasteraddress = 0x1217B9E
+clippingaddress = 0x1332139
 
-clippingaddress = 0x132B269
+fullclippingaddress = 0x133213D
 
-fullclippingaddress = 0x132B26D
-
-map_addr = 0x226F8B0
+map_addr = 0x274410C
 
 interacting = 0x2788C2C
 interacting_value = 30000
 
-fgaddr = 0xED52B
+mountzom = 0x02792C40
 
-fg2addr = 0xED531
+playerzom = 0x026EF400
 
-jeneng = 0x603B29
+
+
+
+fgaddr = 0xED8CB
+
+fg2addr = 0xED8D1
+
+jeneng = 0x6046F9
 
 padang = 0x616D31
 
@@ -37,11 +43,7 @@ objjeneng = 0x617571
 
 objdarah = 0x617764
 
-mountzom = 0x0278AB00
 
-playerzom = 0x026E7470
-
-skiffx = 0x0224F858
 
 
 update_01 = "Last Update : November 26, 2023"
