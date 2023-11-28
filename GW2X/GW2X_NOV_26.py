@@ -41,7 +41,7 @@ mprdr = 0x4D208F
 
 objjeneng = 0x618141
 
-objdarah = 0x618141
+objdarah = 0x618334
 
 
 
