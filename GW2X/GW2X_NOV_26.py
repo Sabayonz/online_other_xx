@@ -46,7 +46,7 @@ objdarah = 0x618334
 
 
 
-update_01 = "Last Update : November 26, 2023"
+update_01 = "UPDATE AVAILABLE"
 
 
 
