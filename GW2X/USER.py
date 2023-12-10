@@ -2,7 +2,7 @@
 donator = """
 ==||== \n 
 LEGENDARY COMMANDER : \n
--K W, -I P, -H W, D M N \n
+-K W, -I P, -H W, D M M \n
 \n\n
 ASCENDED COMMANDER : \n
 RZ, NMS, NH, MDB, JS, JA, FC, RB, VR, MDG, RH, PLC, FOX, SN, OYI, 
