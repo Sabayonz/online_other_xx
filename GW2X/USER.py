@@ -22,11 +22,11 @@ thanks for your support !!!
 #=============
 
 uuid_saved = ["9aeaaceef9","0d5192aaa8","2d3300c56b","7e01fb6c55","1bcd371a24","8ccb5171bc","48e98a00fb","fc5966ec43","6753ae7c20","1b8e7023c3",
-              "40ab04980a","c02d618675","0c28dc0eb4","5044c0deb2","3afeaf99ff","3837ba6f30","97f88c63d7","9cb6f90bb6","91549412a3","c009ac19cc",
+              "40ab04980a","c02d618675","0c28dc0eb4","5044c0deb2","3afeaf99ff","14c91a417d","97f88c63d7","a6cd60d0a8","91549412a3","c009ac19cc",
               "26c741dda2","1433e3fbf0","596851a385","28ca2077b2","bfd65c5093","ccda0f3c76","784d42e8b8","7da945130a","bc399d7191","c155f9c7d4",
               "d2e264842a","0f807d59e8","7457621e28","3034d3fdad","91bc6add19","7fe8a30c36","fec12d3dfe","45c31f67d6","54d6f759c8","27ad43a152",
               "ba75406c7d","40dc55a18b","2402f332f3","4b49224938","05c45dae6a","42339b90f9","1af7f3316f","613007de10","c178ab4972","6a5db5599a",
-              "fee0c0b244","97c795658d","cad32eb6ab","0f15f4702e","613007de10","c3d30ec84c","f151b202dc","11100ece8b","a57c519973","199879ef8d",
+              "fee0c0b244","97c795658d","cad32eb6ab","0f15f4702e","613007de10","c3d30ec84c","f151b202dc","7734124628","a57c519973","199879ef8d",
               "a014c6f860","b7c0fe27f5","2bdc737541","06dc312134","93582e4eae","026726e0eb","ecc010a66e","d461de7177","96029128c9","f251ad584e",
               "6b6c5a4f88","b679c63915","9ce4111361","e53d258881","75a4159f86","10808ae13a","01035bf5b7","68085ef0f0","8251db86c5","f106ab283d",
               "f89f95cbcc","da698b0e4c","d7e53d75f2","3496ec8c63","e2823149be","01035bf5b7","e84e400c61","9e87fbea81","33bfcbbadc","d35d2ec041",
@@ -92,9 +92,9 @@ c178ab4972 = No62NoExit 2 laptop
 f151b202dc = No62NoExit
 91549412a3 = No62NoExit 3
 3afeaf99ff = No62NoExit 4 
-11100ece8b = Lucas--MileFantazy
-9cb6f90bb6 = Lucas--MileFantazy 2
-3837ba6f30 = Lucas--MileFantazy 3
+7734124628 = Lucas--MileFantazy
+a6cd60d0a8 = Lucas--MileFantazy 2
+14c91a417d = Lucas--MileFantazy 3
 a57c519973 = Taldor
 199879ef8d = akull123456
 1ff58644c8 = TheHacker old off
