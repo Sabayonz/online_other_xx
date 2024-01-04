@@ -33,7 +33,7 @@ uuid_saved = ["9aeaaceef9","0d5192aaa8","2d3300c56b","7e01fb6c55","1bcd371a24","
               "2bd4280a7d","53b625f3d9","3534d65702","090afbe976","7e10425e1b","c34b37dfd9","d6fbdc1520","31607ab4c7","5debc04d27","da2569d097",
               "30fac06e50","6fe74d85f3","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","d1ee7c0888","d72f0e4f08","2fda4ec1b0",
               "665b24b4cb","2ba0d93345","2e1d27765c","718f04c74e","4320d52d28","b427b63072","8b07915f7e","14271d6c77","0ffeafc8ff","f334e9a3ac",
-              "0fb6dc9c53","93582e4eae","5a46130f53","eb020857aa",
+              "0fb6dc9c53","93582e4eae","5a46130f53","eb020857aa","2d8c04efd3",
               "f25a6280ce"]
 
 
@@ -50,6 +50,7 @@ f334e9a3ac = Dr Murphy Richard
 4320d52d28 = Kil
 718f04c74e = neo14a
 2d3300c56b = Doople
+2d8c04efd3 = Doople 2
 7e01fb6c55 = TUX1337
 8ccb5171bc = Knallgurke 2
 48e98a00fb = Knallgurke
