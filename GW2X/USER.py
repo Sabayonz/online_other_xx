@@ -12,8 +12,7 @@ CC, HG, DW , DU, SQ, TG, SS, MT, FF, RH, TT, CK, BT, XR, SR, EZP,
 AZ, CB, DY, KM, ACT, PM, AB, SX, AB, RP, DN, NN, AS, AF, VM, TS, CT,
 KG, TX, DP, NEO, KL, MT, KN, DMR, TZ, HB, VC \n
 ============================\n
-that name displayed is the donator\n
-if you donator and want specific nickname, just let me know\n
+
 consider donating to keep this project alive\n
 thanks for your support !!!
 """
