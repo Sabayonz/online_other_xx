@@ -10,7 +10,7 @@ WG, ES, MQ, RD, BK, NK, TT, AC, RP, IV, JX, RS, AKM, FRT, SP, VL,
 FQ, LX, DZ, ER, CJ, LC, NJ, MZ, TH, AK, TD, LM, NE, RDN, BC, JM, 
 CC, HG, DW , DU, SQ, TG, SS, MT, FF, RH, TT, CK, BT, XR, SR, EZP,
 AZ, CB, DY, KM, ACT, PM, AB, SX, AB, RP, DN, NN, AS, AF, VM, TS, CT,
-KG, TX, DP, NEO, KL, MT, KN, TZ, HB\n
+KG, TX, DP, NEO, KL, MT, KN, TZ, HB, VC \n
 ============================\n
 that name displayed is the donator\n
 if you donator and want specific nickname, just let me know\n
@@ -33,13 +33,14 @@ uuid_saved = ["9aeaaceef9","0d5192aaa8","2d3300c56b","7e01fb6c55","1bcd371a24","
               "2bd4280a7d","53b625f3d9","3534d65702","090afbe976","7e10425e1b","c34b37dfd9","d6fbdc1520","31607ab4c7","5debc04d27","da2569d097",
               "30fac06e50","6fe74d85f3","b275bc6551","d05112dc9e","cf80d1275b","f4437fc8fe","3678bde5e3","d1ee7c0888","d72f0e4f08","2fda4ec1b0",
               "665b24b4cb","2ba0d93345","2e1d27765c","718f04c74e","4320d52d28","b427b63072","8b07915f7e","14271d6c77","0ffeafc8ff","f334e9a3ac",
-              "0fb6dc9c53","93582e4eae","5a46130f53",
+              "0fb6dc9c53","93582e4eae","5a46130f53","0fd86d78f1",
               "f25a6280ce"]
 
 
 
 
 '''
+0fd86d78f1 = Vincef
 5a46130f53 = hibrick
 93582e4eae = tanztante
 0fb6dc9c53 = kanei
