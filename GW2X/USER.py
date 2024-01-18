@@ -22,7 +22,7 @@ thanks for your support !!!
 #=============
 
 uuid_saved = ["9aeaaceef9","0d5192aaa8","2d3300c56b","7e01fb6c55","1bcd371a24","8ccb5171bc","48e98a00fb","fc5966ec43","6753ae7c20","138a255f22",
-              "5968b9bc50","c02d618675","0c28dc0eb4","5044c0deb2","3afeaf99ff","fc19821132","97f88c63d7","1d6bb9aa69","91549412a3","c009ac19cc",
+              "5968b9bc50","c02d618675","0c28dc0eb4","5044c0deb2","3afeaf99ff","fc19821132","97f88c63d7","1d6bb9aa69","999999999x","c009ac19cc",
               "26c741dda2","1433e3fbf0","596851a385","28ca2077b2","bfd65c5093","ccda0f3c76","784d42e8b8","7da945130a","bc399d7191","c155f9c7d4",
               "d2e264842a","0f807d59e8","7457621e28","3034d3fdad","91bc6add19","7fe8a30c36","fec12d3dfe","45c31f67d6","54d6f759c8","27ad43a152",
               "ba75406c7d","40dc55a18b","2402f332f3","4b49224938","05c45dae6a","42339b90f9","1af7f3316f","613007de10","c178ab4972","6a5db5599a",
@@ -106,7 +106,7 @@ cad32eb6ab =  jiimmy
 613007de10 = RdN
 c178ab4972 = No62NoExit 2 laptop
 f151b202dc = No62NoExit
-91549412a3 = No62NoExit 3
+91549412a3 = No62NoExit 3 (off, waiting new pc)
 3afeaf99ff = No62NoExit 4 
 332e2c19b3 = Lucas--MileFantazy
 1d6bb9aa69 = Lucas--MileFantazy 2
