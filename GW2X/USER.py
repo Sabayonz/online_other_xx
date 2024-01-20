@@ -11,7 +11,7 @@ FQ, LX, DZ, ER, CJ, LC, NJ, MZ, TH, AK, TD, LM, NE, RDN, BC, JM,
 CC, HG, DW , DU, SQ, TG, SS, MT, FF, RH, TT, CK, BT, XR, SR, EZP,
 AZ, CB, DY, KM, ACT, PM, AB, SX, AB, RP, DN, NN, AS, AF, VM, TS, CT,
 KG, TX, DP, NEO, KL, MT, KN, DMR, TZ, HB, VC, MK, NN, YC, MC, IS,
-SS, XK, AK \n
+SS, XK, AK, AT \n
 ============================\n
 
 consider donating to keep this project alive\n
@@ -22,7 +22,7 @@ thanks for your support !!!
 #=============
 
 uuid_saved = ["9aeaaceef9","0d5192aaa8","2d3300c56b","7e01fb6c55","1bcd371a24","8ccb5171bc","48e98a00fb","fc5966ec43","6753ae7c20","138a255f22",
-              "5968b9bc50","c02d618675","0c28dc0eb4","5044c0deb2","3afeaf99ff","ae02739405","97f88c63d7","22638a069b","999999999x","c009ac19cc",
+              "5968b9bc50","c02d618675","0c28dc0eb4","5044c0deb2","3afeaf99ff","ae02739405","97f88c63d7","22638a069b","122cc8f90b","c009ac19cc",
               "26c741dda2","1433e3fbf0","596851a385","28ca2077b2","bfd65c5093","ccda0f3c76","784d42e8b8","7da945130a","bc399d7191","c155f9c7d4",
               "d2e264842a","0f807d59e8","7457621e28","3034d3fdad","91bc6add19","7fe8a30c36","fec12d3dfe","45c31f67d6","54d6f759c8","27ad43a152",
               "ba75406c7d","40dc55a18b","2402f332f3","4b49224938","05c45dae6a","42339b90f9","1af7f3316f","613007de10","c178ab4972","6a5db5599a",
@@ -41,6 +41,7 @@ uuid_saved = ["9aeaaceef9","0d5192aaa8","2d3300c56b","7e01fb6c55","1bcd371a24","
 
 
 '''
+122cc8f90b = Alte
 bee9f13140 = Arke
 b41b378017 = xk xkxina
 f7ee09dae4 = systemsoldier
