@@ -11,7 +11,7 @@ FQ, LX, DZ, ER, CJ, LC, NJ, MZ, TH, AK, TD, LM, NE, RDN, BC, JM,
 CC, HG, DW , DU, SQ, TG, SS, MT, FF, RH, TT, CK, BT, XR, SR, EZP,
 AZ, CB, DY, KM, ACT, PM, AB, SX, AB, RP, DN, NN, AS, AF, VM, TS, CT,
 KG, TX, DP, NEO, KL, MT, KN, DMR, TZ, HB, VC, MK, NN, YC, MC, IS,
-SS, XK, AK, AT, CW \n
+SS, XK, AK, AT, CW, SL, \n
 ============================\n
 
 consider donating to keep this project alive\n
