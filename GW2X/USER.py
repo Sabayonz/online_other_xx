@@ -11,7 +11,7 @@ FQ, LX, DZ, ER, CJ, LC, NJ, MZ, TH, AK, TD, LM, NE, RDN, BC, JM,
 CC, HG, DW , DU, SQ, TG, SS, MT, FF, RH, TT, CK, BT, XR, SR, EZP,
 AZ, CB, DY, KM, ACT, PM, AB, SX, AB, RP, DN, NN, AS, AF, VM, TS, CT,
 KG, TX, DP, NEO, KL, MT, KN, DMR, TZ, HB, VC, MK, NN, YC, MC, IS,
-SS, XK, AK, AT, CW, SL, DD, AS, AV, GH, KK, FK, GM, MM, MF, RG, CD\n
+SS, XK, AK, AT, CW, SL, DD, AS, AV, GH, KK, FK, GM, MM, MF, RG\n
 ============================\n
 
 consider donating to keep this project alive\n
@@ -35,13 +35,14 @@ uuid_saved = ["9aeaaceef9","0d5192aaa8","2d3300c56b","7e01fb6c55","1bcd371a24","
               "665b24b4cb","2ba0d93345","2e1d27765c","18976cdcf1","4320d52d28","b427b63072","8b07915f7e","e640683c72","3ece663699","f334e9a3ac",
               "0a1e3b4a9c","93582e4eae","5a46130f53","eb020857aa","2d8c04efd3","78d33186bb","f5fd6e7ce7","d1821fb798","5d4adcbfaf","8dcc3f17ce",
               "00b5d7c72a","91c01b6dbb","75f995c8e6","5d7ceb6425","596851a385","b8519516f4","386423dc44","64e0c9c9d9","c0d43a2075","0c28dc0eb4",
-              "f7ee09dae4","3b35e1873e","bee9f13140","1f9fa1ada9","5ba1df24d5","498283913a",
+              "f7ee09dae4","3b35e1873e","bee9f13140","1f9fa1ada9","5ba1df24d5","498283913a","d28f134389",
               "f25a6280ce"]
 
 
 
 
 '''
+d28f134389 = temporary trial
 498283913a = rdenog
 5ba1df24d5 = MechFan ihateusingdisc
 0c28dc0eb4 = MMoaddict
