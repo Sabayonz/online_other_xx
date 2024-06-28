@@ -6,10 +6,10 @@ xxxx5 = 0x1411E3E
 xxxx6 = 0x1526969
 xxxx7 = 0x152696D
 xxxx8 = 0x2432940
-xxxx9 = 0x279E20C
+xxxx9 = 0x279E1FC
 xxxx10 = 30000
-xxxx11 = 0x027A1020
-xxxx12 = 0x026F5740
+xxxx11 = 0x027A1010
+xxxx12 = 0x026F5730
 xxxx13 = 0x2A3B6C
 xxxx14 = 0x2A3B63
 xxxx15 = 0x7CFE5A
@@ -183,7 +183,7 @@ zzzz32 = 30580
 
 
 
-core_update = "Core: Jun_26_2024"
+core_update = "Core: Jun_29_2024"
 LWS4_EOD_AND_SOTO_MAP_LIST = [1226, 1248, 1526, 1517, 1509, 1510, 1371, 1015, 1317, 1428, 1422, 1490, 1438, 1442, 1452]
 pvp_pve_map = [350, 549, 1305, 1171, 554, 795, 1163, 900, 894, 875, 95, 96, 1099, 38, 899]
 versionnow = "1.0.0.1"
