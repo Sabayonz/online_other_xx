@@ -12,7 +12,7 @@ CC, HG, DW , DU, SQ, TG, SS, MT, FF, RH, TT, CK, BT, XR, SR, EZP,
 AZ, CB, DY, KM, ACT, PM, AB, SX, AB, RP, DN, NN, AS, AF, VM, TS, CT,
 KG, TX, DP, NEO, KL, MT, KN, DMR, TZ, HB, VC, MK, NN, YC, MC, IS,
 SS, XK, AK, AT, CW, SL, DD, AS, AV, GH, KK, FK, GM, MM, MF, RG,
-RS, CV, XC, GR, OD, SK, SC, SJ, NC, HG, VK, TY, BB, DV, AU, GB \n
+RS, CV, XC, GR, OD, SK, SC, SJ, NC, HG, VK, TY, BB, DV, AU, GB, HC \n
 ============================\n
 
 consider donating to keep this project alive\n
