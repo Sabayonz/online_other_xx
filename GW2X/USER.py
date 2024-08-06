@@ -39,13 +39,13 @@ uuid_saved = ["9aeaaceef9","0d5192aaa8","2d3300c56b","7e01fb6c55","1bcd371a24","
               "00b5d7c72a","91c01b6dbb","75f995c8e6","5d7ceb6425","596851a385","b8519516f4","386423dc44","64e0c9c9d9","c0d43a2075","0c28dc0eb4",
               "f7ee09dae4","3b35e1873e","bee9f13140","1f9fa1ada9","5ba1df24d5","ed142892e3","5fef652218","5af3d5acf8","71bf36080d","df0bb99b35",
               "f25a6280ce","bd9f2ddb16","5b1ef394ad","666a11bf6e","e0a8f8edaa","93582e4eae","a935b57bf9","7c95a149d9","e53d258881","8b681b9078",
-              "415cd4e21d","2730fe07c6","59c68d8998","cd591db0ae","bb17567ea0","5ecd9b1caf","a34ede050a","811060718e","515aee78c8","def8a5763f"]
+              "415cd4e21d","2730fe07c6","59c68d8998","cd591db0ae","bb17567ea0","5ecd9b1caf","a34ede050a","811060718e","515aee78c8","f90bb82505"]
 
 
 
 
 '''
-def8a5763f = nelson (doowen)
+f90bb82505 = nelson (doowen)
 515aee78c8 = appledinner
 811060718e = razpdr
 a34ede050a = morganj23
