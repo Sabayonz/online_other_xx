@@ -41,7 +41,7 @@ uuid_saved = ["9aeaaceef9","0d5192aaa8","2d3300c56b","7e01fb6c55","1bcd371a24","
               "f7ee09dae4","3b35e1873e","bee9f13140","1f9fa1ada9","5ba1df24d5","ed142892e3","5fef652218","5af3d5acf8","71bf36080d","df0bb99b35",
               "f25a6280ce","bd9f2ddb16","5b1ef394ad","666a11bf6e","e0a8f8edaa","93582e4eae","a935b57bf9","7c95a149d9","e53d258881","8b681b9078",
               "415cd4e21d","2730fe07c6","59c68d8998","cd591db0ae","bb17567ea0","5ecd9b1caf","a34ede050a","811060718e","515aee78c8","f90bb82505",
-              "04deef56af","b6fb5606e4","602858b102","1ede003201","e19b4431b1","e99609f8e1","a4b3afed94","3547585727","40e3c97750","9b1a7b63a3",
+              "04deef56af","7074de0998","602858b102","1ede003201","e19b4431b1","e99609f8e1","a4b3afed94","3547585727","40e3c97750","9b1a7b63a3",
               "9a8205abcd","19e23f97e5","7a5725a7b7","58384f5f26","57c44476d8","bd911b6a34","3140d0b61d","666a11bf6e","c62de1e69f","63380e15ce"]
 
 
@@ -66,7 +66,7 @@ e99609f8e1 = reisw
 e19b4431b1 = christmas_pud
 1ede003201 = chargovinda
 602858b102 = Silviohc
-b6fb5606e4 = hamad771
+7074de0998 = hamad771
 04deef56af = gr4cko
 f90bb82505 = nelson (doowen)
 515aee78c8 = appledinner
