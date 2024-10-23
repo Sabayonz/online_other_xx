@@ -14,7 +14,7 @@ KG, TX, DP, NEO, KL, MT, KN, DMR, TZ, HB, VC, MK, NN, YC, MC, IS,
 SS, XK, AK, AT, CW, SL, DD, AS, AV, GH, KK, FK, GM, MM, MF, RG,
 RS, CV, XC, GR, OD, SK, SC, SJ, NC, HG, VK, TY, BB, DV, AU, GB, HC,
 UL, RZ, AP, DW, GC, HM, SV, CG, CP, RW, VC, UM, PC, XR, NT, MC,
-KK, HF, MF, JN, PP, HZ, KJ, RN, GV, CT, CM\n
+KK, HF, MF, JN, PP, HZ, KJ, RN, GV, CT, CM, HJ\n
 ============================\n
 
 GW2X Exist and maintained since April 2023\nconsider donating to keep this project alive\n
@@ -43,13 +43,13 @@ uuid_saved = ["9aeaaceef9","0d5192aaa8","2d3300c56b","7e01fb6c55","1bcd371a24","
               "415cd4e21d","2730fe07c6","59c68d8998","cd591db0ae","bb17567ea0","5ecd9b1caf","a34ede050a","811060718e","515aee78c8","f90bb82505",
               "04deef56af","7074de0998","602858b102","1ede003201","e19b4431b1","e99609f8e1","a4b3afed94","3547585727","40e3c97750","9b1a7b63a3",
               "9a8205abcd","19e23f97e5","7a5725a7b7","58384f5f26","57c44476d8","bd911b6a34","3140d0b61d","666a11bf6e","c62de1e69f","63380e15ce",
-              "cc929ca7aa","b3fb075ca2","01035bf5b7"]
+              "cc929ca7aa","b3fb075ca2","01035bf5b7","d5d1d4a10d"]
 
 
 
 
 '''
-
+d5d1d4a10d = hjjr78
 01035bf5b7 = clementming
 b3fb075ca2 = CraTzy
 cc929ca7aa = GNGR_VKNG
