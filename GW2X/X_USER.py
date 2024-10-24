@@ -14,7 +14,7 @@ KG, TX, DP, NEO, KL, MT, KN, DMR, TZ, HB, VC, MK, NN, YC, MC, IS,
 SS, XK, AK, AT, CW, SL, DD, AS, AV, GH, KK, FK, GM, MM, MF, RG,
 RS, CV, XC, GR, OD, SK, SC, SJ, NC, HG, VK, TY, BB, DV, AU, GB, HC,
 UL, RZ, AP, DW, GC, HM, SV, CG, CP, RW, VC, UM, PC, XR, NT, MC,
-KK, HF, MF, JN, PP, HZ, KJ, RN, GV, CT, CM, HJ\n
+KK, HF, MF, JN, PP, HZ, KJ, RN, GV, CT, CM, HJ, \n
 ============================\n
 
 GW2X Exist and maintained since April 2023\nconsider donating to keep this project alive\n
@@ -38,7 +38,7 @@ uuid_saved = ["9aeaaceef9","0d5192aaa8","2d3300c56b","7e01fb6c55","1bcd371a24","
               "665b24b4cb","2ba0d93345","2e1d27765c","18976cdcf1","4320d52d28","b427b63072","8b07915f7e","e640683c72","c06cb2a792","f334e9a3ac",
               "0a1e3b4a9c","93582e4eae","5a46130f53","eb020857aa","2d8c04efd3","78d33186bb","47a3a5b8dd","d1821fb798","5d4adcbfaf","8dcc3f17ce",
               "00b5d7c72a","91c01b6dbb","75f995c8e6","5d7ceb6425","596851a385","b8519516f4","386423dc44","64e0c9c9d9","c0d43a2075","0c28dc0eb4",
-              "f7ee09dae4","3b35e1873e","bee9f13140","1f9fa1ada9","5ba1df24d5","ed142892e3","5fef652218","5af3d5acf8","71bf36080d","df0bb99b35",
+              "f7ee09dae4","e700072615","bee9f13140","1f9fa1ada9","5ba1df24d5","ed142892e3","5fef652218","5af3d5acf8","71bf36080d","df0bb99b35",
               "f25a6280ce","bd9f2ddb16","5b1ef394ad","666a11bf6e","e0a8f8edaa","93582e4eae","a935b57bf9","7c95a149d9","e53d258881","8b681b9078",
               "415cd4e21d","2730fe07c6","59c68d8998","cd591db0ae","bb17567ea0","5ecd9b1caf","a34ede050a","811060718e","515aee78c8","f90bb82505",
               "04deef56af","7074de0998","602858b102","1ede003201","e19b4431b1","e99609f8e1","a4b3afed94","3547585727","40e3c97750","9b1a7b63a3",
@@ -112,7 +112,7 @@ b8519516f4 = Greenhaus
 5d7ceb6425 = ChillyWilly2
 122cc8f90b = Alte
 bee9f13140 = Arke
-3b35e1873e = xk xkxina
+e700072615 = xk xkxina
 f7ee09dae4 = systemsoldier
 8dcc3f17ce = Isso
 5d4adcbfaf = Mercy
