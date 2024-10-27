@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710A|== \n 
+==|0002710b|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -24,14 +24,14 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["1dae4c1fe18f"]
+uuid_saved = ["1dae4c1fe18f","0a60f04aa4e8"]
 
 
 
 
 '''
 d5d1d4a10d = hjjr78
-01035bf5b7 = clementming
+0a60f04aa4e8 = clementming -
 b3fb075ca2 = CraTzy
 cc929ca7aa = GNGR_VKNG
 63380e15ce = Runnae (saekoslab)
