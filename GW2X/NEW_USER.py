@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710b|== \n 
+==|0002710c|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -24,7 +24,7 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["1dae4c1fe18f","0a60f04aa4e8","c5d83ec5fc2b","defaaeb70270","dc67260491f2","874b675e2df0","7f2667bc6dfc","9012c84a0b40"]
+uuid_saved = ["1dae4c1fe18f","0a60f04aa4e8","c5d83ec5fc2b","defaaeb70270","dc67260491f2","874b675e2df0","7f2667bc6dfc","9012c84a0b40","50c039dd4579"]
 
 
 
@@ -80,7 +80,7 @@ df0bb99b35 = xChasseur
 5af3d5acf8 = RedSkyMessenger
 5fef652218 = Adam AC
 d28f134389 = temporary trial (removed)
-ed142892e3 = rdenog
+50c039dd4579 = rdenog
 5ba1df24d5 = MechFan ihateusingdisc
 0c28dc0eb4 = MMoaddict
 c0d43a2075 = Gumagan
