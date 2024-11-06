@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710C|== \n 
+==|0002710d|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -24,7 +24,7 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["1dae4c1fe18f","0a60f04aa4e8","c5d83ec5fc2b"]
+uuid_saved = ["1dae4c1fe18f","0a60f04aa4e8","c5d83ec5fc2b","defaaeb70270"]
 
 
 
@@ -38,7 +38,7 @@ cc929ca7aa = GNGR_VKNG
 63380e15ce = Runnae (saekoslab)
 c62de1e69f = Kinjake
 666a11bf6e = Hizzy
-3140d0b61d = Porpor
+defaaeb70270 = Porpor
 bd911b6a34 = j4n
 57c44476d8 = Mheleficent
 58384f5f26 = Hamad771 friends
