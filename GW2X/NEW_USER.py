@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710d|== \n 
+==|0002710x|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -25,7 +25,7 @@ thanks for your support !!!
 #=============
 
 uuid_saved = ["1dae4c1fe18f","0a60f04aa4e8","c5d83ec5fc2b","defaaeb70270","dc67260491f2","874b675e2df0","7f2667bc6dfc","9012c84a0b40","50c039dd4579","7975cc14bdf2",
-             "0d1a1868620a","45e6a9b90206"]
+             "0d1a1868620a","45e6a9b90206","28225c679d0e"]
 
 
 
@@ -173,7 +173,7 @@ b7c0fe27f5 = Mizunie
 0d5192aaa8 = Mizunie 3
 9aeaaceef9 = Mizunie 4
 06dc312134 = NJ
-93582e4eae = khicon
+28225c679d0e = khicon
 d461de7177 = Level 1 Crook
 42339b90f9 = Level 1 Crook 2
 26c741dda2 = Level 1 Crook 3
