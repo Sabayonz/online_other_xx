@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710b|== \n 
+==|0002710C|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -14,7 +14,7 @@ KG, TX, DP, NEO, KL, MT, KN, DMR, TZ, HB, VC, MK, NN, YC, MC, IS,
 SS, XK, AK, AT, CW, SL, DD, AS, AV, GH, KK, FK, GM, MM, MF, RG,
 RS, CV, XC, GR, OD, SK, SC, SJ, NC, HG, VK, TY, BB, DV, AU, GB, HC,
 UL, RZ, AP, DW, GC, HM, SV, CG, CP, RW, VC, UM, PC, XR, NT, MC,
-KK, HF, MF, JN, PP, HZ, KJ, RN, GV, CT, CM, HJ, \n
+KK, HF, MF, JN, PP, HZ, KJ, RN, GV, CT, CM, HJ, GK\n
 ============================\n
 
 GW2X Exist and maintained since April 2023\nconsider donating to keep this project alive\n
@@ -24,12 +24,13 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["1dae4c1fe18f","0a60f04aa4e8"]
+uuid_saved = ["1dae4c1fe18f","0a60f04aa4e8","c5d83ec5fc2b"]
 
 
 
 
 '''
+c5d83ec5fc2b = gokiburi8296
 d5d1d4a10d = hjjr78
 0a60f04aa4e8 = clementming -
 b3fb075ca2 = CraTzy
