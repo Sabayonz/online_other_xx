@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710F|== \n 
+==|0002710a|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -24,7 +24,7 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["1dae4c1fe18f","0a60f04aa4e8","c5d83ec5fc2b","defaaeb70270","dc67260491f2","874b675e2df0"]
+uuid_saved = ["1dae4c1fe18f","0a60f04aa4e8","c5d83ec5fc2b","defaaeb70270","dc67260491f2","874b675e2df0","7f2667bc6dfc"]
 
 
 
@@ -222,7 +222,7 @@ da2569d097 = Varek
 ecc010a66e = don't mind me 3
 b275bc6551 = don't mind me 2
 53b625f3d9 = don't mind me
-d05112dc9e = morbiddarkblood
+7f2667bc6dfc = morbiddarkblood
 cf80d1275b = NtajHmoob
 f4437fc8fe = nemesis
 6753ae7c20 = Nemesiss 2
