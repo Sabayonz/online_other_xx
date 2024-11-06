@@ -14,7 +14,7 @@ KG, TX, DP, NEO, KL, MT, KN, DMR, TZ, HB, VC, MK, NN, YC, MC, IS,
 SS, XK, AK, AT, CW, SL, DD, AS, AV, GH, KK, FK, GM, MM, MF, RG,
 RS, CV, XC, GR, OD, SK, SC, SJ, NC, HG, VK, TY, BB, DV, AU, GB, HC,
 UL, RZ, AP, DW, GC, HM, SV, CG, CP, RW, VC, UM, PC, XR, NT, MC,
-KK, HF, MF, JN, PP, HZ, KJ, RN, GV, CT, CM, HJ, GK\n
+KK, HF, MF, JN, PP, HZ, KJ, RN, GV, CT, CM, HJ, GK, DM\n
 ============================\n
 
 GW2X Exist and maintained since April 2023\nconsider donating to keep this project alive\n
