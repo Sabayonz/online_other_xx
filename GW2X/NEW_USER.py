@@ -24,7 +24,8 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["1dae4c1fe18f","0a60f04aa4e8","c5d83ec5fc2b","defaaeb70270","dc67260491f2","874b675e2df0","7f2667bc6dfc","9012c84a0b40","50c039dd4579","7975cc14bdf2"]
+uuid_saved = ["1dae4c1fe18f","0a60f04aa4e8","c5d83ec5fc2b","defaaeb70270","dc67260491f2","874b675e2df0","7f2667bc6dfc","9012c84a0b40","50c039dd4579","7975cc14bdf2",
+             "0d1a1868620a","45e6a9b90206"]
 
 
 
@@ -107,7 +108,7 @@ eb020857aa = Vincef
 93582e4eae = tanztante
 0a1e3b4a9c = kanei
 f334e9a3ac = Dr Murphy Richard
-c06cb2a792 = Matt77 2 (World Explorer)
+45e6a9b90206 = Matt77 2 (World Explorer)
 e640683c72 = Matt77 (World Explorer)
 4320d52d28 = Kil
 18976cdcf1 = neo14a
@@ -123,8 +124,7 @@ fc5966ec43 = Critias
 5044c0deb2 = Astro
 97f88c63d7 = Nossninja
 9012c84a0b40 = Don - oranjelly
-596851a385 = Røpke
-6c6f68f289 = Røpke off
+0d1a1868620a = Røpke
 28ca2077b2 = ASTRO 80Y
 bfd65c5093 = Shaxen
 ccda0f3c76 = Articvb
