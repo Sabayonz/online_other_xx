@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710d|== \n 
+==|0002710e|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -24,12 +24,13 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["1dae4c1fe18f","0a60f04aa4e8","c5d83ec5fc2b","defaaeb70270"]
+uuid_saved = ["1dae4c1fe18f","0a60f04aa4e8","c5d83ec5fc2b","defaaeb70270","dc67260491f2"]
 
 
 
 
 '''
+dc67260491f2 = davggmane
 c5d83ec5fc2b = gokiburi8296
 d5d1d4a10d = hjjr78
 0a60f04aa4e8 = clementming -
