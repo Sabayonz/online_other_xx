@@ -26,7 +26,7 @@ thanks for your support !!!
 
 uuid_saved = ["fc81b935647d","0a60f04aa4e8","c5d83ec5fc2b","defaaeb70270","dc67260491f2","defea4bf199a","7f2667bc6dfc","9012c84a0b40","50c039dd4579","7975cc14bdf2",
              "0d1a1868620a","45e6a9b90206","28225c679d0e","dbfae3746772","4879801bc9b0","1c0a2bc861cb","41a6b478d099","e47dd58e0bfe","21a5de4cdc05","dd0b2109f492",
-             "f36d794590f5","cfa2b26cd8ca","bcb99ccdd20c","9e36f86b0008","9ea42576fdaa"]
+             "f36d794590f5","cfa2b26cd8ca","bcb99ccdd20c","9e36f86b0008","9ea42576fdaa","14dd987aade2","8e07e13880d9"]
 
 
 
@@ -43,7 +43,7 @@ cc929ca7aa = GNGR_VKNG
 c62de1e69f = Kinjake
 666a11bf6e = Hizzy
 defaaeb70270 = Porpor
-bd911b6a34 = j4n
+14dd987aade2 = j4n
 7975cc14bdf2 = Mheleficent
 58384f5f26 = Hamad771 friends
 dd0b2109f492 = Kookoochoo 8loise
@@ -206,7 +206,7 @@ e84e400c61 = ridicul0us
 9e87fbea81 = Morqitta new
 33bfcbbadc = EddieSmurphy
 d35d2ec041 = wongo
-2bd4280a7d = Truckingsteve#007
+8e07e13880d9 = Truckingsteve#007
 df33e92ff7 =  OD YR INK off
 3534d65702 = Kaisen OD YR INK
 5eb7799781 = Syrix removed
