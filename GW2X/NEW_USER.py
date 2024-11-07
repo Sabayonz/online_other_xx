@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710t|== \n 
+==|0002710x|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -26,7 +26,7 @@ thanks for your support !!!
 
 uuid_saved = ["1dae4c1fe18f","0a60f04aa4e8","c5d83ec5fc2b","defaaeb70270","dc67260491f2","78b099bb63bb","7f2667bc6dfc","9012c84a0b40","50c039dd4579","7975cc14bdf2",
              "0d1a1868620a","45e6a9b90206","28225c679d0e","dbfae3746772","4879801bc9b0","1c0a2bc861cb","41a6b478d099","e47dd58e0bfe","21a5de4cdc05","dd0b2109f492",
-             "f36d794590f5","cfa2b26cd8ca","bcb99ccdd20c","9e36f86b0008"]
+             "f36d794590f5","cfa2b26cd8ca","bcb99ccdd20c","9e36f86b0008","9ea42576fdaa"]
 
 
 
@@ -137,7 +137,7 @@ bc399d7191 = Kilmanagh
 c155f9c7d4 = dokyun
 d2e264842a = colebear
 7457621e28 = AzRa
-3034d3fdad = EdZoPlay
+9ea42576fdaa = EdZoPlay
 4879801bc9b0 = TheTwork Sveik584
 dbfae3746772 = TheTwork
 7fe8a30c36 = Steryan
