@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710d|== \n 
+==|0002710t|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -24,7 +24,7 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["fc81b935647d","0a60f04aa4e8","c5d83ec5fc2b","defaaeb70270","dc67260491f2","5f8c82dc5dbb","7f2667bc6dfc","9012c84a0b40","50c039dd4579","7975cc14bdf2",
+uuid_saved = ["fc81b935647d","0a60f04aa4e8","c5d83ec5fc2b","defaaeb70270","dc67260491f2","defea4bf199a","7f2667bc6dfc","9012c84a0b40","50c039dd4579","7975cc14bdf2",
              "0d1a1868620a","45e6a9b90206","28225c679d0e","dbfae3746772","4879801bc9b0","1c0a2bc861cb","41a6b478d099","e47dd58e0bfe","21a5de4cdc05","dd0b2109f492",
              "f36d794590f5","cfa2b26cd8ca","bcb99ccdd20c","9e36f86b0008","9ea42576fdaa"]
 
@@ -103,7 +103,7 @@ f7ee09dae4 = systemsoldier
 8dcc3f17ce = Isso
 5d4adcbfaf = Mercy
 d1821fb798 = jasonyc YC
-5f8c82dc5dbb = Neorinakota
+defea4bf199a = Neorinakota
 78d33186bb = Mohki
 eb020857aa = Vincef
 5a46130f53 = hibrick
