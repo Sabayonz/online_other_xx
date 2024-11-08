@@ -24,7 +24,7 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["fc81b935647d","0a60f04aa4e8","c5d83ec5fc2b","defaaeb70270","dc67260491f2","defea4bf199a","7f2667bc6dfc","9012c84a0b40","50c039dd4579","7975cc14bdf2",
+uuid_saved = ["fc81b935647d","260d27c38695","c5d83ec5fc2b","defaaeb70270","dc67260491f2","defea4bf199a","7f2667bc6dfc","9012c84a0b40","50c039dd4579","7975cc14bdf2",
              "0d1a1868620a","45e6a9b90206","28225c679d0e","dbfae3746772","4879801bc9b0","1c0a2bc861cb","41a6b478d099","e47dd58e0bfe","21a5de4cdc05","dd0b2109f492",
              "f36d794590f5","cfa2b26cd8ca","bcb99ccdd20c","9e36f86b0008","9ea42576fdaa","14dd987aade2","8e07e13880d9"]
 
@@ -36,7 +36,7 @@ uuid_saved = ["fc81b935647d","0a60f04aa4e8","c5d83ec5fc2b","defaaeb70270","dc672
 dc67260491f2 = davggmane
 c5d83ec5fc2b = gokiburi8296
 d5d1d4a10d = hjjr78
-0a60f04aa4e8 = clementming -
+260d27c38695 = clementming -
 bcb99ccdd20c = CraTzy
 cc929ca7aa = GNGR_VKNG
 63380e15ce = Runnae (saekoslab)
