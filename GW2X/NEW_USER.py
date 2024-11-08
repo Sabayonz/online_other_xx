@@ -25,8 +25,8 @@ thanks for your support !!!
 #=============
 
 uuid_saved = ["fc81b935647d","260d27c38695","c5d83ec5fc2b","defaaeb70270","dc67260491f2","defea4bf199a","7f2667bc6dfc","9012c84a0b40","50c039dd4579","7975cc14bdf2",
-             "0d1a1868620a","45e6a9b90206","28225c679d0e","dbfae3746772","4879801bc9b0","1c0a2bc861cb","41a6b478d099","e47dd58e0bfe","21a5de4cdc05","dd0b2109f492",
-             "f36d794590f5","cfa2b26cd8ca","bcb99ccdd20c","9e36f86b0008","9ea42576fdaa","14dd987aade2","8e07e13880d9"]
+             "0d1a1868620a","45e6a9b90206","28225c679d0e","dbfae3746772","4879801bc9b0","1c0a2bc861cb","41a6b478d099","e47dd58e0bfe","21a5de4cdc05","3e5fe19c3927",
+             "f36d794590f5","cfa2b26cd8ca","bcb99ccdd20c","9e36f86b0008","9ea42576fdaa","14dd987aade2","8e07e13880d9","a7d217159b3e"]
 
 
 
@@ -46,7 +46,7 @@ defaaeb70270 = Porpor
 14dd987aade2 = j4n
 7975cc14bdf2 = Mheleficent
 58384f5f26 = Hamad771 friends
-dd0b2109f492 = Kookoochoo 8loise
+3e5fe19c3927 = Kookoochoo 8loise
 19e23f97e5 = mc35879
 9a8205abcd = nesstor1099
 9b1a7b63a3 = Xryeth khal4843
@@ -57,7 +57,7 @@ e99609f8e1 = reisw
 e19b4431b1 = christmas_pud
 1ede003201 = chargovinda
 602858b102 = Silviohc
-7074de0998 = hamad771
+a7d217159b3e = hamad771
 04deef56af = gr4cko
 f90bb82505 = nelson (doowen)
 515aee78c8 = appledinner
