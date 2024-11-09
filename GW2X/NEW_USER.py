@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710t|== \n 
+==|0002710z|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -26,7 +26,7 @@ thanks for your support !!!
 
 uuid_saved = ["fc81b935647d","260d27c38695","c5d83ec5fc2b","defaaeb70270","dc67260491f2","defea4bf199a","7f2667bc6dfc","9012c84a0b40","50c039dd4579","7975cc14bdf2",
              "0d1a1868620a","45e6a9b90206","28225c679d0e","dbfae3746772","4879801bc9b0","1c0a2bc861cb","41a6b478d099","e47dd58e0bfe","21a5de4cdc05","3e5fe19c3927",
-             "f36d794590f5","cfa2b26cd8ca","bcb99ccdd20c","9e36f86b0008","9ea42576fdaa","14dd987aade2","8e07e13880d9","a7d217159b3e"]
+             "f36d794590f5","cfa2b26cd8ca","bcb99ccdd20c","9e36f86b0008","9ea42576fdaa","14dd987aade2","8e07e13880d9","a7d217159b3e","8651b2fea7b2"]
 
 
 
@@ -84,7 +84,7 @@ df0bb99b35 = xChasseur
 5fef652218 = Adam AC
 d28f134389 = temporary trial (removed)
 50c039dd4579 = rdenog
-5ba1df24d5 = MechFan ihateusingdisc
+8651b2fea7b2 = MechFan ihateusingdisc yepdontcar
 0c28dc0eb4 = MMoaddict
 c0d43a2075 = Gumagan
 64e0c9c9d9 = Father Kofo
