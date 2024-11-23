@@ -30,7 +30,7 @@ uuid_saved = ["fc81b935647d","260d27c38695","c5d83ec5fc2b","defaaeb70270","bbe4d
              "f36d794590f5","7d07ce8d8665","bcb99ccdd20c","9e36f86b0008","9ea42576fdaa","14dd987aade2","8e07e13880d9","a7d217159b3e","8651b2fea7b2","9dfdb9eb4b2b",
              "fffee4468210","da91f16e0273","80f6025a1b65","0fe30d9aefb7","e73f19de755e","641de1a4ffef","a9dccb506c93","0c7b7b294bfd","fc71b4ce26ac","2230199d200d",
              "cdca8c0c222d","a34b330c24ae","c20af37ca609","0aa927848ddd","3fcce47d37b1","26b06274a393","c1db8b85552b","19235935724e","39d6d903b3e1","13c41aaca2e2",
-             "5a58382958f8","57e691655447"]
+             "5a58382958f8","57e691655447","e106470b7f05"]
 
 
 
@@ -228,7 +228,7 @@ fc71b4ce26ac = Kaisen OD YR INK (hay_low)
 c34b37dfd9 = polychromatik new
 d6fbdc1520 = Reeeehaww
 0f407ed34e = Mindaugas OFF
-31607ab4c7 = Mindaugas New
+e106470b7f05 = Mindaugas New
 5debc04d27 = Hawaiian
 da2569d097 = Varek
 c20af37ca609 = falco
