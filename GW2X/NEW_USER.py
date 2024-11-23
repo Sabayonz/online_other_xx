@@ -26,7 +26,7 @@ thanks for your support !!!
 #=============
 
 uuid_saved = ["fc81b935647d","260d27c38695","c5d83ec5fc2b","defaaeb70270","bbe4dd66e5b7","defea4bf199a","7f2667bc6dfc","9012c84a0b40","50c039dd4579","7975cc14bdf2",
-             "0d1a1868620a","bb1554a5ff91","28225c679d0e","dbfae3746772","4879801bc9b0","70350bfd0594","41a6b478d099","6ea48521ce54","d87705256fe0","3e5fe19c3927",
+             "0d1a1868620a","bb1554a5ff91","28225c679d0e","dbfae3746772","4879801bc9b0","70350bfd0594","41a6b478d099","ef0c59562187","370bec104062","3e5fe19c3927",
              "f36d794590f5","7d07ce8d8665","bcb99ccdd20c","9e36f86b0008","9ea42576fdaa","14dd987aade2","8e07e13880d9","a7d217159b3e","8651b2fea7b2","9dfdb9eb4b2b",
              "fffee4468210","da91f16e0273","80f6025a1b65","0fe30d9aefb7","e73f19de755e","641de1a4ffef","a9dccb506c93","0c7b7b294bfd","fc71b4ce26ac","2230199d200d",
              "cdca8c0c222d","a34b330c24ae","c20af37ca609","0aa927848ddd","3fcce47d37b1","26b06274a393","c1db8b85552b","19235935724e","39d6d903b3e1","13c41aaca2e2",
@@ -200,8 +200,8 @@ b679c63915 = Luxz
 9ce4111361 = Freq
 e53d258881 = Villain
 75a4159f86 = SquishyPoo1870
-d87705256fe0 = FRTZ
-6ea48521ce54 = FRTZ 2
+370bec104062 = FRTZ
+ef0c59562187 = FRTZ 2
 01035bf5b7 = Akemi
 1680963910 = Robsie
 f106ab283d = J4XXXOR
