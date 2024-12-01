@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710t|== \n 
+==|0002710x|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -31,7 +31,7 @@ uuid_saved = ["fc81b935647d","260d27c38695","c5d83ec5fc2b","defaaeb70270","bbe4d
              "fffee4468210","da91f16e0273","80f6025a1b65","0fe30d9aefb7","e73f19de755e","641de1a4ffef","a9dccb506c93","0c7b7b294bfd","fc71b4ce26ac","2230199d200d",
              "cdca8c0c222d","a34b330c24ae","c20af37ca609","0aa927848ddd","3fcce47d37b1","26b06274a393","c1db8b85552b","19235935724e","39d6d903b3e1","13c41aaca2e2",
              "5a58382958f8","57e691655447","e106470b7f05","fe43bbfa5c62","93df54d5a4f0","6353b3d13fde","6ff42c310441","e004897274f4","3a2bfb0ef1d7","50e66cd69c85",
-             "23dc807d0315"]
+             "23dc807d0315","bd29391f1e21"]
 
 
 
@@ -133,7 +133,7 @@ e640683c72 = Matt77 (World Explorer)
 2d3300c56b = Doople
 2d8c04efd3 = Doople 2
 7e01fb6c55 = TUX1337
-8ccb5171bc = Knallgurke 2
+bd29391f1e21 = Knallgurke 2
 48e98a00fb = Knallgurke
 fc5966ec43 = Critias
 e73f19de755e = TSAO
