@@ -31,7 +31,7 @@ uuid_saved = ["5f309f94c9e5","260d27c38695","c5d83ec5fc2b","defaaeb70270","bbe4d
              "fffee4468210","da91f16e0273","80f6025a1b65","0fe30d9aefb7","e73f19de755e","38fa8ee4da23","a9dccb506c93","0c7b7b294bfd","f0e939adcaa4","2230199d200d",
              "1dd34f147241","a34b330c24ae","c20af37ca609","0aa927848ddd","3fcce47d37b1","26b06274a393","c1db8b85552b","19235935724e","39d6d903b3e1","13c41aaca2e2",
              "5a58382958f8","57e691655447","e106470b7f05","fe43bbfa5c62","93df54d5a4f0","7f26bc6604d2","6ff42c310441","e004897274f4","bd184a1fed18","50e66cd69c85",
-             "23dc807d0315","bd29391f1e21","735c23897fba","7d1490b1045c","b7b915e9d8ed"]
+             "23dc807d0315","bd29391f1e21","735c23897fba","7d1490b1045c","b7b915e9d8ed","ef6ad16b03df"]
 
 
 
@@ -66,7 +66,7 @@ defaaeb70270 = Porpor
 58384f5f26 = Hamad771 friends
 3e5fe19c3927 = Kookoochoo 8loise
 19e23f97e5 = mc35879
-9a8205abcd = nesstor1099
+ef6ad16b03df = nesstor1099
 9b1a7b63a3 = Xryeth khal4843
 40e3c97750 = Porchy
 3547585727 = universeelementor_63535
