@@ -30,7 +30,7 @@ uuid_saved = ["5f309f94c9e5","260d27c38695","c5d83ec5fc2b","defaaeb70270","bbe4d
              "f36d794590f5","7d07ce8d8665","bcb99ccdd20c","98d32797f172","28bc9376b6ce","14dd987aade2","8e07e13880d9","a7d217159b3e","8651b2fea7b2","9dfdb9eb4b2b",
              "fffee4468210","da91f16e0273","80f6025a1b65","0fe30d9aefb7","e73f19de755e","38fa8ee4da23","a9dccb506c93","0c7b7b294bfd","f0e939adcaa4","2230199d200d",
              "1dd34f147241","a34b330c24ae","c20af37ca609","0aa927848ddd","e85c424a4421","26b06274a393","c1db8b85552b","19235935724e","39d6d903b3e1","13c41aaca2e2",
-             "5a58382958f8","57e691655447","e106470b7f05","fe43bbfa5c62","93df54d5a4f0","7f26bc6604d2","6ff42c310441","e004897274f4","bd184a1fed18","50e66cd69c85",
+             "5a58382958f8","57e691655447","e106470b7f05","fe43bbfa5c62","93df54d5a4f0","7f26bc6604d2","6ff42c310441","e004897274f4","bd184a1fed18","c4e9c8b26c0f",
              "23dc807d0315","bd29391f1e21","735c23897fba","4b08dcbfe5bb","b7b915e9d8ed","ef6ad16b03df","dca64f35a2a7","b53fe1c7db73","5f5d5a021b21"]
 
 
@@ -113,7 +113,7 @@ b8519516f4 = Greenhaus
 596851a385 = Avadon
 75f995c8e6 = Assassin
 91c01b6dbb = daddio9646
-50e66cd69c85 = shlomotion
+c4e9c8b26c0f = shlomotion
 1f9fa1ada9 = ChillyWilly
 5d7ceb6425 = ChillyWilly2
 122cc8f90b = Alte
