@@ -32,7 +32,7 @@ uuid_saved = ["5f309f94c9e5","260d27c38695","c5d83ec5fc2b","defaaeb70270","bbe4d
              "1dd34f147241","a34b330c24ae","c20af37ca609","0aa927848ddd","e85c424a4421","26b06274a393","c1db8b85552b","19235935724e","39d6d903b3e1","13c41aaca2e2",
              "5a58382958f8","57e691655447","e106470b7f05","fe43bbfa5c62","93df54d5a4f0","7f26bc6604d2","6ff42c310441","e004897274f4","bd184a1fed18","c4e9c8b26c0f",
              "23dc807d0315","bd29391f1e21","735c23897fba","4b08dcbfe5bb","b7b915e9d8ed","ef6ad16b03df","dca64f35a2a7","b53fe1c7db73","5f5d5a021b21","f26ad47ac5e6",
-             "79ff43aa4fa8"]
+             "79ff43aa4fa8","0c96c8176cc5"]
 
 
 
@@ -85,7 +85,7 @@ f90bb82505 = nelson (doowen)
 515aee78c8 = appledinner
 811060718e = razpdr
 a34ede050a = morganj23
-5ecd9b1caf = hoilch
+0c96c8176cc5 = hoilch
 bb17567ea0 = gold3nb0i
 cd591db0ae = auburnsprings
 70350bfd0594 = david
