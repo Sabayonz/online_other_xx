@@ -18,7 +18,7 @@ KK, HF, MF, JN, PP, HZ, KJ, RN, GV, CT, CM, HJ, GK, DM, FL, MG, RB,
 BL, SN, DW, MM, GG, IC, RH, KW, SG, VR\n
 ============================\n
 
-GW2X Exist and maintained since April 2023\nconsider donating to keep this project alive\n
+GW2X Exist and maintained since April 2023\nconsider donating to keep this project alive\nNO SUBSCRIBTION REQUIRED\n
 thanks for your support !!!
 """
 #=============
