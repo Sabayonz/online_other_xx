@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710A|== \n 
+==|0002710B|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -33,7 +33,7 @@ uuid_saved = ["5f309f94c9e5","260d27c38695","c5d83ec5fc2b","defaaeb70270","bbe4d
              "5a58382958f8","57e691655447","e106470b7f05","fe43bbfa5c62","93df54d5a4f0","7f26bc6604d2","6ff42c310441","e004897274f4","bd184a1fed18","c4e9c8b26c0f",
              "23dc807d0315","cd4e04d53391","ec9c57476fba","4b08dcbfe5bb","b7b915e9d8ed","ef6ad16b03df","dca64f35a2a7","b53fe1c7db73","5f5d5a021b21","f26ad47ac5e6",
              "79ff43aa4fa8","0c96c8176cc5","bd1eefa33ed6","83742f4ed236","fb8bdeadf724","fc33b84d26a9","bd48f0473d6c","9e103acba888","bb1b562e90cc","67adaee1641d",
-             "282208cc20f8","d5f8596da991"]
+             "282208cc20f8","d5f8596da991","2eb699634770"]
 
 
 
@@ -223,7 +223,7 @@ e53d258881 = Villain
 1680963910 = Robsie
 f106ab283d = J4XXXOR
 7d07ce8d8665 = ivicask
-c3d30ec84c = ivicask 2
+2eb699634770 = ivicask 2
 da698b0e4c = RarePepe
 d7e53d75f2 = Aiden Cross 
 3496ec8c63 = tiredtbh
