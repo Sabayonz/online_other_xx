@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710E|== \n 
+==|0002710F|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -25,7 +25,7 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["36799a08504a","260d27c38695","c5d83ec5fc2b","defaaeb70270","bbe4dd66e5b7","defea4bf199a","7f2667bc6dfc","9012c84a0b40","50c039dd4579","6f45e22ec708",
+uuid_saved = ["295fa0f2ba7f","260d27c38695","c5d83ec5fc2b","defaaeb70270","bbe4dd66e5b7","defea4bf199a","7f2667bc6dfc","9012c84a0b40","50c039dd4579","6f45e22ec708",
              "0d1a1868620a","bb1554a5ff91","28225c679d0e","dbfae3746772","4879801bc9b0","70350bfd0594","0f08565828a5","5711b4d1d871","465c5182bbf9","3e5fe19c3927",
              "f36d794590f5","7d07ce8d8665","bcb99ccdd20c","98d32797f172","28bc9376b6ce","14dd987aade2","8e07e13880d9","a7d217159b3e","013360a945e8","9dfdb9eb4b2b",
              "fffee4468210","da91f16e0273","80f6025a1b65","0fe30d9aefb7","e73f19de755e","38fa8ee4da23","a9dccb506c93","0c7b7b294bfd","f0e939adcaa4","2230199d200d",
@@ -262,7 +262,7 @@ a34b330c24ae = Nemesiss 2
 2fda4ec1b0 = kowa ( GIVE ACCOUNT TO Robbes )
 93df54d5a4f0 = Robbes
 d72f0e4f08 = rietzee
-36799a08504a = sabay
+295fa0f2ba7f = sabay
 
 '''
 #=============
