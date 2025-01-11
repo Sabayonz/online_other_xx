@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710G|== \n 
+==|0002710h|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -30,7 +30,7 @@ uuid_saved = ["295fa0f2ba7f","260d27c38695","c5d83ec5fc2b","defaaeb70270","bbe4d
              "f36d794590f5","7d07ce8d8665","bcb99ccdd20c","98d32797f172","28bc9376b6ce","14dd987aade2","8e07e13880d9","a7d217159b3e","013360a945e8","9dfdb9eb4b2b",
              "fffee4468210","da91f16e0273","80f6025a1b65","0fe30d9aefb7","e73f19de755e","38fa8ee4da23","a9dccb506c93","0c7b7b294bfd","f0e939adcaa4","2230199d200d",
              "1dd34f147241","a34b330c24ae","c20af37ca609","0aa927848ddd","e85c424a4421","26b06274a393","e35062dbc245","19235935724e","39d6d903b3e1","13c41aaca2e2",
-             "5a58382958f8","57e691655447","073ceb9bd760","fe43bbfa5c62","93df54d5a4f0","7f26bc6604d2","6ff42c310441","e004897274f4","bd184a1fed18","c4e9c8b26c0f",
+             "0f74bb9974c3","57e691655447","073ceb9bd760","fe43bbfa5c62","93df54d5a4f0","7f26bc6604d2","6ff42c310441","e004897274f4","bd184a1fed18","c4e9c8b26c0f",
              "23dc807d0315","cd4e04d53391","ec9c57476fba","4b08dcbfe5bb","b7b915e9d8ed","ef6ad16b03df","dca64f35a2a7","b53fe1c7db73","5f5d5a021b21","f26ad47ac5e6",
              "79ff43aa4fa8","0c96c8176cc5","bd1eefa33ed6","83742f4ed236","fb8bdeadf724","fc33b84d26a9","b683298fe41d","9e103acba888","bb1b562e90cc","071c41b5d93b",
              "282208cc20f8","d5f8596da991","2eb699634770","aa4bdc5de6d1","b65512c57141","05783f867ba3","652c79d5e8c2","7d03588d2a2a","a1d2f539858a","f5bb35fc9656"]
@@ -103,7 +103,7 @@ bb17567ea0 = gold3nb0i
 cd591db0ae = auburnsprings
 70350bfd0594 = david
 2730fe07c6 = beanboifresh
-5a58382958f8 = tyrantt0_36151
+0f74bb9974c3 = tyrantt0_36151
 8b681b9078 = akulf123 riend
 e53d258881 = vekqurin
 7c95a149d9 = hudsightgamer
