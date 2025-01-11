@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710F|== \n 
+==|0002710G|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -33,13 +33,13 @@ uuid_saved = ["295fa0f2ba7f","260d27c38695","c5d83ec5fc2b","defaaeb70270","bbe4d
              "5a58382958f8","57e691655447","073ceb9bd760","fe43bbfa5c62","93df54d5a4f0","7f26bc6604d2","6ff42c310441","e004897274f4","bd184a1fed18","c4e9c8b26c0f",
              "23dc807d0315","cd4e04d53391","ec9c57476fba","4b08dcbfe5bb","b7b915e9d8ed","ef6ad16b03df","dca64f35a2a7","b53fe1c7db73","5f5d5a021b21","f26ad47ac5e6",
              "79ff43aa4fa8","0c96c8176cc5","bd1eefa33ed6","83742f4ed236","fb8bdeadf724","fc33b84d26a9","b683298fe41d","9e103acba888","bb1b562e90cc","071c41b5d93b",
-             "282208cc20f8","d5f8596da991","2eb699634770","aa4bdc5de6d1","b65512c57141","05783f867ba3","652c79d5e8c2","7d03588d2a2a","a1d2f539858a","f89aeeb04c39"]
+             "282208cc20f8","d5f8596da991","2eb699634770","aa4bdc5de6d1","b65512c57141","05783f867ba3","652c79d5e8c2","7d03588d2a2a","a1d2f539858a","f5bb35fc9656"]
 
 
 
 
 '''
-f89aeeb04c39 = leo pupin
+f5bb35fc9656 = leo pupin
 7d03588d2a2a = ynzyu
 652c79d5e8c2 = 7amood771
 05783f867ba3 = matthw7010
