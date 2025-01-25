@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710x|== \n 
+==|0002710r|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -34,7 +34,7 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","defaaeb70270","bbe4d
              "23dc807d0315","cd4e04d53391","ec9c57476fba","4b08dcbfe5bb","2f80e32358b2","ef6ad16b03df","dca64f35a2a7","b53fe1c7db73","5f5d5a021b21","f26ad47ac5e6",
              "79ff43aa4fa8","0c96c8176cc5","3911dee33506","83742f4ed236","fb8bdeadf724","fc33b84d26a9","b683298fe41d","9e103acba888","818570036568","071c41b5d93b",
              "282208cc20f8","d5f8596da991","2eb699634770","aa4bdc5de6d1","b65512c57141","05783f867ba3","652c79d5e8c2","7d03588d2a2a","a1d2f539858a","f5bb35fc9656",
-             "8b7ccd302fc3","7fd9ce29b273"]
+             "8b7ccd302fc3","7fd9ce29b273","15bb9bdd383e"]
 
 
 
@@ -227,7 +227,7 @@ e53d258881 = Villain
 465c5182bbf9 = FRTZ
 5711b4d1d871 = FRTZ 2
 01035bf5b7 = Akemi
-1680963910 = Robsie
+15bb9bdd383e = Robsie
 f106ab283d = J4XXXOR
 7d07ce8d8665 = ivicask
 2eb699634770 = ivicask 2
