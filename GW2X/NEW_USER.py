@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710M|== \n 
+==|0002710R|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -26,7 +26,7 @@ thanks for your support !!!
 #=============
 
 uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","defaaeb70270","bbe4dd66e5b7","defea4bf199a","7f2667bc6dfc","cd8a7233c515","50c039dd4579","6f45e22ec708",
-             "0d1a1868620a","bb1554a5ff91","28225c679d0e","dbfae3746772","4879801bc9b0","70350bfd0594","0f08565828a5","5711b4d1d871","465c5182bbf9","3e5fe19c3927",
+             "88bf59952163","bb1554a5ff91","28225c679d0e","dbfae3746772","4879801bc9b0","70350bfd0594","0f08565828a5","5711b4d1d871","465c5182bbf9","3e5fe19c3927",
              "eb8bd8caffb6","7d07ce8d8665","bcb99ccdd20c","98d32797f172","28bc9376b6ce","14dd987aade2","8e07e13880d9","a7d217159b3e","013360a945e8","9dfdb9eb4b2b",
              "fffee4468210","da91f16e0273","544cacde2182","0fe30d9aefb7","e73f19de755e","38fa8ee4da23","a9dccb506c93","0c7b7b294bfd","f0e939adcaa4","2230199d200d",
              "1dd34f147241","42ef9433ab99","c20af37ca609","0aa927848ddd","e85c424a4421","8cb166d967ba","e35062dbc245","19235935724e","39d6d903b3e1","13c41aaca2e2",
@@ -162,7 +162,7 @@ e73f19de755e = TSAO
 5044c0deb2 = Astro
 97f88c63d7 = Nossninja
 cd8a7233c515 = Don - oranjelly
-0d1a1868620a = Røpke
+88bf59952163 = Røpke
 28ca2077b2 = ASTRO 80Y
 fe43bbfa5c62 = Shaxen bjokes
 ccda0f3c76 = Articvb
