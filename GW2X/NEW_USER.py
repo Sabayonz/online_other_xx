@@ -16,7 +16,7 @@ RS, CV, XC, GR, OD, SK, SC, SJ, NC, HG, VK, TY, BB, DV, AU, GB, HC,
 UL, RZ, AP, DW, GC, HM, SV, CG, CP, RW, VC, UM, PC, XR, NT, MC,
 KK, HF, MF, JN, PP, HZ, KJ, RN, GV, CT, CM, HJ, GK, DM, FL, MG, RB,
 BL, SN, DW, MM, GG, IC, RH, KW, SG, VR, AX, TX, MT, SW, RC, TK, AR,
-YK \n
+YK, BS \n
 ============================\n
 
 GW2X Exist and maintained since April 2023\nconsider donating to keep this project alive\nNO SUBSCRIBTION REQUIRED\n
@@ -36,12 +36,13 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","defaaeb70270","bbe4d
              "79ff43aa4fa8","0c96c8176cc5","e6ede2333014","83742f4ed236","fb8bdeadf724","fc33b84d26a9","b683298fe41d","9e103acba888","818570036568","071c41b5d93b",
              "282208cc20f8","d5f8596da991","2eb699634770","aa4bdc5de6d1","b65512c57141","05783f867ba3","652c79d5e8c2","575d468d903b","a1d2f539858a","c6a2035dd0a2",
              "8b7ccd302fc3","7fd9ce29b273","15bb9bdd383e","34fa18332624","97f6628d0558","d54e5e1398e4","e659749a6440","47aa491dc988","b562d76f1419","2fb67367b2f3",
-             "1da1095b530a","88184c0305ec","020ee934e806"]
+             "1da1095b530a","88184c0305ec","020ee934e806","872dfeeba692"]
 
 
 
 
 '''
+872dfeeba692 = bbshark23
 020ee934e806 = yukiochan
 1da1095b530a = anyrouz
 2fb67367b2f3 = turkushan
