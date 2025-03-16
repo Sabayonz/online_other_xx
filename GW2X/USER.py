@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710M|== \n 
+==|0002710S|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -36,7 +36,7 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","defaaeb70270","bbe4d
              "79ff43aa4fa8","0c96c8176cc5","e6ede2333014","83742f4ed236","74495f9e6b24","fc33b84d26a9","b683298fe41d","9e103acba888","818570036568","071c41b5d93b",
              "282208cc20f8","d5f8596da991","f9414e357b64","aa4bdc5de6d1","b65512c57141","05783f867ba3","652c79d5e8c2","575d468d903b","a1d2f539858a","c6a2035dd0a2",
              "8b7ccd302fc3","7fd9ce29b273","15bb9bdd383e","34fa18332624","97f6628d0558","d54e5e1398e4","e659749a6440","47aa491dc988","b562d76f1419","2fb67367b2f3",
-             "1da1095b530a","88184c0305ec","020ee934e806","3df932ca2794","d39882a5d11b","103b75ddae0d"]
+             "1da1095b530a","88184c0305ec","020ee934e806","3df932ca2794","d39882a5d11b","103b75ddae0d","5011e1070865"]
 
 
 
@@ -101,7 +101,7 @@ a4b3afed94 = vector_4444 wise old man
 e99609f8e1 = reisw
 0fe30d9aefb7 = christmas_pud
 1ede003201 = chargovinda
-602858b102 = Silviohc
+5011e1070865 = Silviohc
 a7d217159b3e = hamad771
 f26ad47ac5e6 = gr4cko
 f90bb82505 = nelson (doowen)
