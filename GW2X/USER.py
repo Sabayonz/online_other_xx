@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710S|== \n 
+==|0002710R|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
