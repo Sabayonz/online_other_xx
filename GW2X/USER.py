@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710T|== \n 
+==|0002710H|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -16,7 +16,7 @@ RS, CV, XC, GR, OD, SK, SC, SJ, NC, HG, VK, TY, BB, DV, AU, GB, HC,
 UL, RZ, AP, DW, GC, HM, SV, CG, CP, RW, VC, UM, PC, XR, NT, MC,
 KK, HF, MF, JN, PP, HZ, KJ, RN, GV, CT, CM, HJ, GK, DM, FL, MG, RB,
 BL, SN, DW, MM, GG, IC, RH, KW, SG, VR, AX, TX, MT, SW, RC, TK, AR,
-YK, BS, JD, CR, VL, RC, RO, SJ \n
+YK, BS, JD, CR, VL, RC, RO, SJ, HA \n
 ============================\n
 
 GW2X Exist and maintained since April 2023\nconsider donating to keep this project alive\nNO SUBSCRIBTION REQUIRED\n
@@ -37,12 +37,13 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","defaaeb70270","bbe4d
              "282208cc20f8","d5f8596da991","f9414e357b64","ebf1032d523f","b65512c57141","05783f867ba3","652c79d5e8c2","575d468d903b","a1d2f539858a","c6a2035dd0a2",
              "8b7ccd302fc3","7fd9ce29b273","15bb9bdd383e","34fa18332624","97f6628d0558","d54e5e1398e4","e659749a6440","47aa491dc988","b562d76f1419","2fb67367b2f3",
              "1da1095b530a","88184c0305ec","020ee934e806","3df932ca2794","d39882a5d11b","103b75ddae0d","5011e1070865","157519e0ec0d","a1ae04cd9461","00d41dd5a3c6",
-             "67f0e3df0297","6e2877292a2c"]
+             "67f0e3df0297","6e2877292a2c","253e0730a52e"]
 
 
 
 
 '''
+253e0730a52e = hayven gruenerkodo
 6e2877292a2c = sojiken wendys
 67f0e3df0297 = rook
 00d41dd5a3c6 = rchompz
