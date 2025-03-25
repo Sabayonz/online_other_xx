@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710B|== \n 
+==|0002710K|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -27,7 +27,7 @@ thanks for your support !!!
 #=============
 
 uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","defaaeb70270","bbe4dd66e5b7","defea4bf199a","7f2667bc6dfc","cd8a7233c515","28d007b687d5","6f45e22ec708",
-             "88bf59952163","7bedc41ad5b6","28225c679d0e","61725d1efcd0","4879801bc9b0","70350bfd0594","93e18dc68b7a","5711b4d1d871","465c5182bbf9","6839045e57b0",
+             "88bf59952163","7bedc41ad5b6","1303cfb17242","61725d1efcd0","4879801bc9b0","70350bfd0594","93e18dc68b7a","5711b4d1d871","465c5182bbf9","6839045e57b0",
              "eb8bd8caffb6","5f31c09861b8","bcb99ccdd20c","98d32797f172","eb2099e2bb81","14dd987aade2","8e07e13880d9","a7d217159b3e","ce63e03d4633","9dfdb9eb4b2b",
              "fffee4468210","da91f16e0273","544cacde2182","0fe30d9aefb7","e73f19de755e","38fa8ee4da23","a9dccb506c93","0c7b7b294bfd","73596a0d1b4b","407deca13712",
              "1dd34f147241","42ef9433ab99","c20af37ca609","0aa927848ddd","e85c424a4421","8cb166d967ba","e35062dbc245","19235935724e","b3f9d10fbe34","13c41aaca2e2",
@@ -228,7 +228,7 @@ ca02c15aa2 = Taldor
 0d5192aaa8 = Mizunie 3
 9aeaaceef9 = Mizunie 4
 06dc312134 = NJ
-28225c679d0e = khicon
+1303cfb17242 = khicon
 d461de7177 = Level 1 Crook
 42339b90f9 = Level 1 Crook 2
 26c741dda2 = Level 1 Crook 3
