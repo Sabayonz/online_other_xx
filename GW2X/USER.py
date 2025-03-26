@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710R|== \n 
+==|0002710V|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -31,7 +31,7 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","defaaeb70270","bbe4d
              "eb8bd8caffb6","5f31c09861b8","bcb99ccdd20c","98d32797f172","eb2099e2bb81","14dd987aade2","8e07e13880d9","a7d217159b3e","ce63e03d4633","9dfdb9eb4b2b",
              "fffee4468210","da91f16e0273","544cacde2182","0fe30d9aefb7","e73f19de755e","38fa8ee4da23","a9dccb506c93","0c7b7b294bfd","73596a0d1b4b","407deca13712",
              "1dd34f147241","42ef9433ab99","c20af37ca609","0aa927848ddd","e85c424a4421","8cb166d967ba","44ccb763a00e","19235935724e","b3f9d10fbe34","13c41aaca2e2",
-             "0f74bb9974c3","57e691655447","7fc15567bdc7","9d6ba27c6635","93df54d5a4f0","7f26bc6604d2","6ff42c310441","e004897274f4","bd184a1fed18","c4e9c8b26c0f",
+             "0f74bb9974c3","57e691655447","7fc15567bdc7","9d6ba27c6635","93df54d5a4f0","7f26bc6604d2","6ff42c310441","e004897274f4","58f6bf6ed1db","c4e9c8b26c0f",
              "454b4ed7edfc","cd4e04d53391","390ced62abc5","4b08dcbfe5bb","2f80e32358b2","ef6ad16b03df","dca64f35a2a7","b53fe1c7db73","5f5d5a021b21","f26ad47ac5e6",
              "79ff43aa4fa8","0c96c8176cc5","e6ede2333014","c58ae07ba84c","74495f9e6b24","fc33b84d26a9","b683298fe41d","7690f65354c2","818570036568","071c41b5d93b",
              "282208cc20f8","d5f8596da991","f9414e357b64","ebf1032d523f","b65512c57141","05783f867ba3","652c79d5e8c2","575d468d903b","a1d2f539858a","c6a2035dd0a2",
@@ -271,7 +271,7 @@ c34b37dfd9 = polychromatik new
 0f407ed34e = Mindaugas OFF
 7fc15567bdc7 = Mindaugas New
 5debc04d27 = Hawaiian
-bd184a1fed18 = Varek
+58f6bf6ed1db = Varek
 c20af37ca609 = falco
 6fe74d85f3 = Jaxx Armstrong
 ecc010a66e = don't mind me 3
