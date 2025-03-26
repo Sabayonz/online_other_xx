@@ -1,10 +1,10 @@
 xxxx1 = 0x027F6360
 xxxx2 = 0xCD2A70
-xxxx3 = 0x152EBFB
+xxxx3 = 0x152ED0B
 xxxx4 = 0xCDD326
-xxxx5 = 0x152EC04
-xxxx6 = 0x1598C99
-xxxx7 = 0x1598C9D
+xxxx5 = 0x152ED14
+xxxx6 = 0x1598DA9
+xxxx7 = 0x1598DAD
 xxxx8 = 0x2513360
 xxxx9 = 0x286CB5C
 xxxx10 = 30000
