@@ -1,4 +1,4 @@
-xxxx1 = 0x027F6350
+xxxx1 = 0x027F6360
 xxxx2 = 0xCD2A70
 xxxx3 = 0x152ED0B
 xxxx4 = 0xCDD326
@@ -6,10 +6,10 @@ xxxx5 = 0x152ED14
 xxxx6 = 0x1598DA9
 xxxx7 = 0x1598DAD
 xxxx8 = 0x2513360
-xxxx9 = 0x286CB4C
+xxxx9 = 0x286CB5C
 xxxx10 = 30000
-xxxx11 = 0x0286E6C0
-xxxx12 = 0x027F2410
+xxxx11 = 0x0286E6D0
+xxxx12 = 0x027F2420
 xxxx13 = 0x29535C
 xxxx14 = 0x295353
 xxxx15 = 0x6C731A
@@ -22,7 +22,7 @@ xxxx21 = 0x6DAB07
 xxxx22 = 0x6DACFA
 xxxx23 = 0x58ED8D
 xxxx24 = 0x0
-xxxx25 = 0x027F1478
+xxxx25 = 0x027F1488
 
 
 #################
