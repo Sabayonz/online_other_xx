@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710L|== \n 
+==|0002710V|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -33,7 +33,7 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","defaaeb70270","bbe4d
              "1dd34f147241","42ef9433ab99","c20af37ca609","0aa927848ddd","18c7ca4613c5","8cb166d967ba","44ccb763a00e","19235935724e","b3f9d10fbe34","13c41aaca2e2",
              "0f74bb9974c3","57e691655447","7fc15567bdc7","9d6ba27c6635","93df54d5a4f0","7f26bc6604d2","6ff42c310441","e004897274f4","58f6bf6ed1db","c4e9c8b26c0f",
              "454b4ed7edfc","cd4e04d53391","390ced62abc5","4b08dcbfe5bb","2f80e32358b2","51507ffd6521","dca64f35a2a7","b53fe1c7db73","5f5d5a021b21","f26ad47ac5e6",
-             "79ff43aa4fa8","0c96c8176cc5","f22096dc6a42","c58ae07ba84c","74495f9e6b24","fc33b84d26a9","b683298fe41d","7690f65354c2","818570036568","071c41b5d93b",
+             "79ff43aa4fa8","0c96c8176cc5","f22096dc6a42","c58ae07ba84c","74495f9e6b24","fc33b84d26a9","b683298fe41d","7690f65354c2","818570036568","a35329a359dc",
              "282208cc20f8","d5f8596da991","f9414e357b64","ebf1032d523f","b65512c57141","05783f867ba3","652c79d5e8c2","575d468d903b","a1d2f539858a","c6a2035dd0a2",
              "8b7ccd302fc3","7fd9ce29b273","15bb9bdd383e","34fa18332624","97f6628d0558","d54e5e1398e4","e659749a6440","47aa491dc988","b562d76f1419","2fb67367b2f3",
              "1da1095b530a","88184c0305ec","020ee934e806","3df932ca2794","d39882a5d11b","103b75ddae0d","5011e1070865","157519e0ec0d","a1ae04cd9461","00d41dd5a3c6",
@@ -65,7 +65,7 @@ c6a2035dd0a2 = leo pupin
 ebf1032d523f = testex
 d5f8596da991 = lanceiro1756
 282208cc20f8 = songokeush
-071c41b5d93b = varleria
+a35329a359dc = varleria
 818570036568 = smolghost
 7690f65354c2 = keywiz
 b683298fe41d = rhoid899 1
