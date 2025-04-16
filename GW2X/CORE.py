@@ -1,28 +1,28 @@
-xxxx1 = 0x027F6360
-xxxx2 = 0xCD2A70
-xxxx3 = 0x152ED0B
-xxxx4 = 0xCDD326
-xxxx5 = 0x152ED14
-xxxx6 = 0x1598DA9
-xxxx7 = 0x1598DAD
-xxxx8 = 0x2513360
-xxxx9 = 0x286CB4C
+xxxx1 = 0x02801750
+xxxx2 = 0xCDA1E0
+xxxx3 = 0x15380AB
+xxxx4 = 0xCE4AD6
+xxxx5 = 0x15380B4
+xxxx6 = 0x15A2569
+xxxx7 = 0x15A256D
+xxxx8 = 0x251E360
+xxxx9 = 0x2877FCC
 xxxx10 = 30000
-xxxx11 = 0x0286E6C0
-xxxx12 = 0x027F2420
-xxxx13 = 0x29535C
-xxxx14 = 0x295353
-xxxx15 = 0x6C731A
-xxxx16 = 0x6DA2E1
-xxxx17 = 0x6D72C7
-xxxx18 = 0x6D9385
-xxxx19 = 0x1503746
-xxxx20 = 0x58F64F
-xxxx21 = 0x6DAB07
-xxxx22 = 0x6DACFA
-xxxx23 = 0x58ED8D
+xxxx11 = 0x02879B40
+xxxx12 = 0x027FD810
+xxxx13 = 0x2954FC
+xxxx14 = 0x2954F3
+xxxx15 = 0x6C7DAA
+xxxx16 = 0x6DAD9A
+xxxx17 = 0x6D7D77
+xxxx18 = 0x6D9E35
+xxxx19 = 0x150C246
+xxxx20 = 0x59002F
+xxxx21 = 0x6DB5D7
+xxxx22 = 0x6DB7CA
+xxxx23 = 0x58F76D
 xxxx24 = 0x0
-xxxx25 = 0x027F1488
+xxxx25 = 0x027FC878
 
 
 #################
@@ -30,8 +30,8 @@ zzzz1 = 8493291127782557243
 zzzz2 = 8493291127782555705
 zzzz3 = 2958583480223761423
 zzzz4 = 2958583480223761679
-zzzz5 = 4078623114895770867
-zzzz6 = 4078640707081815283
+zzzz5 = 4120737708774474995
+zzzz6 = 4120755300960519411
 zzzz7 = 1517730614438924275
 zzzz8 = 1517730614455701491
 zzzz9 = 1140
@@ -60,10 +60,10 @@ zzzz31 = 30581
 zzzz32 = 30580
 zzzz33 = 4083
 zzzz34 = 37008
-zzzz35 = 0xA6
+zzzz35 = 0xA8
 zzzz36 = 789519733
 zzzz37 = 789519732
-zzzz38 = 0x103
+zzzz38 = 0x105
 zzzz39 = 997507205
 zzzz40 = 997572741
 
@@ -191,7 +191,7 @@ zzzz40 = 997572741
 
 
 
-core_update = "Core: Mar_26_2025"
+core_update = "Core: Apr_16_2025"
 LWS4_EOD_AND_SOTO_MAP_LIST = [1226, 1248, 1526, 1517, 1509, 1510, 1371, 1015, 1317, 1428, 1422, 1490, 1438, 1442, 1452, 1550, 1554]
 pvp_pve_map = [350, 549, 1305, 1171, 554, 795, 1163, 900, 894, 875, 95, 96, 1099, 38, 899]
 versionnow = "1.0.0.1"
