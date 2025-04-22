@@ -16,7 +16,7 @@ RS, CV, XC, GR, OD, SK, SC, SJ, NC, HG, VK, TY, BB, DV, AU, GB, HC,
 UL, RZ, AP, DW, GC, HM, SV, CG, CP, RW, VC, UM, PC, XR, NT, MC,
 KK, HF, MF, JN, PP, HZ, KJ, RN, GV, CT, CM, HJ, GK, DM, FL, MG, RB,
 BL, SN, DW, MM, GG, IC, RH, KW, SG, VR, AX, TX, MT, SW, RC, TK, AR,
-YK, BS, JD, CR, VL, RC, RO, SJ, HA, WT, LO, EV, SO, HC, QR \n
+YK, BS, JD, CR, VL, RC, RO, SJ, HA, WT, LO, EV, SO, HC, QR, KJ \n
 ============================\n
 
 GW2X Exist and maintained since April 2023\nconsider donating to keep this project alive\nNO SUBSCRIBTION REQUIRED\n
@@ -38,12 +38,13 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","defaaeb70270","bbe4d
              "8b7ccd302fc3","7fd9ce29b273","15bb9bdd383e","ae26cf86bc82","97f6628d0558","d54e5e1398e4","e659749a6440","47aa491dc988","b562d76f1419","2fb67367b2f3",
              "1da1095b530a","88184c0305ec","020ee934e806","3df932ca2794","d39882a5d11b","103b75ddae0d","5011e1070865","157519e0ec0d","01c394ddda5d","00d41dd5a3c6",
              "67f0e3df0297","6e2877292a2c","253e0730a52e","59814b7991dd","d124ec0d35f4","f7eb05aa7621","df112dffff14","7d3a76b1c4ce","676544bb325e","34d933a5ee67",
-             "6436e69d0ed4","4739e0169158","680363e23cca","bbe2001e9659","08bb86dd2f0d","19f8d8d8a18f","ae1d53aeb4c2"]
+             "6436e69d0ed4","4739e0169158","680363e23cca","bbe2001e9659","08bb86dd2f0d","19f8d8d8a18f","ae1d53aeb4c2","f28e5c15146a"]
 
 
 
 
 ''' 
+f28e5c15146a = kejbord
 19f8d8d8a18f = qiro
 680363e23cca = hyckz
 4739e0169158 = soe
