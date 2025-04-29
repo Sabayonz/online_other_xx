@@ -40,7 +40,7 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","defaaeb70270","bbe4d
              "1da1095b530a","88184c0305ec","020ee934e806","3df932ca2794","d39882a5d11b","103b75ddae0d","5011e1070865","157519e0ec0d","01c394ddda5d","00d41dd5a3c6",
              "67f0e3df0297","6e2877292a2c","253e0730a52e","59814b7991dd","d124ec0d35f4","f7eb05aa7621","df112dffff14","7d3a76b1c4ce","676544bb325e","34d933a5ee67",
              "6436e69d0ed4","4739e0169158","680363e23cca","bbe2001e9659","08bb86dd2f0d","19f8d8d8a18f","ae1d53aeb4c2","f28e5c15146a","9fd732c35ad3","a754914e029e",
-             "4de082e0a547"]
+             "4de082e0a547","6225354ce65f"]
 
 
 
@@ -155,7 +155,7 @@ c0d43a2075 = Gumagan
 386423dc44 = Kinnikuman
 b8519516f4 = Greenhaus
 596851a385 = Avadon
-75f995c8e6 = Assassin
+6225354ce65f = Assassin
 7fd9ce29b273 = daddio9646
 c4e9c8b26c0f = shlomotion
 1f9fa1ada9 = ChillyWilly
