@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710X|== \n 
+==|0002710K|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -33,7 +33,7 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","defaaeb70270","bbe4d
              "fffee4468210","da91f16e0273","544cacde2182","0fe30d9aefb7","e73f19de755e","38fa8ee4da23","a9dccb506c93","0c7b7b294bfd","73596a0d1b4b","407deca13712",
              "1dd34f147241","42ef9433ab99","c20af37ca609","0aa927848ddd","18c7ca4613c5","8cb166d967ba","44ccb763a00e","19235935724e","b3f9d10fbe34","13c41aaca2e2",
              "0f74bb9974c3","57e691655447","7fc15567bdc7","9d6ba27c6635","93df54d5a4f0","7f26bc6604d2","6ff42c310441","e004897274f4","58f6bf6ed1db","c4e9c8b26c0f",
-             "454b4ed7edfc","d5dd3238f660","390ced62abc5","4b08dcbfe5bb","2f80e32358b2","51507ffd6521","dca64f35a2a7","b53fe1c7db73","ca2787da7075","f26ad47ac5e6",
+             "454b4ed7edfc","d5dd3238f660","390ced62abc5","4b08dcbfe5bb","00be83340d79","51507ffd6521","dca64f35a2a7","b53fe1c7db73","ca2787da7075","f26ad47ac5e6",
              "79ff43aa4fa8","0c96c8176cc5","f22096dc6a42","c58ae07ba84c","74495f9e6b24","fc33b84d26a9","b683298fe41d","7690f65354c2","818570036568","a35329a359dc",
              "282208cc20f8","d5f8596da991","f9414e357b64","ebf1032d523f","b65512c57141","05783f867ba3","652c79d5e8c2","575d468d903b","a1d2f539858a","c6a2035dd0a2",
              "8b7ccd302fc3","7fd9ce29b273","15bb9bdd383e","ae26cf86bc82","97f6628d0558","e3541a824ecd","e659749a6440","47aa491dc988","b562d76f1419","2fb67367b2f3",
@@ -186,7 +186,7 @@ e640683c72 = Matt77 (World Explorer)
 2d8c04efd3 = Doople 2
 7e01fb6c55 = TUX1337
 d5dd3238f660 = Knallgurke 2
-2f80e32358b2 = Knallgurke
+00be83340d79 = Knallgurke
 fc5966ec43 = Critias
 e73f19de755e = TSAO
 0d0f19b7a1 = TSAO 2
