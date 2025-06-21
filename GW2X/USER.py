@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710D|== \n 
+==|0002710B|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -40,7 +40,8 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","defaaeb70270","bbe4d
              "1da1095b530a","88184c0305ec","020ee934e806","3df932ca2794","d39882a5d11b","103b75ddae0d","5011e1070865","157519e0ec0d","01c394ddda5d","00d41dd5a3c6",
              "67f0e3df0297","6e2877292a2c","253e0730a52e","59814b7991dd","d124ec0d35f4","f7eb05aa7621","df112dffff14","7d3a76b1c4ce","676544bb325e","34d933a5ee67",
              "6436e69d0ed4","4739e0169158","680363e23cca","bbe2001e9659","08bb86dd2f0d","19f8d8d8a18f","bd8e021fc1b1","f28e5c15146a","9fd732c35ad3","a754914e029e",
-             "4de082e0a547","6225354ce65f","a967c2af7bb6","31cfe0807231","de591bc31c94","8be26879a40d","9f5969b96917","c10884063354","49f02487967e","83da83063aad"]
+             "4de082e0a547","6225354ce65f","a967c2af7bb6","31cfe0807231","de591bc31c94","8be26879a40d","9f5969b96917","c10884063354","49f02487967e","83da83063aad",
+             "e989b877f979"]
 
 
 
@@ -133,7 +134,7 @@ f90bb82505 = nelson (doowen)
 811060718e = razpdr
 a34ede050a = morganj23
 0c96c8176cc5 = hoilch
-bb17567ea0 = gold3nb0i
+e989b877f979 = gold3nb0i
 cd591db0ae = auburnsprings
 70350bfd0594 = david
 2730fe07c6 = beanboifresh
