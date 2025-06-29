@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710E|== \n 
+==|0002710A|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -41,7 +41,7 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "67f0e3df0297","6e2877292a2c","253e0730a52e","59814b7991dd","d124ec0d35f4","f7eb05aa7621","df112dffff14","7d3a76b1c4ce","676544bb325e","34d933a5ee67",
              "6436e69d0ed4","4739e0169158","680363e23cca","bbe2001e9659","08bb86dd2f0d","19f8d8d8a18f","bd8e021fc1b1","f28e5c15146a","9fd732c35ad3","a754914e029e",
              "4de082e0a547","6225354ce65f","a967c2af7bb6","31cfe0807231","de591bc31c94","8be26879a40d","9f5969b96917","c10884063354","49f02487967e","83da83063aad",
-             "e989b877f979","854d2b1fe1e8","cc6c880179aa"]
+             "e989b877f979","854d2b1fe1e8","cc6c880179aa","86d0fe2b5751"]
 
 
 
@@ -204,7 +204,7 @@ cd8a7233c515 = Don - oranjelly
 ccda0f3c76 = Articvb
 1433e3fbf0 = Articvb 2
 eb8bd8caffb6 = unloadammo Private Marx
-7da945130a = Alcatraz 
+86d0fe2b5751 = Alcatraz 
 a9dccb506c93 = Kilmanagh
 c155f9c7d4 = dokyun
 d2e264842a = colebear
