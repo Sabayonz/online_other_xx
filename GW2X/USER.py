@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710P|== \n 
+==|0002710K|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -31,7 +31,7 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "88bf59952163","7bedc41ad5b6","1303cfb17242","61725d1efcd0","4879801bc9b0","70350bfd0594","93e18dc68b7a","5711b4d1d871","465c5182bbf9","6839045e57b0",
              "eb8bd8caffb6","5f31c09861b8","2a5e38a33dcd","ef8a3d3a8e90","eb2099e2bb81","14dd987aade2","8e07e13880d9","a7d217159b3e","ce63e03d4633","9dfdb9eb4b2b",
              "fffee4468210","da91f16e0273","544cacde2182","0fe30d9aefb7","e73f19de755e","38fa8ee4da23","a9dccb506c93","0c7b7b294bfd","73596a0d1b4b","407deca13712",
-             "1dd34f147241","42ef9433ab99","c20af37ca609","0aa927848ddd","18c7ca4613c5","8cb166d967ba","44ccb763a00e","19235935724e","b3f9d10fbe34","13c41aaca2e2",
+             "1dd34f147241","42ef9433ab99","c20af37ca609","0aa927848ddd","c82ceb50462f","8cb166d967ba","44ccb763a00e","19235935724e","b3f9d10fbe34","13c41aaca2e2",
              "0f74bb9974c3","57e691655447","7fc15567bdc7","9d6ba27c6635","93df54d5a4f0","7f26bc6604d2","6856f2dfdcc8","e004897274f4","58f6bf6ed1db","900325a0ab1f",
              "454b4ed7edfc","d5dd3238f660","390ced62abc5","4b08dcbfe5bb","df89456614f2","51507ffd6521","dca64f35a2a7","b53fe1c7db73","ca2787da7075","f26ad47ac5e6",
              "79ff43aa4fa8","0c96c8176cc5","f22096dc6a42","c58ae07ba84c","74495f9e6b24","fc33b84d26a9","b683298fe41d","02ffe4a90862","818570036568","a35329a359dc",
@@ -41,7 +41,7 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "67f0e3df0297","6e2877292a2c","253e0730a52e","59814b7991dd","d124ec0d35f4","f7eb05aa7621","df112dffff14","7d3a76b1c4ce","676544bb325e","34d933a5ee67",
              "6436e69d0ed4","4739e0169158","680363e23cca","bbe2001e9659","08bb86dd2f0d","19f8d8d8a18f","bd8e021fc1b1","f28e5c15146a","9fd732c35ad3","a754914e029e",
              "4de082e0a547","6225354ce65f","a967c2af7bb6","31cfe0807231","de591bc31c94","8be26879a40d","9f5969b96917","c10884063354","49f02487967e","83da83063aad",
-             "e989b877f979","854d2b1fe1e8","cc6c880179aa","86d0fe2b5751","1c115b3df591","e0620500eb2c","340df85b1842","9a4b4ccd9a86","86750e7fad6b"]
+             "e989b877f979","854d2b1fe1e8","cc6c880179aa","86d0fe2b5751","1c115b3df591","e0620500eb2c","340df85b1842","9a4b4ccd9a86","86750e7fad6b","3f4533773c51"]
 
 
 
@@ -152,7 +152,7 @@ f22096dc6a42 = skullylol
 0c7b7b294bfd = oddphantomhayden
 bd9f2ddb16 = Guerini
 df0bb99b35 = xChasseur
-18c7ca4613c5 = Corvo (liarliarpunsonfyre)
+c82ceb50462f = Corvo (liarliarpunsonfyre)
 5af3d5acf8 = RedSkyMessenger
 5fef652218 = Adam AC
 d28f134389 = temporary trial (removed)
@@ -161,7 +161,7 @@ ce63e03d4633 = MechFan ihateusingdisc yepdontcar
 0c28dc0eb4 = MMoaddict
 c0d43a2075 = Gumagan
 64e0c9c9d9 = Father Kofo
-386423dc44 = Kinnikuman
+3f4533773c51 = Kinnikuman
 b8519516f4 = Greenhaus
 596851a385 = Avadon
 6225354ce65f = Assassin
