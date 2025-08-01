@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710T|== \n 
+==|0002710L|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -42,7 +42,7 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "6436e69d0ed4","4739e0169158","680363e23cca","bbe2001e9659","08bb86dd2f0d","19f8d8d8a18f","bd8e021fc1b1","f28e5c15146a","9fd732c35ad3","a754914e029e",
              "4de082e0a547","6225354ce65f","a967c2af7bb6","31cfe0807231","de591bc31c94","8be26879a40d","9f5969b96917","c10884063354","49f02487967e","83da83063aad",
              "e989b877f979","854d2b1fe1e8","cc6c880179aa","86d0fe2b5751","1c115b3df591","e0620500eb2c","340df85b1842","9a4b4ccd9a86","86750e7fad6b","3f4533773c51",
-             "8dd2e0be4516","19c6e8b88e7e","346a7c873716","7881c084bdf9"]
+             "8dd2e0be4516","19c6e8b88e7e","346a7c873716","7881c084bdf9","68ca0d53b9e1","6bc8e84aba67"]
 
 
 
@@ -239,8 +239,8 @@ f151b202dc = No62NoExit
 91549412a3 = No62NoExit 3 (off, waiting new pc)
 3afeaf99ff = No62NoExit 4 
 7d3a76b1c4ce = Lucas--MileFantazy
-8e3d14b258 = Lucas--MileFantazy 2
-e00dddf217 = Lucas--MileFantazy 3
+68ca0d53b9e1 = Lucas--MileFantazy 2
+6bc8e84aba67 = Lucas--MileFantazy 3
 ca02c15aa2 = Taldor
 171ad776bc = akull123456
 1ff58644c8 = TheHacker old off
