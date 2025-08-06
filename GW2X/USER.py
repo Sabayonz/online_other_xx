@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710C|== \n 
+==|0002710F|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -28,7 +28,7 @@ thanks for your support !!!
 #=============
 
 uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4dd66e5b7","defea4bf199a","7f2667bc6dfc","cd8a7233c515","28d007b687d5","6f45e22ec708",
-             "88bf59952163","7bedc41ad5b6","1303cfb17242","61725d1efcd0","4879801bc9b0","70350bfd0594","93e18dc68b7a","5711b4d1d871","465c5182bbf9","6839045e57b0",
+             "88bf59952163","7bedc41ad5b6","1303cfb17242","61725d1efcd0","4879801bc9b0","70350bfd0594","93e18dc68b7a","5711b4d1d871","26776c09655e","6839045e57b0",
              "eb8bd8caffb6","5f31c09861b8","2a5e38a33dcd","ef8a3d3a8e90","eb2099e2bb81","14dd987aade2","8e07e13880d9","a7d217159b3e","ce63e03d4633","9dfdb9eb4b2b",
              "f7727cd2a815","da91f16e0273","544cacde2182","0fe30d9aefb7","e73f19de755e","38fa8ee4da23","a9dccb506c93","3f3e4bf4774e","73596a0d1b4b","407deca13712",
              "1dd34f147241","42ef9433ab99","c20af37ca609","0aa927848ddd","c82ceb50462f","8cb166d967ba","44ccb763a00e","19235935724e","b3f9d10fbe34","05f675767115",
@@ -263,8 +263,8 @@ b679c63915 = Luxz
 86750e7fad6b = Freq
 e53d258881 = Villain
 75a4159f86 = SquishyPoo1870
-465c5182bbf9 = FRTZ
-5711b4d1d871 = FRTZ 2
+26776c09655e = FRTZ
+5711b4d1d871 = FRTZ 2 vm
 01035bf5b7 = Akemi
 15bb9bdd383e = Robsie
 8dd2e0be4516 = J4XXXOR
