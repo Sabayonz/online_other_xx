@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710T|== \n 
+==|0002710L|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -43,7 +43,7 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "4de082e0a547","6225354ce65f","a967c2af7bb6","31cfe0807231","de591bc31c94","8be26879a40d","9f5969b96917","c10884063354","49f02487967e","83da83063aad",
              "e989b877f979","854d2b1fe1e8","cc6c880179aa","86d0fe2b5751","1c115b3df591","e0620500eb2c","340df85b1842","9a4b4ccd9a86","86750e7fad6b","3f4533773c51",
              "8dd2e0be4516","19c6e8b88e7e","346a7c873716","7881c084bdf9","68ca0d53b9e1","6bc8e84aba67","963b49b26d3d","280e48064854","62bc6826ebaf","92f494b5a939",
-             "de50d40e5e63"]
+             "de50d40e5e63","310bfa64c73b"]
 
 
 
@@ -245,6 +245,7 @@ f151b202dc = No62NoExit
 7d3a76b1c4ce = Lucas--MileFantazy
 68ca0d53b9e1 = Lucas--MileFantazy 2
 6bc8e84aba67 = Lucas--MileFantazy 3
+310bfa64c73b = Lucas--MileFantazy 4
 ca02c15aa2 = Taldor
 171ad776bc = akull123456
 1ff58644c8 = TheHacker old off
