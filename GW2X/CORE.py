@@ -8,7 +8,7 @@ xxxx7 = 0x158D7AD
 xxxx8 = 0x25076D0
 xxxx9 = 0x284FC94
 xxxx10 = 30000
-xxxx11 = 0x0285C830
+xxxx11 = 0x0285C820
 xxxx12 = 0x0262AF00
 xxxx13 = 0xA4F13C
 xxxx14 = 0xA4F133
@@ -22,7 +22,7 @@ xxxx21 = 0x3AE997
 xxxx22 = 0x3AEB8A
 xxxx23 = 0x9567BD
 xxxx24 = 0x0
-xxxx25 = 0x02850D78
+xxxx25 = 0x02850D68
 
 
 #################
