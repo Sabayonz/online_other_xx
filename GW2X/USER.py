@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710C|== \n 
+==|0002710S|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -18,7 +18,7 @@ KK, HF, MF, JN, PP, HZ, KJ, RN, GV, CT, CM, HJ, GK, DM, FL, MG, RB,
 BL, SN, DW, MM, GG, IC, RH, KW, SG, VR, AX, TX, MT, SW, RC, TK, AR,
 YK, BS, JD, CR, VL, RC, RO, SJ, HA, WT, LO, EV, SO, HC, QR, KJ, TR,
 FH, JD, FP, AJ, TR, MM, BN, EU, MZ, TR, BB, AF, RD, MD, KT, AR, OG,
-SF, TB, IZ, CB \n
+SF, TB, IZ, CB, IC \n
 ============================\n
 
 GW2X Exist and maintained since April 2023\nconsider donating to keep this project alive\nNO SUBSCRIBTION REQUIRED\n
@@ -45,12 +45,13 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "e989b877f979","854d2b1fe1e8","cc6c880179aa","86d0fe2b5751","1c115b3df591","e0620500eb2c","340df85b1842","9a4b4ccd9a86","86750e7fad6b","3f4533773c51",
              "8dd2e0be4516","19c6e8b88e7e","346a7c873716","7881c084bdf9","68ca0d53b9e1","6bc8e84aba67","963b49b26d3d","280e48064854","62bc6826ebaf","92f494b5a939",
              "de50d40e5e63","310bfa64c73b","8cadb5116a5f","f3da2ff2a3fa","5175c0d7d08c","f1df154f021f","c55bc3a6e78b","ac80cf35fa6e","c906460e1514","5bdf083e645e",
-             "14d2f4cedfa7","5a2ccabc5781","f132a87d201f","f8a28c962ced"]
+             "14d2f4cedfa7","5a2ccabc5781","f132a87d201f","f8a28c962ced","9ba82abc0996"]
 
 
 
 
 ''' 
+9ba82abc0996 = icosite
 f8a28c962ced = coffeeblack
 14d2f4cedfa7 = izzy
 5bdf083e645e = aHamSandwich terdboy
