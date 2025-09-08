@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710T|== \n 
+==|0002710M|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -39,12 +39,12 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "282208cc20f8","d5f8596da991","f9414e357b64","7dced862b43b","b65512c57141","05783f867ba3","652c79d5e8c2","575d468d903b","a1d2f539858a","c6a2035dd0a2",
              "8b7ccd302fc3","7fd9ce29b273","15bb9bdd383e","ae26cf86bc82","97f6628d0558","14da12a731bc","7e1404419444","47aa491dc988","b562d76f1419","2fb67367b2f3",
              "1da1095b530a","88184c0305ec","020ee934e806","3df932ca2794","d39882a5d11b","103b75ddae0d","5011e1070865","157519e0ec0d","01c394ddda5d","00d41dd5a3c6",
-             "67f0e3df0297","6e2877292a2c","253e0730a52e","9a9309d6141c","d124ec0d35f4","f7eb05aa7621","df112dffff14","fc2c7ebc512a","676544bb325e","34d933a5ee67",
+             "67f0e3df0297","6e2877292a2c","253e0730a52e","9a9309d6141c","d124ec0d35f4","f7eb05aa7621","df112dffff14","05380c3e4512","676544bb325e","34d933a5ee67",
              "9951297748fa","4739e0169158","680363e23cca","bbe2001e9659","08bb86dd2f0d","19f8d8d8a18f","5b0996bd3ba1","f28e5c15146a","9fd732c35ad3","a754914e029e",
              "afac1a4db7c1","6225354ce65f","a967c2af7bb6","31cfe0807231","de591bc31c94","8be26879a40d","9f5969b96917","f38c76e8c783","49f02487967e","83da83063aad",
              "e989b877f979","854d2b1fe1e8","cc6c880179aa","86d0fe2b5751","1c115b3df591","e0620500eb2c","340df85b1842","9a4b4ccd9a86","86750e7fad6b","3f4533773c51",
-             "8dd2e0be4516","19c6e8b88e7e","346a7c873716","7881c084bdf9","e6e12e3f7580","dbe62826154c","963b49b26d3d","280e48064854","62bc6826ebaf","92f494b5a939",
-             "de50d40e5e63","142a7c30407f","8cadb5116a5f","f3da2ff2a3fa","5175c0d7d08c","f1df154f021f","c55bc3a6e78b","484899890ac3","c906460e1514","5bdf083e645e",
+             "8dd2e0be4516","19c6e8b88e7e","346a7c873716","7881c084bdf9","e7454b35a57a","ed9f842dd9af","963b49b26d3d","280e48064854","62bc6826ebaf","92f494b5a939",
+             "de50d40e5e63","fc2c7ebc512a","8cadb5116a5f","f3da2ff2a3fa","5175c0d7d08c","f1df154f021f","c55bc3a6e78b","484899890ac3","c906460e1514","5bdf083e645e",
              "14d2f4cedfa7","5a2ccabc5781","f132a87d201f","330a591f58d1","9ba82abc0996","829c3c3f04f0","59b94d9ec5c0"]
 
 
@@ -255,10 +255,10 @@ c178ab4972 = No62NoExit 2 laptop
 f151b202dc = No62NoExit
 91549412a3 = No62NoExit 3 (off, waiting new pc)
 3afeaf99ff = No62NoExit 4 
-fc2c7ebc512a = Lucas--MileFantazy
-e6e12e3f7580 = Lucas--MileFantazy 2
-dbe62826154c = Lucas--MileFantazy 3
-142a7c30407f = Lucas--MileFantazy 4
+05380c3e4512 = Lucas--MileFantazy
+e7454b35a57a = Lucas--MileFantazy 2
+ed9f842dd9af = Lucas--MileFantazy 3
+fc2c7ebc512a = Lucas--MileFantazy 4
 ca02c15aa2 = Taldor
 171ad776bc = akull123456
 1ff58644c8 = TheHacker old off
