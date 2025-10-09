@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710S|== \n 
+==|0002710M|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -45,7 +45,8 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "e989b877f979","854d2b1fe1e8","cc6c880179aa","86d0fe2b5751","1c115b3df591","e0620500eb2c","340df85b1842","9a4b4ccd9a86","86750e7fad6b","3f4533773c51",
              "8dd2e0be4516","19c6e8b88e7e","346a7c873716","7881c084bdf9","e7454b35a57a","ed9f842dd9af","963b49b26d3d","280e48064854","62bc6826ebaf","92f494b5a939",
              "de50d40e5e63","fc2c7ebc512a","8cadb5116a5f","f3da2ff2a3fa","5175c0d7d08c","f1df154f021f","c55bc3a6e78b","484899890ac3","8f3e1fbdebfa","5bdf083e645e",
-             "14d2f4cedfa7","5a2ccabc5781","f132a87d201f","330a591f58d1","9ba82abc0996","829c3c3f04f0","59b94d9ec5c0","c5cf494703d9","b3208fd1ed5e","c50ea8e865f4"]
+             "14d2f4cedfa7","5a2ccabc5781","f132a87d201f","330a591f58d1","9ba82abc0996","829c3c3f04f0","59b94d9ec5c0","c5cf494703d9","b3208fd1ed5e","c50ea8e865f4",
+             "775c2624472a"]
 
 
 
@@ -240,7 +241,7 @@ fec12d3dfe = xtraRice
 1f484708ec = Cekko
 57e691655447 = RenjaHB
 40dc55a18b = FamousFarrow
-2402f332f3 = Morticus
+775c2624472a = Morticus
 4b49224938 = Sam Silva
 d124ec0d35f4 = Tiger
 1af7f3316f = sasquash
