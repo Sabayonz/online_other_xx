@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710M|== \n 
+==|0002710S|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -47,12 +47,13 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "de50d40e5e63","fc2c7ebc512a","8cadb5116a5f","f3da2ff2a3fa","5175c0d7d08c","f1df154f021f","c55bc3a6e78b","484899890ac3","8f3e1fbdebfa","5bdf083e645e",
              "14d2f4cedfa7","5a2ccabc5781","f132a87d201f","330a591f58d1","9ba82abc0996","829c3c3f04f0","59b94d9ec5c0","c5cf494703d9","b3208fd1ed5e","c50ea8e865f4",
              "775c2624472a","10c2cca5a446","282846dd5496","227324d8b727","bad63eff9b32","8f85ac8ec363","247f603e1846","999fb0e0c370","dc18c079e791","5cc93e04139f",
-             "edca8d7b030d"]
+             "edca8d7b030d","243b61b67574"]
 
 
 
 
 ''' 
+243b61b67574 = stelacia
 edca8d7b030d = midnighx
 247f603e1846 = toverla
 8f85ac8ec363 = runningslowly sohey
