@@ -32,7 +32,7 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "88bf59952163","7bedc41ad5b6","1303cfb17242","61725d1efcd0","4879801bc9b0","70350bfd0594","410f7e68ce7c","5711b4d1d871","26776c09655e","6839045e57b0",
              "eb8bd8caffb6","e195c193612b","2a5e38a33dcd","be281bf3a788","eb2099e2bb81","14dd987aade2","8e07e13880d9","a7d217159b3e","ce63e03d4633","9dfdb9eb4b2b",
              "f7727cd2a815","da91f16e0273","544cacde2182","0fe30d9aefb7","2f407a8c87fc","38fa8ee4da23","a9dccb506c93","3f3e4bf4774e","73596a0d1b4b","407deca13712",
-             "1dd34f147241","42ef9433ab99","c20af37ca609","0aa927848ddd","c82ceb50462f","8cb166d967ba","44ccb763a00e","19235935724e","cac006aac84f","4e1f99da8f0e",
+             "1dd34f147241","688b9ce0efc9","c20af37ca609","0aa927848ddd","c82ceb50462f","8cb166d967ba","44ccb763a00e","19235935724e","cac006aac84f","4e1f99da8f0e",
              "0f74bb9974c3","57e691655447","7fc15567bdc7","9d6ba27c6635","93df54d5a4f0","3d62670a8bed","6856f2dfdcc8","e004897274f4","58f6bf6ed1db","900325a0ab1f",
              "cc7c18ac710c","d5dd3238f660","390ced62abc5","4b08dcbfe5bb","b14583af4be7","51507ffd6521","dca64f35a2a7","b53fe1c7db73","ca2787da7075","e0b9ceb8485f",
              "79ff43aa4fa8","d5935edeac66","ecc461b62d57","c58ae07ba84c","74495f9e6b24","fc33b84d26a9","b683298fe41d","02ffe4a90862","f8a28c962ced","a35329a359dc",
@@ -332,7 +332,7 @@ b275bc6551 = don't mind me 2
 74495f9e6b24 = morbiddarkblood
 cf80d1275b = NtajHmoob
 544cacde2182 = nemesis
-42ef9433ab99 = Nemesiss 2
+688b9ce0efc9 = Nemesiss 2 laptop
 3678bde5e3 = intel_power
 2fda4ec1b0 = kowa ( GIVE ACCOUNT TO Robbes )
 93df54d5a4f0 = Robbes
