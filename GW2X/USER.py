@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710J|== \n 
+==|0002710K|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -46,7 +46,7 @@ uuid_saved = ["295fa0f2ba7f","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "8dd2e0be4516","19c6e8b88e7e","346a7c873716","7881c084bdf9","e7454b35a57a","ed9f842dd9af","963b49b26d3d","280e48064854","62bc6826ebaf","92f494b5a939",
              "de50d40e5e63","fc2c7ebc512a","8cadb5116a5f","f3da2ff2a3fa","5175c0d7d08c","f1df154f021f","c55bc3a6e78b","484899890ac3","8f3e1fbdebfa","5bdf083e645e",
              "14d2f4cedfa7","5a2ccabc5781","f132a87d201f","330a591f58d1","9ba82abc0996","829c3c3f04f0","59b94d9ec5c0","c5cf494703d9","b3208fd1ed5e","c50ea8e865f4",
-             "775c2624472a","10c2cca5a446","282846dd5496","227324d8b727","bad63eff9b32","8f85ac8ec363","247f603e1846","999fb0e0c370","dc18c079e791","5cc93e04139f",
+             "775c2624472a","d640589847b7","282846dd5496","227324d8b727","bad63eff9b32","8f85ac8ec363","247f603e1846","999fb0e0c370","dc18c079e791","5cc93e04139f",
              "edca8d7b030d","243b61b67574","d4d2b6721bb1","5ff9c2a596c1"]
 
 
@@ -60,7 +60,7 @@ edca8d7b030d = midnighx
 bad63eff9b32 = xerev
 227324d8b727 = arielau
 282846dd5496 = Zinc wakimme
-10c2cca5a446 = iakovillas JACKYS
+d640589847b7 = iakovillas JACKYS
 5ff9c2a596c1 = iakovillas JACKYS 2
 c50ea8e865f4 = Hashi Zilent
 b3208fd1ed5e = rain0500
