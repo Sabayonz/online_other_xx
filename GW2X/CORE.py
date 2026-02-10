@@ -1,29 +1,28 @@
 xxxx1 = 0x02608A20
-xxxx2 = 0x1202750
-xxxx3 = 0x1415AFB
-xxxx4 = 0x1211F46
-xxxx5 = 0x1415B04
-xxxx6 = 0x15A52E9
-xxxx7 = 0x15A52ED
+xxxx2 = 0x1202770
+xxxx3 = 0x1415BAB
+xxxx4 = 0x1211F66
+xxxx5 = 0x1415BB4
+xxxx6 = 0x15A5399
+xxxx7 = 0x15A539D
 xxxx8 = 0x24F46D0
-xxxx9 = 0x283D8EC
+xxxx9 = 0x283D8f4
 xxxx10 = 30000
-xxxx11 = 0x0284A900
+xxxx11 = 0x0284A8F0
 xxxx12 = 0x02618400
-xxxx13 = 0xA5966C
-xxxx14 = 0xA59663
+xxxx13 = 0xA5968C
+xxxx14 = 0xA59683
 xxxx15 = 0x39D4CA
 xxxx16 = 0x3B0593
 xxxx17 = 0x3AD557
 xxxx18 = 0x3AF635
-xxxx19 = 0x14FE3F6
-xxxx20 = 0x95DBC2
+xxxx19 = 0x14FE4A6
+xxxx20 = 0x95DBE2
 xxxx21 = 0x3B0F17
 xxxx22 = 0x3B110A
-xxxx23 = 0x95D94D
+xxxx23 = 0x95D96D
 xxxx24 = 0x0
-xxxx25 = 0x0283E9D8
-
+xxxx25 = 0x283E9C8
 
 #################
 zzzz1 = 8493291127782557243
@@ -191,7 +190,7 @@ zzzz40 = 997572741
 
 
 
-core_update = "Core: Feb_06_2026"
+core_update = "Core: Feb_10_2026"
 LWS4_EOD_AND_SOTO_MAP_LIST = [1226, 1248, 1526, 1517, 1509, 1510, 1371, 1015, 1317, 1428, 1422, 1490, 1438, 1442, 1452, 1550, 1554]
 pvp_pve_map = [350, 549, 1305, 1171, 554, 795, 1163, 900, 894, 875, 95, 96, 1099, 38, 899]
 versionnow = "1.0.0.1"
