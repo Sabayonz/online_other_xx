@@ -6,9 +6,9 @@ xxxx5 = 0x1415BB4
 xxxx6 = 0x15A5399
 xxxx7 = 0x15A539D
 xxxx8 = 0x24F46D0
-xxxx9 = 0x283D8f4
+xxxx9 = 0x283D8EC
 xxxx10 = 30000
-xxxx11 = 0x0284A8F0
+xxxx11 = 0x0284A900
 xxxx12 = 0x02618400
 xxxx13 = 0xA5968C
 xxxx14 = 0xA59683
@@ -22,7 +22,7 @@ xxxx21 = 0x3B0F17
 xxxx22 = 0x3B110A
 xxxx23 = 0x95D96D
 xxxx24 = 0x0
-xxxx25 = 0x283E9C8
+xxxx25 = 0x0283E9D8
 
 #################
 zzzz1 = 8493291127782557243
