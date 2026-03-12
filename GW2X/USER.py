@@ -1,6 +1,6 @@
 
 donator = """
-==|0002710R|== \n 
+==|0002710D|== \n 
 LEGENDARY COMMANDER : \n
 -K W, -I P, -H W, D M M \n
 \n\n
@@ -48,7 +48,7 @@ uuid_saved = ["e666a5b6610e","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "14d2f4cedfa7","5a2ccabc5781","f132a87d201f","330a591f58d1","9ba82abc0996","829c3c3f04f0","59b94d9ec5c0","c5cf494703d9","b3208fd1ed5e","c50ea8e865f4",
              "775c2624472a","d640589847b7","282846dd5496","227324d8b727","bad63eff9b32","8f85ac8ec363","247f603e1846","999fb0e0c370","dc18c079e791","5cc93e04139f",
              "dce2671d7595","243b61b67574","d4d2b6721bb1","5ff9c2a596c1","3e31cc5d03ea","e8057f29a7cc","3120fc1e12f0","58d6ecd0b2ed","496dad68ca1e","76d03a8944f5",
-             "97bcf76d245a"]
+             "97bcf76d245a","a341444bfbd8"]
 
 
 
@@ -223,7 +223,7 @@ f334e9a3ac = Dr Murphy Richard
 e640683c72 = Matt77 (World Explorer)
 346a7c873716 = Kil
 18976cdcf1 = neo14a
-2d3300c56b = Doople
+a341444bfbd8 = Doople
 2d8c04efd3 = Doople 2
 7e01fb6c55 = TUX1337
 43fa2d48b16d = Knallgurke 2 laptop
