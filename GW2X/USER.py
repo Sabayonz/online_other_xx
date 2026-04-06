@@ -37,12 +37,12 @@ uuid_saved = ["e666a5b6610e","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "2a185766f3bf","7b6a89a62692","390ced62abc5","4b08dcbfe5bb","b64ef812344a","51507ffd6521","dca64f35a2a7","b53fe1c7db73","ae03971d5951","e0b9ceb8485f",
              "79ff43aa4fa8","d5935edeac66","ecc461b62d57","c58ae07ba84c","74495f9e6b24","fc33b84d26a9","b683298fe41d","02ffe4a90862","6a7c5f6cd0f6","a35329a359dc",
              "282208cc20f8","d5f8596da991","f9414e357b64","5b370cab1e0a","b65512c57141","bc6d7b39acf8","415fe7093e11","575d468d903b","a1d2f539858a","d895b9f2c212",
-             "8b7ccd302fc3","7fd9ce29b273","6c054fd2df08","b6cdedb0c3e5","97f6628d0558","8cb11ed67d1b","44eb8464f568","47aa491dc988","b562d76f1419","2fb67367b2f3",
+             "8b7ccd302fc3","7fd9ce29b273","6c054fd2df08","b6cdedb0c3e5","97f6628d0558","8cb11ed67d1b","e870242ee57b","47aa491dc988","b562d76f1419","2fb67367b2f3",
              "c3db8b39f336","bc7c843c21ec","020ee934e806","3df932ca2794","d39882a5d11b","103b75ddae0d","5011e1070865","157519e0ec0d","c01a2c09de71","e7999a368a3c",
              "67f0e3df0297","6e2877292a2c","253e0730a52e","9a9309d6141c","d124ec0d35f4","f7eb05aa7621","df112dffff14","05380c3e4512","676544bb325e","34d933a5ee67",
              "ead954d2a5ce","4739e0169158","0286e33049a8","bbe2001e9659","701b067b9dd7","19f8d8d8a18f","5b0996bd3ba1","f28e5c15146a","9fd732c35ad3","a754914e029e",
              "5d47ee16c526","6225354ce65f","a967c2af7bb6","31cfe0807231","de591bc31c94","8be26879a40d","9f5969b96917","f38c76e8c783","8d41d5a29c41","83da83063aad",
-             "e989b877f979","854d2b1fe1e8","cc6c880179aa","86d0fe2b5751","1c115b3df591","e0620500eb2c","f86970295e19","9a4b4ccd9a86","040cf1312478","3f4533773c51",
+             "e989b877f979","854d2b1fe1e8","cc6c880179aa","86d0fe2b5751","f47323e85171","e0620500eb2c","f86970295e19","9a4b4ccd9a86","040cf1312478","3f4533773c51",
              "8dd2e0be4516","19c6e8b88e7e","346a7c873716","7881c084bdf9","e7454b35a57a","ed9f842dd9af","963b49b26d3d","280e48064854","62bc6826ebaf","92f494b5a939",
              "de50d40e5e63","fc2c7ebc512a","8cadb5116a5f","f3da2ff2a3fa","5175c0d7d08c","f1df154f021f","c55bc3a6e78b","484899890ac3","8f3e1fbdebfa","5bdf083e645e",
              "14d2f4cedfa7","5a2ccabc5781","f132a87d201f","330a591f58d1","9ba82abc0996","829c3c3f04f0","59b94d9ec5c0","c5cf494703d9","b3208fd1ed5e","c50ea8e865f4",
@@ -84,7 +84,7 @@ f3da2ff2a3fa = matsadura am Zidane
 de50d40e5e63 = trippy.jonas
 62bc6826ebaf = bloodhound1962
 7881c084bdf9 = Taru4759
-1c115b3df591 = megazord_64569
+f47323e85171 = megazord_64569
 cc6c880179aa = euan_27
 854d2b1fe1e8 = Benny justamain
 f38c76e8c783 = mamang tracks8912
@@ -112,7 +112,7 @@ c01a2c09de71 = volos
 020ee934e806 = yukiochan
 c3db8b39f336 = anyrouz
 2fb67367b2f3 = turkushan
-44eb8464f568 = richniomanes
+e870242ee57b = richniomanes
 8cb11ed67d1b = sweps4life
 d895b9f2c212 = leo pupin
 575d468d903b = yznyu
