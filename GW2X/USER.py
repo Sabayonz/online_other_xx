@@ -34,11 +34,11 @@ uuid_saved = ["e666a5b6610e","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "adbda1cb7b25","da91f16e0273","544cacde2182","0fe30d9aefb7","2f407a8c87fc","38fa8ee4da23","a9dccb506c93","3f3e4bf4774e","73596a0d1b4b","407deca13712",
              "1dd34f147241","688b9ce0efc9","c20af37ca609","0aa927848ddd","c82ceb50462f","8cb166d967ba","44ccb763a00e","19235935724e","cac006aac84f","4e1f99da8f0e",
              "0f74bb9974c3","57e691655447","7fc15567bdc7","9d6ba27c6635","972857b6201b","3d62670a8bed","6856f2dfdcc8","e004897274f4","58f6bf6ed1db","900325a0ab1f",
-             "2a185766f3bf","8906dba77303","390ced62abc5","4b08dcbfe5bb","9d8b320aed2c","51507ffd6521","dca64f35a2a7","b53fe1c7db73","ae03971d5951","e0b9ceb8485f",
+             "2a185766f3bf","8906dba77303","390ced62abc5","4b08dcbfe5bb","b4cdfced9619","51507ffd6521","dca64f35a2a7","b53fe1c7db73","ae03971d5951","e0b9ceb8485f",
              "79ff43aa4fa8","d5935edeac66","ecc461b62d57","c58ae07ba84c","74495f9e6b24","fc33b84d26a9","b683298fe41d","02ffe4a90862","6a7c5f6cd0f6","a35329a359dc",
              "282208cc20f8","d5f8596da991","f9414e357b64","5b370cab1e0a","b65512c57141","bc6d7b39acf8","415fe7093e11","575d468d903b","a1d2f539858a","d895b9f2c212",
              "8b7ccd302fc3","7fd9ce29b273","6c054fd2df08","b6cdedb0c3e5","97f6628d0558","bb7db7542533","e870242ee57b","47aa491dc988","b562d76f1419","2fb67367b2f3",
-             "c3db8b39f336","bc7c843c21ec","020ee934e806","3df932ca2794","d39882a5d11b","103b75ddae0d","5011e1070865","157519e0ec0d","c01a2c09de71","e7999a368a3c",
+             "c3db8b39f336","bc7c843c21ec","020ee934e806","3df932ca2794","d39882a5d11b","103b75ddae0d","5011e1070865","157519e0ec0d","c01a2c09de71","099c9631b71d",
              "67f0e3df0297","6e2877292a2c","253e0730a52e","9a9309d6141c","d124ec0d35f4","f7eb05aa7621","df112dffff14","05380c3e4512","676544bb325e","34d933a5ee67",
              "ead954d2a5ce","4739e0169158","0286e33049a8","bbe2001e9659","701b067b9dd7","19f8d8d8a18f","5b0996bd3ba1","f28e5c15146a","9fd732c35ad3","a754914e029e",
              "5d47ee16c526","6225354ce65f","a967c2af7bb6","31cfe0807231","de591bc31c94","8be26879a40d","9f5969b96917","f38c76e8c783","8d41d5a29c41","83da83063aad",
@@ -105,7 +105,7 @@ f7eb05aa7621 = lolbugs None
 253e0730a52e = hayven gruenerkodo
 6e2877292a2c = sojiken wendys
 67f0e3df0297 = rook
-e7999a368a3c = rchompz
+099c9631b71d = rchompz
 c01a2c09de71 = volos
 157519e0ec0d = coussiraty
 103b75ddae0d = JordGPT uruk.guy
@@ -229,7 +229,7 @@ a341444bfbd8 = Doople
 2d8c04efd3 = Doople 2
 7e01fb6c55 = TUX1337
 8906dba77303 = Knallgurke 2 laptop
-9d8b320aed2c = Knallgurke pc
+b4cdfced9619 = Knallgurke pc
 fc5966ec43 = Critias
 2f407a8c87fc = TSAO
 0d0f19b7a1 = TSAO 2
