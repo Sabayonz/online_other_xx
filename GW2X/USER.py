@@ -30,7 +30,7 @@ thanks for your support !!!
 
 uuid_saved = ["e666a5b6610e","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4dd66e5b7","defea4bf199a","7f2667bc6dfc","cd8a7233c515","28d007b687d5","6f45e22ec708",
              "88bf59952163","7bedc41ad5b6","1303cfb17242","61725d1efcd0","4879801bc9b0","70350bfd0594","410f7e68ce7c","718ceed60a68","26776c09655e","6839045e57b0",
-             "eb8bd8caffb6","e195c193612b","2a5e38a33dcd","ef8a3d3a8e90","eb2099e2bb81","14dd987aade2","8e07e13880d9","a7d217159b3e","ce63e03d4633","9dfdb9eb4b2b",
+             "eb8bd8caffb6","e195c193612b","3deeab301246","ef8a3d3a8e90","eb2099e2bb81","14dd987aade2","8e07e13880d9","a7d217159b3e","ce63e03d4633","9dfdb9eb4b2b",
              "adbda1cb7b25","da91f16e0273","544cacde2182","0fe30d9aefb7","2f407a8c87fc","38fa8ee4da23","a9dccb506c93","3f3e4bf4774e","73596a0d1b4b","407deca13712",
              "1dd34f147241","688b9ce0efc9","c20af37ca609","0aa927848ddd","c82ceb50462f","8cb166d967ba","44ccb763a00e","19235935724e","cac006aac84f","4e1f99da8f0e",
              "0f74bb9974c3","57e691655447","7fc15567bdc7","9d6ba27c6635","972857b6201b","3d62670a8bed","6856f2dfdcc8","e004897274f4","58f6bf6ed1db","900325a0ab1f",
@@ -149,7 +149,7 @@ c58ae07ba84c = davggmane
 c5d83ec5fc2b = gokiburi8296
 d5d1d4a10d = hjjr78
 9fa1f56921b4 = clementming -
-2a5e38a33dcd = CraTzy
+3deeab301246 = CraTzy
 9dfdb9eb4b2b = GNGR_VKNG
 c86b80dc95f0 = Runnae (saekoslab)
 5d47ee16c526 = Kinjake
