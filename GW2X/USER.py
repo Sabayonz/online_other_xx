@@ -28,7 +28,7 @@ thanks for your support !!!
 #=============
 #=============
 
-uuid_saved = ["e666a5b6610e","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4dd66e5b7","defea4bf199a","7f2667bc6dfc","cd8a7233c515","28d007b687d5","6f45e22ec708",
+uuid_saved = ["e666a5b6610e","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4dd66e5b7","","7f2667bc6dfc","cd8a7233c515","28d007b687d5","6f45e22ec708",
              "88bf59952163","7bedc41ad5b6","1303cfb17242","61725d1efcd0","4879801bc9b0","70350bfd0594","410f7e68ce7c","718ceed60a68","26776c09655e","6839045e57b0",
              "eb8bd8caffb6","e195c193612b","3deeab301246","ef8a3d3a8e90","eb2099e2bb81","14dd987aade2","8e07e13880d9","a7d217159b3e","ce63e03d4633","9dfdb9eb4b2b",
              "adbda1cb7b25","da91f16e0273","544cacde2182","0fe30d9aefb7","2f407a8c87fc","38fa8ee4da23","a9dccb506c93","3f3e4bf4774e","73596a0d1b4b","407deca13712",
@@ -215,7 +215,7 @@ f7ee09dae4 = systemsoldier
 8dcc3f17ce = Isso
 5d4adcbfaf = Mercy
 496dad68ca1e = jasonyc YC
-defea4bf199a = Neorinakota
+bd6c8317593e = Neorinakota
 f86970295e19 = Mohki
 eb020857aa = Vincef
 9f5969b96917 = hibrick
