@@ -32,7 +32,7 @@ uuid_saved = ["e666a5b6610e","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "88bf59952163","7bedc41ad5b6","1303cfb17242","61725d1efcd0","4879801bc9b0","70350bfd0594","410f7e68ce7c","718ceed60a68","26776c09655e","6839045e57b0",
              "eb8bd8caffb6","e195c193612b","3deeab301246","ef8a3d3a8e90","6461026858ac","14dd987aade2","8e07e13880d9","a7d217159b3e","ce63e03d4633","9dfdb9eb4b2b",
              "adbda1cb7b25","da91f16e0273","544cacde2182","0fe30d9aefb7","2f407a8c87fc","38fa8ee4da23","a9dccb506c93","3f3e4bf4774e","73596a0d1b4b","407deca13712",
-             "1dd34f147241","688b9ce0efc9","c20af37ca609","0aa927848ddd","c82ceb50462f","8cb166d967ba","44ccb763a00e","19235935724e","cac006aac84f","4e1f99da8f0e",
+             "1dd34f147241","688b9ce0efc9","c20af37ca609","0aa927848ddd","e466585c14dc","8cb166d967ba","44ccb763a00e","19235935724e","cac006aac84f","4e1f99da8f0e",
              "0f74bb9974c3","57e691655447","7fc15567bdc7","9d6ba27c6635","972857b6201b","3d62670a8bed","6856f2dfdcc8","e004897274f4","58f6bf6ed1db","900325a0ab1f",
              "2a185766f3bf","fd26974179ad","390ced62abc5","4b08dcbfe5bb","9d3f92172fee","51507ffd6521","dca64f35a2a7","b53fe1c7db73","ae03971d5951","e0b9ceb8485f",
              "79ff43aa4fa8","d5935edeac66","5c9f5c32c601","c58ae07ba84c","74495f9e6b24","fc33b84d26a9","b683298fe41d","02ffe4a90862","6a7c5f6cd0f6","a35329a359dc",
@@ -191,7 +191,7 @@ e0a8f8edaa = scatterfrog
 3f3e4bf4774e = oddphantomhayden
 bd9f2ddb16 = Guerini
 df0bb99b35 = xChasseur
-c82ceb50462f = Corvo (liarliarpunsonfyre)
+e466585c14dc = Corvo (liarliarpunsonfyre)
 5af3d5acf8 = RedSkyMessenger
 5fef652218 = Adam AC
 d28f134389 = temporary trial (removed)
