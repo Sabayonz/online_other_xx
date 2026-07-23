@@ -6,9 +6,9 @@ xxxx5 = 0x1430954
 xxxx6 = 0x15C0AD9
 xxxx7 = 0x15C0ACD
 xxxx8 = 0x2559730
-xxxx9 = 0x28A38FC
+xxxx9 = 0x28A390C
 xxxx10 = 30000
-xxxx11 = 0x028B0A10
+xxxx11 = 0x028B0A00
 xxxx12 = 0x0267E190
 xxxx13 = 0xA6A5CC
 xxxx14 = 0xA6A5C3
@@ -22,7 +22,7 @@ xxxx21 = 0x3B1CD7
 xxxx22 = 0x3B1ECA
 xxxx23 = 0x96E88D
 xxxx24 = 0x0
-xxxx25 = 0x028A49F8
+xxxx25 = 0x028A49E8
 
 
 
