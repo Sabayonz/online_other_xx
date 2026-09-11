@@ -34,7 +34,7 @@ uuid_saved = ["e666a5b6610e","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "adbda1cb7b25","da91f16e0273","544cacde2182","0fe30d9aefb7","2f407a8c87fc","38fa8ee4da23","a9dccb506c93","3f3e4bf4774e","73596a0d1b4b","407deca13712",
              "1dd34f147241","688b9ce0efc9","c20af37ca609","0aa927848ddd","e466585c14dc","8cb166d967ba","44ccb763a00e","19235935724e","cac006aac84f","4e1f99da8f0e",
              "0f74bb9974c3","57e691655447","7fc15567bdc7","9d6ba27c6635","972857b6201b","3d62670a8bed","6856f2dfdcc8","e004897274f4","02212ecdac9e","900325a0ab1f",
-             "2a185766f3bf","d8df82530049","390ced62abc5","4b08dcbfe5bb","3b62c38e3910","51507ffd6521","dca64f35a2a7","b53fe1c7db73","ae03971d5951","e0b9ceb8485f",
+             "2a185766f3bf","d8df82530049","390ced62abc5","4b08dcbfe5bb","a71b5827f42a","51507ffd6521","dca64f35a2a7","b53fe1c7db73","ae03971d5951","e0b9ceb8485f",
              "79ff43aa4fa8","d5935edeac66","5c9f5c32c601","c58ae07ba84c","74495f9e6b24","fc33b84d26a9","b683298fe41d","02ffe4a90862","6a7c5f6cd0f6","a35329a359dc",
              "282208cc20f8","d5f8596da991","f9414e357b64","5b370cab1e0a","b65512c57141","bc6d7b39acf8","d91846b481b6","575d468d903b","a1d2f539858a","d895b9f2c212",
              "8b7ccd302fc3","7fd9ce29b273","6c054fd2df08","b6cdedb0c3e5","97f6628d0558","bb7db7542533","1969dee4581c","47aa491dc988","620a56a09159","2fb67367b2f3",
@@ -42,7 +42,7 @@ uuid_saved = ["e666a5b6610e","9fa1f56921b4","c5d83ec5fc2b","5584f72d04f7","bbe4d
              "67f0e3df0297","6e2877292a2c","253e0730a52e","9a9309d6141c","d124ec0d35f4","f7eb05aa7621","c86b80dc95f0","05380c3e4512","676544bb325e","34d933a5ee67",
              "ead954d2a5ce","4739e0169158","0286e33049a8","bbe2001e9659","701b067b9dd7","19f8d8d8a18f","aa27a57b415a","f28e5c15146a","9fd732c35ad3","a754914e029e",
              "5d47ee16c526","6225354ce65f","a967c2af7bb6","31cfe0807231","de591bc31c94","8be26879a40d","9f5969b96917","f38c76e8c783","8d41d5a29c41","83da83063aad",
-             "e989b877f979","854d2b1fe1e8","cc6c880179aa","86d0fe2b5751","f47323e85171","e0620500eb2c","f86970295e19","9a4b4ccd9a86","040cf1312478","3f4533773c51",
+             "dad694a70742","854d2b1fe1e8","4014f11a3031","86d0fe2b5751","f47323e85171","e0620500eb2c","f86970295e19","9a4b4ccd9a86","040cf1312478","3f4533773c51",
              "8dd2e0be4516","19c6e8b88e7e","346a7c873716","7881c084bdf9","e7454b35a57a","ed9f842dd9af","963b49b26d3d","280e48064854","62bc6826ebaf","92f494b5a939",
              "de50d40e5e63","fc2c7ebc512a","8cadb5116a5f","f3da2ff2a3fa","5175c0d7d08c","f1df154f021f","c55bc3a6e78b","484899890ac3","8f3e1fbdebfa","5bdf083e645e",
              "14d2f4cedfa7","5a2ccabc5781","f132a87d201f","330a591f58d1","9ba82abc0996","829c3c3f04f0","59b94d9ec5c0","c5cf494703d9","b3208fd1ed5e","c50ea8e865f4",
@@ -87,7 +87,7 @@ de50d40e5e63 = trippy.jonas
 62bc6826ebaf = bloodhound1962
 7881c084bdf9 = Taru4759
 f47323e85171 = megazord_64569
-cc6c880179aa = euan_27
+4014f11a3031 = euan_27
 854d2b1fe1e8 = Benny justamain
 f38c76e8c783 = mamang tracks8912
 8be26879a40d = tiranus84
@@ -176,7 +176,7 @@ d4d2b6721bb1 = nelson (doowen)
 f132a87d201f = razpdr
 5cc93e04139f = morganj23
 d5935edeac66 = hoilch
-e989b877f979 = gold3nb0i
+dad694a70742 = bigbacg
 cd591db0ae = auburnsprings
 70350bfd0594 = david
 5a2ccabc5781 = beanboifresh
@@ -230,7 +230,7 @@ a341444bfbd8 = Doople
 2d8c04efd3 = Doople 2
 7e01fb6c55 = TUX1337
 d8df82530049 = Knallgurke 2 laptop
-3b62c38e3910 = Knallgurke pc
+a71b5827f42a = Knallgurke pc
 fc5966ec43 = Critias
 2f407a8c87fc = TSAO
 0d0f19b7a1 = TSAO 2
